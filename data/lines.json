@@ -1,0 +1,836 @@
+[
+    {
+        "id": 452772,
+        "code": "01",
+        "name": "AIRPORT",
+        "color": "#787878",
+        "textColor": "#ffffff",
+        "borderColor": "#646464",
+        "routes": [
+            {
+                "id": 1506973,
+                "code": "0032",
+                "name": "HMU | HELLENIC MEDITERRANEAN UNIVERSITY-AIRPORT",
+                "direction": 2
+            },
+            {
+                "id": 1506983,
+                "code": "0932",
+                "name": "(?) - HERAKLION HOSPITAL (PAGNI)-UNIVERSITY OF CRETE AIRPORT",
+                "direction": 2
+            },
+            {
+                "id": 1507034,
+                "code": "30051",
+                "name": "GIOFIRO - AIRPORT",
+                "direction": 2
+            },
+            {
+                "id": 1507047,
+                "code": "31000",
+                "name": "ASATORIA - AIRPORT",
+                "direction": 2
+            },
+            {
+                "id": 1507019,
+                "code": "31009",
+                "name": "AMOUDARA - AIRPORT",
+                "direction": 2
+            },
+            {
+                "id": 1507028,
+                "code": "31015",
+                "name": "HERAKLION HOSPITAL (PAGNI) - AIRPORT",
+                "direction": 2
+            },
+            {
+                "id": 1507030,
+                "code": "31018",
+                "name": "HMU | HELLENIC MEDITERRANEAN UNIVERSITY -  AIRPORT",
+                "direction": 2
+            },
+            {
+                "id": 1507032,
+                "code": "31022",
+                "name": "FOINIKIA - AIRPORT",
+                "direction": 2
+            },
+            {
+                "id": 1507035,
+                "code": "31025",
+                "name": "IKA - ATHANATOUS - GOURNES - AIRPORT",
+                "direction": 2
+            },
+            {
+                "id": 1507036,
+                "code": "31026",
+                "name": "HMU | HELLENIC MEDITERRANEAN UNIVERSITY-GOURNES-ATHANATOI-HMU | HELLENIC MEDITERRANEAN UNIVERSITY-AIRPORT",
+                "direction": 2
+            },
+            {
+                "id": 1507053,
+                "code": "31029",
+                "name": "IKA - AIRPORT",
+                "direction": 2
+            },
+            {
+                "id": 1507025,
+                "code": "31033",
+                "name": "GAZI - AIRPORT",
+                "direction": 2
+            },
+            {
+                "id": 1507039,
+                "code": "31034",
+                "name": "KAVROXORI - AIRPORT",
+                "direction": 2
+            },
+            {
+                "id": 1507021,
+                "code": "39310",
+                "name": "UNIVERSITY OF CRETE - ITE FORTH - AIRPORT",
+                "direction": 2
+            },
+            {
+                "id": 1506986,
+                "code": "9944",
+                "name": "HMU | HELLENIC MEDITERRANEAN UNIVERSITY-AIRPORT",
+                "direction": 2
+            }
+        ]
+    },
+    {
+        "id": 452773,
+        "code": "02",
+        "name": "KNOSSOS - KNOSSOS SKALANI",
+        "color": "#787878",
+        "textColor": "#ffffff",
+        "borderColor": "#646464",
+        "routes": [
+            {
+                "id": 1507057,
+                "code": "20002",
+                "name": "SKALANI - PORT",
+                "direction": 2
+            },
+            {
+                "id": 1506987,
+                "code": "21001",
+                "name": "PORT-KNOSSOS",
+                "direction": 2
+            },
+            {
+                "id": 1507045,
+                "code": "21002",
+                "name": "PORT - SKALANI",
+                "direction": 2
+            }
+        ]
+    },
+    {
+        "id": 452774,
+        "code": "03",
+        "name": "FORTETSA",
+        "color": "#8d6e63",
+        "textColor": "#ffffff",
+        "borderColor": "#755B52",
+        "routes": [
+            {
+                "id": 1506988,
+                "code": "21003",
+                "name": "PORT-FORTETSA",
+                "direction": 2
+            }
+        ]
+    },
+    {
+        "id": 452775,
+        "code": "04",
+        "name": "MASTAMPAS",
+        "color": "#787878",
+        "textColor": "#ffffff",
+        "borderColor": "#646464",
+        "routes": [
+            {
+                "id": 1506989,
+                "code": "20073",
+                "name": "PORT- MASTAMPA - MESAMPELIES",
+                "direction": 2
+            },
+            {
+                "id": 1506990,
+                "code": "21006",
+                "name": "PORT- MASTAMPA",
+                "direction": 2
+            },
+            {
+                "id": 1506991,
+                "code": "21007",
+                "name": "PORT-MESAMPELIES",
+                "direction": 2
+            }
+        ]
+    },
+    {
+        "id": 452776,
+        "code": "05",
+        "name": "DIMITRIOU THERISOS",
+        "color": "#880e4f",
+        "textColor": "#ffffff",
+        "borderColor": "#630A3A",
+        "routes": [
+            {
+                "id": 1506969,
+                "code": "1008",
+                "name": "DIMITRIOU THERISSO",
+                "direction": 2
+            },
+            {
+                "id": 1506984,
+                "code": "1110",
+                "name": "DIMITRIOU THERISSO (Saturday)",
+                "direction": 2
+            }
+        ]
+    },
+    {
+        "id": 452777,
+        "code": "06",
+        "name": "AMOUDARA",
+        "color": "#2e7d32",
+        "textColor": "#ffffff",
+        "borderColor": "#235F26",
+        "routes": [
+            {
+                "id": 1506992,
+                "code": "21009",
+                "name": "AIRPORT - AMOUDARA",
+                "direction": 2
+            }
+        ]
+    },
+    {
+        "id": 452778,
+        "code": "07",
+        "name": "AMNISSOS",
+        "color": "#787878",
+        "textColor": "#ffffff",
+        "borderColor": "#646464",
+        "routes": [
+            {
+                "id": 1506994,
+                "code": "20064",
+                "name": "HMU | HELLENIC MEDITERRANEAN UNIVERSITY - AMNISSO - HMU | HELLENIC MEDITERRANEAN UNIVERSITY",
+                "direction": 2
+            },
+            {
+                "id": 1506993,
+                "code": "21012",
+                "name": "GIOFIRO - PRASSA  AMNISOS",
+                "direction": 2
+            },
+            {
+                "id": 1507027,
+                "code": "30096",
+                "name": "HERAKLION HOSPITAL (PAGNI) - AMNISSO",
+                "direction": 2
+            }
+        ]
+    },
+    {
+        "id": 452779,
+        "code": "08",
+        "name": "FORTH - I.T.E.",
+        "color": "#e91e63",
+        "textColor": "#ffffff",
+        "borderColor": "#CA1452",
+        "routes": []
+    },
+    {
+        "id": 452780,
+        "code": "09",
+        "name": "AGIOS SILAS",
+        "color": "#3c0008",
+        "textColor": "#ffffff",
+        "borderColor": "#130003",
+        "routes": [
+            {
+                "id": 1506995,
+                "code": "21031",
+                "name": "PORT-BASILEIES-ST. BLASSHS-ST. SYLLAS",
+                "direction": 2
+            }
+        ]
+    },
+    {
+        "id": 452781,
+        "code": "10",
+        "name": "GAZI - GAZI KAVROCHORI",
+        "color": "#787878",
+        "textColor": "#ffffff",
+        "borderColor": "#646464",
+        "routes": [
+            {
+                "id": 1506996,
+                "code": "20083",
+                "name": "PORT- GAZI",
+                "direction": 2
+            },
+            {
+                "id": 1507041,
+                "code": "20095",
+                "name": "PORT-GAZI KAVROXORI",
+                "direction": 2
+            },
+            {
+                "id": 1506997,
+                "code": "21033",
+                "name": "AIRPORT - GAZI",
+                "direction": 2
+            },
+            {
+                "id": 1507040,
+                "code": "21034",
+                "name": "AIRPORT-KAVROXORI",
+                "direction": 2
+            }
+        ]
+    },
+    {
+        "id": 452782,
+        "code": "11",
+        "name": "GENERAL UNIVERSITY HOSPITAL OF HERAKLION ( PA.G.N.I.)",
+        "color": "#b71c1c",
+        "textColor": "#ffffff",
+        "borderColor": "#941717",
+        "routes": [
+            {
+                "id": 1506998,
+                "code": "20093",
+                "name": "PORT- HERAKLION HOSPITAL (PAGNI)-The Foundation for Research and Technology ? Hellas (FORTH)",
+                "direction": 2
+            },
+            {
+                "id": 1507049,
+                "code": "21013",
+                "name": "PORT- HERAKLION HOSPITAL (PAGNI)",
+                "direction": 2
+            },
+            {
+                "id": 1506999,
+                "code": "21015",
+                "name": "AIRPORT - HERAKLION HOSPITAL (PAGNI)",
+                "direction": 2
+            },
+            {
+                "id": 1507000,
+                "code": "21016",
+                "name": "PORT-HERAKLION HOSPITAL (PAGNI)- UNIVERSITY OF CRETE",
+                "direction": 2
+            },
+            {
+                "id": 1507001,
+                "code": "29310",
+                "name": "AIRPORT - HERAKLION HOSPITAL (PAGNI) - The Foundation for Research and Technology ? Hellas (FORTH)",
+                "direction": 2
+            },
+            {
+                "id": 1507002,
+                "code": "29923",
+                "name": "KALLITHEA - ALLIKARNASOS - HERAKLION HOSPITAL (PAGNI)",
+                "direction": 2
+            }
+        ]
+    },
+    {
+        "id": 452783,
+        "code": "12",
+        "name": "HELLENIC MEDITERRANEAN UNIVERSITY ( EL.ME.PA.)",
+        "color": "#787878",
+        "textColor": "#ffffff",
+        "borderColor": "#646464",
+        "routes": [
+            {
+                "id": 1507003,
+                "code": "20031",
+                "name": "AIRPORT",
+                "direction": 2
+            },
+            {
+                "id": 1506976,
+                "code": "20075",
+                "name": "PORT- HMU | HELLENIC MEDITERRANEAN UNIVERSITY",
+                "direction": 2
+            },
+            {
+                "id": 1507048,
+                "code": "21018",
+                "name": "AIRPORT - HMU | HELLENIC MEDITERRANEAN UNIVERSITY",
+                "direction": 2
+            },
+            {
+                "id": 1507005,
+                "code": "30065",
+                "name": "KALLITHEA - KATSAMPA - HMU | HELLENIC MEDITERRANEAN UNIVERSITY",
+                "direction": 2
+            },
+            {
+                "id": 1506985,
+                "code": "30066",
+                "name": "AMNISSO - HMU | HELLENIC MEDITERRANEAN UNIVERSITY.",
+                "direction": 2
+            },
+            {
+                "id": 1507004,
+                "code": "30067",
+                "name": "KALLITHEA - ALLIKARNASOS - HMU | HELLENIC MEDITERRANEAN UNIVERSITY",
+                "direction": 2
+            }
+        ]
+    },
+    {
+        "id": 452784,
+        "code": "14",
+        "name": "Heraklion Industrial Area",
+        "color": "#787878",
+        "textColor": "#ffffff",
+        "borderColor": "#646464",
+        "routes": [
+            {
+                "id": 1507006,
+                "code": "20033",
+                "name": "GIOFIRO - BIPEH - KALLITHEA",
+                "direction": 2
+            },
+            {
+                "id": 1507043,
+                "code": "20056",
+                "name": "HMU | HELLENIC MEDITERRANEAN UNIVERSITY - BIPEH - KALLITHEA",
+                "direction": 2
+            },
+            {
+                "id": 1507029,
+                "code": "20065",
+                "name": "HMU | HELLENIC MEDITERRANEAN UNIVERSITY - BIPEH - KALLITHEA",
+                "direction": 2
+            },
+            {
+                "id": 1507060,
+                "code": "28123",
+                "name": "KALLITHEA",
+                "direction": 1
+            },
+            {
+                "id": 1507058,
+                "code": "29124",
+                "name": "The Foundation for Research and Technology ? Hellas (FORTH) - KALITHEA",
+                "direction": 2
+            }
+        ]
+    },
+    {
+        "id": 452785,
+        "code": "15",
+        "name": "FINIKIA - MALADES",
+        "color": "#00838f",
+        "textColor": "#ffffff",
+        "borderColor": "#005E66",
+        "routes": [
+            {
+                "id": 1507007,
+                "code": "21022",
+                "name": "AIRPORT - FOINIKIA",
+                "direction": 2
+            }
+        ]
+    },
+    {
+        "id": 452786,
+        "code": "16",
+        "name": "AGIA  EKATERINI.",
+        "color": "#4a148c",
+        "textColor": "#ffffff",
+        "borderColor": "#370F68",
+        "routes": [
+            {
+                "id": 1507008,
+                "code": "20090",
+                "name": "PORT-ST. CATHERINE",
+                "direction": 2
+            }
+        ]
+    },
+    {
+        "id": 452787,
+        "code": "17",
+        "name": "GIOFIRO",
+        "color": "#787878",
+        "textColor": "#ffffff",
+        "borderColor": "#646464",
+        "routes": [
+            {
+                "id": 1507059,
+                "code": "20052",
+                "name": "AIRPORT - GIOFIRO (K)",
+                "direction": 1
+            },
+            {
+                "id": 1507037,
+                "code": "31028",
+                "name": "NEW CEMETERY - GIOFIRO",
+                "direction": 2
+            },
+            {
+                "id": 1507061,
+                "code": "9901",
+                "name": "ELMEPA - GIOFIRO",
+                "direction": 1
+            }
+        ]
+    },
+    {
+        "id": 452788,
+        "code": "19",
+        "name": "GOURNES - ATHANATI",
+        "color": "#787878",
+        "textColor": "#ffffff",
+        "borderColor": "#646464",
+        "routes": [
+            {
+                "id": 1507009,
+                "code": "20043",
+                "name": "AIRPORT-HMU | HELLENIC MEDITERRANEAN UNIVERSITY-GOURNES-ATHANATOI",
+                "direction": 2
+            },
+            {
+                "id": 1507010,
+                "code": "20100",
+                "name": "AMNISOS - IKA - ATHANATOUS",
+                "direction": 2
+            }
+        ]
+    },
+    {
+        "id": 452797,
+        "code": "20",
+        "name": "PORT",
+        "color": "#787878",
+        "textColor": "#ffffff",
+        "borderColor": "#646464",
+        "routes": [
+            {
+                "id": 1506981,
+                "code": "0091",
+                "name": "(?) - HERAKLION HOSPITAL (PAGNI)-UNIVERSITY OF CRETE",
+                "direction": 2
+            },
+            {
+                "id": 1507014,
+                "code": "30073",
+                "name": "MASTAMPA - MESAMPELIES - PORT",
+                "direction": 2
+            },
+            {
+                "id": 1507031,
+                "code": "30075",
+                "name": "HMU | HELLENIC MEDITERRANEAN UNIVERSITY - PORT",
+                "direction": 2
+            },
+            {
+                "id": 1507024,
+                "code": "30083",
+                "name": "GAZI - PORT",
+                "direction": 2
+            },
+            {
+                "id": 1507033,
+                "code": "30090",
+                "name": "AG.AIKATERINH - PORT",
+                "direction": 2
+            },
+            {
+                "id": 1507026,
+                "code": "30094",
+                "name": "HERAKLION HOSPITAL (PAGNI) - The Foundation for Research and Technology ? Hellas (FORTH)- PANEPISTHMIO - PORT",
+                "direction": 2
+            },
+            {
+                "id": 1507042,
+                "code": "30095",
+                "name": "KAVROXORI - GAZI  - PORT",
+                "direction": 2
+            },
+            {
+                "id": 1507015,
+                "code": "30107",
+                "name": "MASTAMPA - PORT",
+                "direction": 2
+            },
+            {
+                "id": 1507016,
+                "code": "30108",
+                "name": "MASTAMPA- MESAMPELIES- PORT",
+                "direction": 2
+            },
+            {
+                "id": 1507013,
+                "code": "31001",
+                "name": "KNOSSOS - PORT",
+                "direction": 2
+            },
+            {
+                "id": 1507046,
+                "code": "31002",
+                "name": "SKALANI - PORT",
+                "direction": 2
+            },
+            {
+                "id": 1507044,
+                "code": "31003",
+                "name": "PORT - FORTETSA - PORT",
+                "direction": 2
+            },
+            {
+                "id": 1507017,
+                "code": "31006",
+                "name": "MASTAMPA -PORT",
+                "direction": 2
+            },
+            {
+                "id": 1507018,
+                "code": "31007",
+                "name": "MESAMPELIES - PORT",
+                "direction": 2
+            },
+            {
+                "id": 1507020,
+                "code": "31010",
+                "name": "AMOUDARA - PORT",
+                "direction": 2
+            },
+            {
+                "id": 1507050,
+                "code": "31013",
+                "name": "HERAKLION HOSPITAL (PAGNI). UNIVERSITY OF CRETE - PORT",
+                "direction": 2
+            },
+            {
+                "id": 1507022,
+                "code": "31031",
+                "name": "BASILEIES-AG. BLASSHS-ST. SYLAS-PORT",
+                "direction": 2
+            },
+            {
+                "id": 1507023,
+                "code": "31032",
+                "name": "AG SYLLAS-AG. BLASSH - BASILEIES-PORT",
+                "direction": 2
+            },
+            {
+                "id": 1507038,
+                "code": "33029",
+                "name": "IKA - AIRPORT",
+                "direction": 2
+            }
+        ]
+    },
+    {
+        "id": 452796,
+        "code": "21",
+        "name": "KNOSSOS - MASTAMPA - PAGNI",
+        "color": "#827717",
+        "textColor": "#ffffff",
+        "borderColor": "#5F5711",
+        "routes": [
+            {
+                "id": 1506970,
+                "code": "1027",
+                "name": "KNOSSO-MASTAMPA- HERAKLION HOSPITAL (PAGNI)",
+                "direction": 2
+            }
+        ]
+    },
+    {
+        "id": 452795,
+        "code": "23",
+        "name": "NEO KOIMITIRIO",
+        "color": "#212121",
+        "textColor": "#ffffff",
+        "borderColor": "#0D0D0D",
+        "routes": [
+            {
+                "id": 1507011,
+                "code": "21028",
+                "name": "GIOFIRO - NEW CEMETERY",
+                "direction": 2
+            }
+        ]
+    },
+    {
+        "id": 452794,
+        "code": "31",
+        "name": "IKA",
+        "color": "#455a64",
+        "textColor": "#ffffff",
+        "borderColor": "#34444C",
+        "routes": [
+            {
+                "id": 1507012,
+                "code": "21029",
+                "name": "AIRPORT - IKA",
+                "direction": 2
+            },
+            {
+                "id": 1507055,
+                "code": "23029",
+                "name": "PORT - IKA",
+                "direction": 2
+            },
+            {
+                "id": 1507054,
+                "code": "33032",
+                "name": "KALLITHEA - STRAIGHT VIPEI - KATSAMPAS - IKA",
+                "direction": 2
+            }
+        ]
+    },
+    {
+        "id": 452793,
+        "code": "50",
+        "name": "SXOLIKO",
+        "color": "#787878",
+        "textColor": "#ffffff",
+        "borderColor": "#646464",
+        "routes": [
+            {
+                "id": 1506974,
+                "code": "0062",
+                "name": "SCHOOL BUS ST. CATHERINE",
+                "direction": 2
+            },
+            {
+                "id": 1506978,
+                "code": "0081",
+                "name": "SCHOOL BUS ST. BLASI - BASILIES",
+                "direction": 2
+            },
+            {
+                "id": 1506979,
+                "code": "0082",
+                "name": "SCHOOL BUS ST. BLASI - BASILIES",
+                "direction": 2
+            },
+            {
+                "id": 1507064,
+                "code": "10088",
+                "name": "ΣΧΟΛΙΚΟ",
+                "direction": 1
+            },
+            {
+                "id": 1507056,
+                "code": "1061",
+                "name": "SCHOOL BUS",
+                "direction": 2
+            },
+            {
+                "id": 1507062,
+                "code": "20200",
+                "name": "SCHOOL BUS S.A.E.K.",
+                "direction": 1
+            },
+            {
+                "id": 1506977,
+                "code": "3002",
+                "name": "SCHOOL BUS STANDARD HIGH SCHOOL OF HERACLEIOU",
+                "direction": 2
+            },
+            {
+                "id": 1506980,
+                "code": "3003",
+                "name": "SSCHOOL BUS STANDARD HIGH SCHOOL OF HERACLEIOU",
+                "direction": 2
+            },
+            {
+                "id": 1507052,
+                "code": "30098",
+                "name": "SCHOOL BUS PAGNI STANDARD HIGH SCHOOL OF HERACLEIOU",
+                "direction": 2
+            },
+            {
+                "id": 1507051,
+                "code": "30099",
+                "name": "SCHOOL BUS PAGNI STANDARD HIGH SCHOOL OF HERACLEIOU",
+                "direction": 2
+            },
+            {
+                "id": 1507063,
+                "code": "4002",
+                "name": "SCHOOL BUS STANDARD HIGH SCHOOL OF HERACLEIOU",
+                "direction": 1
+            },
+            {
+                "id": 1506982,
+                "code": "9101",
+                "name": "SCHOOL BUS STANDARD HIGH SCHOOL OF HERACLEIOU",
+                "direction": 2
+            }
+        ]
+    },
+    {
+        "id": 452792,
+        "code": "52",
+        "name": "EPIVATIKOS STATHMOS LIMENOS",
+        "color": "#b71c1c",
+        "textColor": "#ffffff",
+        "borderColor": "#941717",
+        "routes": []
+    },
+    {
+        "id": 452789,
+        "code": "91",
+        "name": "RED LINE",
+        "color": "#000000",
+        "textColor": "#ffffff",
+        "borderColor": "#ECECEC",
+        "routes": [
+            {
+                "id": 1506971,
+                "code": "1036",
+                "name": "LINE1 RED LINE",
+                "direction": 2
+            }
+        ]
+    },
+    {
+        "id": 452790,
+        "code": "92",
+        "name": "BLUE LINE",
+        "color": "#000000",
+        "textColor": "#ffffff",
+        "borderColor": "#ECECEC",
+        "routes": [
+            {
+                "id": 1506972,
+                "code": "1035",
+                "name": "LINE2 BLUE LINE",
+                "direction": 2
+            }
+        ]
+    },
+    {
+        "id": 452791,
+        "code": "93",
+        "name": "Green LINE",
+        "color": "#000000",
+        "textColor": "#ffffff",
+        "borderColor": "#ECECEC",
+        "routes": [
+            {
+                "id": 1506975,
+                "code": "1037",
+                "name": "LINE 3 GREEN LINE",
+                "direction": 2
+            }
+        ]
+    }
+]

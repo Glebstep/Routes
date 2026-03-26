@@ -1,0 +1,81 @@
+trip_index,line_no,route_text_raw,variant,origin,destination,note,start_time,terminal_time,start_minutes,terminal_minutes,trip_minutes,service_type,source_pdf,source_page
+1,06,ΑΕΡΟΔΡΟΜΙΟ - ΑΜΜΟΥΔΑΡΑ - ΑΕΡΟΔΡΟΜΙΟ,ΑΜΜΟΥΔΑΡΑ,ΑΕΡΟΔΡΟΜΙΟ,ΑΕΡΟΔΡΟΜΙΟ,,05:55,06:30,355,390,35,daily,k6.pdf,1
+2,06,ΑΕΡΟΔΡΟΜΙΟ - ΑΜΜΟΥΔΑΡΑ - ΑΕΡΟΔΡΟΜΙΟ,ΑΜΜΟΥΔΑΡΑ,ΑΕΡΟΔΡΟΜΙΟ,ΑΕΡΟΔΡΟΜΙΟ,,06:28,07:00,388,420,32,daily,k6.pdf,1
+3,06,ΑΕΡΟΔΡΟΜΙΟ - ΑΜΜΟΥΔΑΡΑ - ΑΕΡΟΔΡΟΜΙΟ,ΑΜΜΟΥΔΑΡΑ,ΑΕΡΟΔΡΟΜΙΟ,ΑΕΡΟΔΡΟΜΙΟ,,06:57,07:30,417,450,33,daily,k6.pdf,1
+4,06,ΑΕΡΟΔΡΟΜΙΟ - ΑΜΜΟΥΔΑΡΑ - ΑΕΡΟΔΡΟΜΙΟ,ΑΜΜΟΥΔΑΡΑ,ΑΕΡΟΔΡΟΜΙΟ,ΑΕΡΟΔΡΟΜΙΟ,,07:20,07:58,440,478,38,daily,k6.pdf,1
+5,06,ΑΕΡΟΔΡΟΜΙΟ - ΑΜΜΟΥΔΑΡΑ - ΑΕΡΟΔΡΟΜΙΟ,ΑΜΜΟΥΔΑΡΑ,ΑΕΡΟΔΡΟΜΙΟ,ΑΕΡΟΔΡΟΜΙΟ,,07:40,08:20,460,500,40,daily,k6.pdf,1
+6,06,ΑΕΡΟΔΡΟΜΙΟ - ΑΜΜΟΥΔΑΡΑ - ΑΕΡΟΔΡΟΜΙΟ,ΑΜΜΟΥΔΑΡΑ,ΑΕΡΟΔΡΟΜΙΟ,ΑΕΡΟΔΡΟΜΙΟ,,08:00,08:45,480,525,45,daily,k6.pdf,1
+7,06,ΑΕΡΟΔΡΟΜΙΟ - ΑΜΜΟΥΔΑΡΑ - ΑΕΡΟΔΡΟΜΙΟ,ΑΜΜΟΥΔΑΡΑ,ΑΕΡΟΔΡΟΜΙΟ,ΑΕΡΟΔΡΟΜΙΟ,,08:20,09:10,500,550,50,daily,k6.pdf,1
+8,06,ΑΕΡΟΔΡΟΜΙΟ - ΑΜΜΟΥΔΑΡΑ - ΑΕΡΟΔΡΟΜΙΟ,ΑΜΜΟΥΔΑΡΑ,ΑΕΡΟΔΡΟΜΙΟ,ΑΕΡΟΔΡΟΜΙΟ,,08:40,09:30,520,570,50,daily,k6.pdf,1
+9,06,ΑΕΡΟΔΡΟΜΙΟ - ΑΜΜΟΥΔΑΡΑ - ΑΕΡΟΔΡΟΜΙΟ,ΑΜΜΟΥΔΑΡΑ,ΑΕΡΟΔΡΟΜΙΟ,ΑΕΡΟΔΡΟΜΙΟ,,09:00,09:50,540,590,50,daily,k6.pdf,1
+10,06,ΑΕΡΟΔΡΟΜΙΟ - ΑΜΜΟΥΔΑΡΑ - ΑΕΡΟΔΡΟΜΙΟ,ΑΜΜΟΥΔΑΡΑ,ΑΕΡΟΔΡΟΜΙΟ,ΑΕΡΟΔΡΟΜΙΟ,,09:30,10:20,570,620,50,daily,k6.pdf,1
+11,06,ΑΕΡΟΔΡΟΜΙΟ - ΑΜΜΟΥΔΑΡΑ - ΑΕΡΟΔΡΟΜΙΟ,ΑΜΜΟΥΔΑΡΑ,ΑΕΡΟΔΡΟΜΙΟ,ΑΕΡΟΔΡΟΜΙΟ,,10:00,10:50,600,650,50,daily,k6.pdf,1
+12,06,ΑΕΡΟΔΡΟΜΙΟ - ΑΜΜΟΥΔΑΡΑ - ΑΕΡΟΔΡΟΜΙΟ,ΑΜΜΟΥΔΑΡΑ,ΑΕΡΟΔΡΟΜΙΟ,ΑΕΡΟΔΡΟΜΙΟ,,10:30,11:20,630,680,50,daily,k6.pdf,1
+13,06,ΑΕΡΟΔΡΟΜΙΟ - ΑΜΜΟΥΔΑΡΑ - ΑΕΡΟΔΡΟΜΙΟ,ΑΜΜΟΥΔΑΡΑ,ΑΕΡΟΔΡΟΜΙΟ,ΑΕΡΟΔΡΟΜΙΟ,,11:00,11:50,660,710,50,daily,k6.pdf,1
+14,06,ΑΕΡΟΔΡΟΜΙΟ - ΑΜΜΟΥΔΑΡΑ - ΑΕΡΟΔΡΟΜΙΟ,ΑΜΜΟΥΔΑΡΑ,ΑΕΡΟΔΡΟΜΙΟ,ΑΕΡΟΔΡΟΜΙΟ,,11:30,12:20,690,740,50,daily,k6.pdf,1
+15,06,ΑΕΡΟΔΡΟΜΙΟ - ΑΜΜΟΥΔΑΡΑ - ΑΕΡΟΔΡΟΜΙΟ,ΑΜΜΟΥΔΑΡΑ,ΑΕΡΟΔΡΟΜΙΟ,ΑΕΡΟΔΡΟΜΙΟ,,12:00,12:50,720,770,50,daily,k6.pdf,1
+16,06,ΑΕΡΟΔΡΟΜΙΟ - ΑΜΜΟΥΔΑΡΑ - ΑΕΡΟΔΡΟΜΙΟ,ΑΜΜΟΥΔΑΡΑ,ΑΕΡΟΔΡΟΜΙΟ,ΑΕΡΟΔΡΟΜΙΟ,,12:20,13:10,740,790,50,daily,k6.pdf,1
+17,06,ΑΕΡΟΔΡΟΜΙΟ - ΑΜΜΟΥΔΑΡΑ - ΑΕΡΟΔΡΟΜΙΟ,ΑΜΜΟΥΔΑΡΑ,ΑΕΡΟΔΡΟΜΙΟ,ΑΕΡΟΔΡΟΜΙΟ,,12:40,13:30,760,810,50,daily,k6.pdf,1
+18,06,ΑΕΡΟΔΡΟΜΙΟ - ΑΜΜΟΥΔΑΡΑ - ΑΕΡΟΔΡΟΜΙΟ,ΑΜΜΟΥΔΑΡΑ,ΑΕΡΟΔΡΟΜΙΟ,ΑΕΡΟΔΡΟΜΙΟ,,13:00,13:50,780,830,50,daily,k6.pdf,1
+19,06,ΑΕΡΟΔΡΟΜΙΟ - ΑΜΜΟΥΔΑΡΑ - ΑΕΡΟΔΡΟΜΙΟ,ΑΜΜΟΥΔΑΡΑ,ΑΕΡΟΔΡΟΜΙΟ,ΑΕΡΟΔΡΟΜΙΟ,,13:20,14:10,800,850,50,daily,k6.pdf,1
+20,06,ΑΕΡΟΔΡΟΜΙΟ - ΑΜΜΟΥΔΑΡΑ - ΑΕΡΟΔΡΟΜΙΟ,ΑΜΜΟΥΔΑΡΑ,ΑΕΡΟΔΡΟΜΙΟ,ΑΕΡΟΔΡΟΜΙΟ,,13:40,14:30,820,870,50,daily,k6.pdf,1
+21,06,ΑΕΡΟΔΡΟΜΙΟ - ΑΜΜΟΥΔΑΡΑ - ΑΕΡΟΔΡΟΜΙΟ,ΑΜΜΟΥΔΑΡΑ,ΑΕΡΟΔΡΟΜΙΟ,ΑΕΡΟΔΡΟΜΙΟ,,14:00,14:50,840,890,50,daily,k6.pdf,1
+22,06,ΑΕΡΟΔΡΟΜΙΟ - ΑΜΜΟΥΔΑΡΑ - ΑΕΡΟΔΡΟΜΙΟ,ΑΜΜΟΥΔΑΡΑ,ΑΕΡΟΔΡΟΜΙΟ,ΑΕΡΟΔΡΟΜΙΟ,,14:20,15:10,860,910,50,daily,k6.pdf,1
+23,06,ΑΕΡΟΔΡΟΜΙΟ - ΑΜΜΟΥΔΑΡΑ - ΑΕΡΟΔΡΟΜΙΟ,ΑΜΜΟΥΔΑΡΑ,ΑΕΡΟΔΡΟΜΙΟ,ΑΕΡΟΔΡΟΜΙΟ,,14:40,15:30,880,930,50,daily,k6.pdf,1
+24,06,ΑΕΡΟΔΡΟΜΙΟ - ΑΜΜΟΥΔΑΡΑ - ΑΕΡΟΔΡΟΜΙΟ,ΑΜΜΟΥΔΑΡΑ,ΑΕΡΟΔΡΟΜΙΟ,ΑΕΡΟΔΡΟΜΙΟ,,15:00,15:50,900,950,50,daily,k6.pdf,1
+25,06,ΑΕΡΟΔΡΟΜΙΟ - ΑΜΜΟΥΔΑΡΑ - ΑΕΡΟΔΡΟΜΙΟ,ΑΜΜΟΥΔΑΡΑ,ΑΕΡΟΔΡΟΜΙΟ,ΑΕΡΟΔΡΟΜΙΟ,,15:30,16:20,930,980,50,daily,k6.pdf,1
+26,06,ΑΕΡΟΔΡΟΜΙΟ - ΑΜΜΟΥΔΑΡΑ - ΑΕΡΟΔΡΟΜΙΟ,ΑΜΜΟΥΔΑΡΑ,ΑΕΡΟΔΡΟΜΙΟ,ΑΕΡΟΔΡΟΜΙΟ,,16:00,16:50,960,1010,50,daily,k6.pdf,1
+27,06,ΑΕΡΟΔΡΟΜΙΟ - ΑΜΜΟΥΔΑΡΑ - ΑΕΡΟΔΡΟΜΙΟ,ΑΜΜΟΥΔΑΡΑ,ΑΕΡΟΔΡΟΜΙΟ,ΑΕΡΟΔΡΟΜΙΟ,,16:30,17:20,990,1040,50,daily,k6.pdf,1
+28,06,ΑΕΡΟΔΡΟΜΙΟ - ΑΜΜΟΥΔΑΡΑ - ΑΕΡΟΔΡΟΜΙΟ,ΑΜΜΟΥΔΑΡΑ,ΑΕΡΟΔΡΟΜΙΟ,ΑΕΡΟΔΡΟΜΙΟ,,17:00,17:50,1020,1070,50,daily,k6.pdf,1
+29,06,ΑΕΡΟΔΡΟΜΙΟ - ΑΜΜΟΥΔΑΡΑ - ΑΕΡΟΔΡΟΜΙΟ,ΑΜΜΟΥΔΑΡΑ,ΑΕΡΟΔΡΟΜΙΟ,ΑΕΡΟΔΡΟΜΙΟ,,17:30,18:20,1050,1100,50,daily,k6.pdf,2
+30,06,ΑΕΡΟΔΡΟΜΙΟ - ΑΜΜΟΥΔΑΡΑ - ΑΕΡΟΔΡΟΜΙΟ,ΑΜΜΟΥΔΑΡΑ,ΑΕΡΟΔΡΟΜΙΟ,ΑΕΡΟΔΡΟΜΙΟ,,18:00,18:50,1080,1130,50,daily,k6.pdf,2
+31,06,ΑΕΡΟΔΡΟΜΙΟ - ΑΜΜΟΥΔΑΡΑ - ΑΕΡΟΔΡΟΜΙΟ,ΑΜΜΟΥΔΑΡΑ,ΑΕΡΟΔΡΟΜΙΟ,ΑΕΡΟΔΡΟΜΙΟ,,18:30,19:20,1110,1160,50,daily,k6.pdf,2
+32,06,ΑΕΡΟΔΡΟΜΙΟ - ΑΜΜΟΥΔΑΡΑ - ΑΕΡΟΔΡΟΜΙΟ,ΑΜΜΟΥΔΑΡΑ,ΑΕΡΟΔΡΟΜΙΟ,ΑΕΡΟΔΡΟΜΙΟ,,19:00,19:50,1140,1190,50,daily,k6.pdf,2
+33,06,ΑΕΡΟΔΡΟΜΙΟ - ΑΜΜΟΥΔΑΡΑ - ΑΕΡΟΔΡΟΜΙΟ,ΑΜΜΟΥΔΑΡΑ,ΑΕΡΟΔΡΟΜΙΟ,ΑΕΡΟΔΡΟΜΙΟ,,19:30,20:20,1170,1220,50,daily,k6.pdf,2
+34,06,ΑΕΡΟΔΡΟΜΙΟ - ΑΜΜΟΥΔΑΡΑ - ΑΕΡΟΔΡΟΜΙΟ,ΑΜΜΟΥΔΑΡΑ,ΑΕΡΟΔΡΟΜΙΟ,ΑΕΡΟΔΡΟΜΙΟ,,20:00,20:50,1200,1250,50,daily,k6.pdf,2
+35,06,ΑΕΡΟΔΡΟΜΙΟ - ΑΜΜΟΥΔΑΡΑ - ΑΕΡΟΔΡΟΜΙΟ,ΑΜΜΟΥΔΑΡΑ,ΑΕΡΟΔΡΟΜΙΟ,ΑΕΡΟΔΡΟΜΙΟ,,20:30,21:20,1230,1280,50,daily,k6.pdf,2
+36,06,ΑΕΡΟΔΡΟΜΙΟ - ΑΜΜΟΥΔΑΡΑ - ΑΕΡΟΔΡΟΜΙΟ,ΑΜΜΟΥΔΑΡΑ,ΑΕΡΟΔΡΟΜΙΟ,ΑΕΡΟΔΡΟΜΙΟ,,21:00,21:50,1260,1310,50,daily,k6.pdf,2
+37,06,ΑΕΡΟΔΡΟΜΙΟ - ΑΜΜΟΥΔΑΡΑ - ΑΕΡΟΔΡΟΜΙΟ,ΑΜΜΟΥΔΑΡΑ,ΑΕΡΟΔΡΟΜΙΟ,ΑΕΡΟΔΡΟΜΙΟ,,21:30,22:20,1290,1340,50,daily,k6.pdf,2
+38,06,ΑΕΡΟΔΡΟΜΙΟ - ΑΜΜΟΥΔΑΡΑ - ΑΕΡΟΔΡΟΜΙΟ,ΑΜΜΟΥΔΑΡΑ,ΑΕΡΟΔΡΟΜΙΟ,ΑΕΡΟΔΡΟΜΙΟ,,22:00,22:50,1320,1370,50,daily,k6.pdf,2
+39,06,ΑΕΡΟΔΡΟΜΙΟ - ΑΜΜΟΥΔΑΡΑ - ΑΕΡΟΔΡΟΜΙΟ,ΑΜΜΟΥΔΑΡΑ,ΑΕΡΟΔΡΟΜΙΟ,ΑΕΡΟΔΡΟΜΙΟ,,22:30,23:20,1350,1400,50,daily,k6.pdf,2
+40,06,ΑΕΡΟΔΡΟΜΙΟ - ΑΜΜΟΥΔΑΡΑ - ΑΕΡΟΔΡΟΜΙΟ,ΑΜΜΟΥΔΑΡΑ,ΑΕΡΟΔΡΟΜΙΟ,ΑΕΡΟΔΡΟΜΙΟ,,23:05,23:50,1385,1430,45,daily,k6.pdf,2
+6,06,AIRPORT - AMMOUDARA- AIRPORT,AMMOUDARA- AIRPORT,AIRPORT,AMMOUDARA- AIRPORT,,05:55,06:30,355,390,35,daily,k6.pdf,3
+6,06,AIRPORT - AMMOUDARA- AIRPORT,AMMOUDARA- AIRPORT,AIRPORT,AMMOUDARA- AIRPORT,,06:28,07:00,388,420,32,daily,k6.pdf,3
+6,06,AIRPORT - AMMOUDARA- AIRPORT,AMMOUDARA- AIRPORT,AIRPORT,AMMOUDARA- AIRPORT,,06:57,07:30,417,450,33,daily,k6.pdf,3
+6,06,AIRPORT - AMMOUDARA- AIRPORT,AMMOUDARA- AIRPORT,AIRPORT,AMMOUDARA- AIRPORT,,07:20,07:58,440,478,38,daily,k6.pdf,3
+6,06,AIRPORT - AMMOUDARA- AIRPORT,AMMOUDARA- AIRPORT,AIRPORT,AMMOUDARA- AIRPORT,,07:40,08:20,460,500,40,daily,k6.pdf,3
+6,06,AIRPORT - AMMOUDARA- AIRPORT,AMMOUDARA- AIRPORT,AIRPORT,AMMOUDARA- AIRPORT,,08:00,08:45,480,525,45,daily,k6.pdf,3
+6,06,AIRPORT - AMMOUDARA- AIRPORT,AMMOUDARA- AIRPORT,AIRPORT,AMMOUDARA- AIRPORT,,08:20,09:10,500,550,50,daily,k6.pdf,3
+6,06,AIRPORT - AMMOUDARA- AIRPORT,AMMOUDARA- AIRPORT,AIRPORT,AMMOUDARA- AIRPORT,,08:40,09:30,520,570,50,daily,k6.pdf,3
+6,06,AIRPORT - AMMOUDARA- AIRPORT,AMMOUDARA- AIRPORT,AIRPORT,AMMOUDARA- AIRPORT,,09:00,09:50,540,590,50,daily,k6.pdf,3
+6,06,AIRPORT - AMMOUDARA- AIRPORT,AMMOUDARA- AIRPORT,AIRPORT,AMMOUDARA- AIRPORT,,09:30,10:20,570,620,50,daily,k6.pdf,3
+6,06,AIRPORT - AMMOUDARA- AIRPORT,AMMOUDARA- AIRPORT,AIRPORT,AMMOUDARA- AIRPORT,,10:00,10:50,600,650,50,daily,k6.pdf,3
+6,06,AIRPORT - AMMOUDARA- AIRPORT,AMMOUDARA- AIRPORT,AIRPORT,AMMOUDARA- AIRPORT,,10:30,11:20,630,680,50,daily,k6.pdf,3
+6,06,AIRPORT - AMMOUDARA- AIRPORT,AMMOUDARA- AIRPORT,AIRPORT,AMMOUDARA- AIRPORT,,11:00,11:50,660,710,50,daily,k6.pdf,3
+6,06,AIRPORT - AMMOUDARA- AIRPORT,AMMOUDARA- AIRPORT,AIRPORT,AMMOUDARA- AIRPORT,,11:30,12:20,690,740,50,daily,k6.pdf,3
+6,06,AIRPORT - AMMOUDARA- AIRPORT,AMMOUDARA- AIRPORT,AIRPORT,AMMOUDARA- AIRPORT,,12:00,12:50,720,770,50,daily,k6.pdf,3
+6,06,AIRPORT - AMMOUDARA- AIRPORT,AMMOUDARA- AIRPORT,AIRPORT,AMMOUDARA- AIRPORT,,12:20,13:10,740,790,50,daily,k6.pdf,3
+6,06,AIRPORT - AMMOUDARA- AIRPORT,AMMOUDARA- AIRPORT,AIRPORT,AMMOUDARA- AIRPORT,,12:40,13:30,760,810,50,daily,k6.pdf,3
+6,06,AIRPORT - AMMOUDARA- AIRPORT,AMMOUDARA- AIRPORT,AIRPORT,AMMOUDARA- AIRPORT,,13:00,13:50,780,830,50,daily,k6.pdf,3
+6,06,AIRPORT - AMMOUDARA- AIRPORT,AMMOUDARA- AIRPORT,AIRPORT,AMMOUDARA- AIRPORT,,13:20,14:10,800,850,50,daily,k6.pdf,3
+6,06,AIRPORT - AMMOUDARA- AIRPORT,AMMOUDARA- AIRPORT,AIRPORT,AMMOUDARA- AIRPORT,,13:40,14:30,820,870,50,daily,k6.pdf,3
+6,06,AIRPORT - AMMOUDARA- AIRPORT,AMMOUDARA- AIRPORT,AIRPORT,AMMOUDARA- AIRPORT,,14:00,14:50,840,890,50,daily,k6.pdf,3
+6,06,AIRPORT - AMMOUDARA- AIRPORT,AMMOUDARA- AIRPORT,AIRPORT,AMMOUDARA- AIRPORT,,14:20,15:10,860,910,50,daily,k6.pdf,3
+6,06,AIRPORT - AMMOUDARA- AIRPORT,AMMOUDARA- AIRPORT,AIRPORT,AMMOUDARA- AIRPORT,,14:40,15:30,880,930,50,daily,k6.pdf,3
+6,06,AIRPORT - AMMOUDARA- AIRPORT,AMMOUDARA- AIRPORT,AIRPORT,AMMOUDARA- AIRPORT,,15:00,15:50,900,950,50,daily,k6.pdf,3
+6,06,AIRPORT - AMMOUDARA- AIRPORT,AMMOUDARA- AIRPORT,AIRPORT,AMMOUDARA- AIRPORT,,15:30,16:20,930,980,50,daily,k6.pdf,3
+6,06,AIRPORT - AMMOUDARA- AIRPORT,AMMOUDARA- AIRPORT,AIRPORT,AMMOUDARA- AIRPORT,,16:00,16:50,960,1010,50,daily,k6.pdf,3
+6,06,AIRPORT - AMMOUDARA- AIRPORT,AMMOUDARA- AIRPORT,AIRPORT,AMMOUDARA- AIRPORT,,16:30,17:20,990,1040,50,daily,k6.pdf,3
+6,06,AIRPORT - AMMOUDARA- AIRPORT,AMMOUDARA- AIRPORT,AIRPORT,AMMOUDARA- AIRPORT,,17:00,17:50,1020,1070,50,unknown,k6.pdf,4
+6,06,AIRPORT - AMMOUDARA- AIRPORT,AMMOUDARA- AIRPORT,AIRPORT,AMMOUDARA- AIRPORT,,17:30,18:20,1050,1100,50,unknown,k6.pdf,4
+6,06,AIRPORT - AMMOUDARA- AIRPORT,AMMOUDARA- AIRPORT,AIRPORT,AMMOUDARA- AIRPORT,,18:00,18:50,1080,1130,50,unknown,k6.pdf,4
+6,06,AIRPORT - AMMOUDARA- AIRPORT,AMMOUDARA- AIRPORT,AIRPORT,AMMOUDARA- AIRPORT,,18:30,19:20,1110,1160,50,unknown,k6.pdf,4
+6,06,AIRPORT - AMMOUDARA- AIRPORT,AMMOUDARA- AIRPORT,AIRPORT,AMMOUDARA- AIRPORT,,19:00,19:50,1140,1190,50,unknown,k6.pdf,4
+6,06,AIRPORT - AMMOUDARA- AIRPORT,AMMOUDARA- AIRPORT,AIRPORT,AMMOUDARA- AIRPORT,,19:30,20:20,1170,1220,50,unknown,k6.pdf,4
+6,06,AIRPORT - AMMOUDARA- AIRPORT,AMMOUDARA- AIRPORT,AIRPORT,AMMOUDARA- AIRPORT,,20:00,20:50,1200,1250,50,unknown,k6.pdf,4
+6,06,AIRPORT - AMMOUDARA- AIRPORT,AMMOUDARA- AIRPORT,AIRPORT,AMMOUDARA- AIRPORT,,20:30,21:20,1230,1280,50,unknown,k6.pdf,4
+6,06,AIRPORT - AMMOUDARA- AIRPORT,AMMOUDARA- AIRPORT,AIRPORT,AMMOUDARA- AIRPORT,,21:00,21:50,1260,1310,50,unknown,k6.pdf,4
+6,06,AIRPORT - AMMOUDARA- AIRPORT,AMMOUDARA- AIRPORT,AIRPORT,AMMOUDARA- AIRPORT,,21:30,22:20,1290,1340,50,unknown,k6.pdf,4
+6,06,AIRPORT - AMMOUDARA- AIRPORT,AMMOUDARA- AIRPORT,AIRPORT,AMMOUDARA- AIRPORT,,22:00,22:50,1320,1370,50,unknown,k6.pdf,4
+6,06,AIRPORT - AMMOUDARA- AIRPORT,AMMOUDARA- AIRPORT,AIRPORT,AMMOUDARA- AIRPORT,,22:30,23:20,1350,1400,50,unknown,k6.pdf,4
+6,06,AIRPORT - AMMOUDARA- AIRPORT,AMMOUDARA- AIRPORT,AIRPORT,AMMOUDARA- AIRPORT,,23:05,23:50,1385,1430,45,unknown,k6.pdf,4

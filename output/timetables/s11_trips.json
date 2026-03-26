@@ -1,0 +1,53 @@
+[
+  {
+    "trip_index": 1,
+    "line_no": "11",
+    "route_text_raw": "ΑΕΡΟΔΡΟΜΙΟ - ΠΑ.Γ.Ν.Η. ΠΑΝΕΠΙΣΤΗΜΙΟ - ΑΜΝΙΣΣΟ",
+    "variant": "ΠΑ.Γ.Ν.Η. ΠΑΝΕΠΙΣΤΗΜΙΟ",
+    "origin": "ΑΕΡΟΔΡΟΜΙΟ",
+    "destination": "ΑΜΝΙΣΣΟ",
+    "note": null,
+    "start_time": "06:23",
+    "terminal_time": "06:50",
+    "start_minutes": 383,
+    "terminal_minutes": 410,
+    "trip_minutes": 27,
+    "service_type": "unknown",
+    "source_pdf": "s11.pdf",
+    "source_page": 1
+  },
+  {
+    "trip_index": 1,
+    "line_no": "11",
+    "route_text_raw": "ΑΕΡΟΔΡΟΜΙΟ - ΠΑ.Γ.Ν.Η. ΠΑΝΕΠΙΣΤΗΜΙΟ - ΑΜΝΙΣΣΟ",
+    "variant": "ΠΑ.Γ.Ν.Η. ΠΑΝΕΠΙΣΤΗΜΙΟ",
+    "origin": "ΑΕΡΟΔΡΟΜΙΟ",
+    "destination": "ΑΜΝΙΣΣΟ",
+    "note": null,
+    "start_time": "06:23",
+    "terminal_time": "06:50",
+    "start_minutes": 383,
+    "terminal_minutes": 410,
+    "trip_minutes": 27,
+    "service_type": "unknown",
+    "source_pdf": "s11.pdf",
+    "source_page": 2
+  },
+  {
+    "trip_index": 19,
+    "line_no": "11",
+    "route_text_raw": "ΑΕΡΟΔΡΟΜΙΟ - ΠΑ.Γ.Ν.Η. ΠΑΝ/ΜΙΟ - ΑΕΡΟΔΡΟΜΙΟ",
+    "variant": "ΠΑ.Γ.Ν.Η. ΠΑΝ/ΜΙΟ",
+    "origin": "ΑΕΡΟΔΡΟΜΙΟ",
+    "destination": "ΑΕΡΟΔΡΟΜΙΟ",
+    "note": null,
+    "start_time": "22:30",
+    "terminal_time": "23:10",
+    "start_minutes": 1350,
+    "terminal_minutes": 1390,
+    "trip_minutes": 40,
+    "service_type": "daily",
+    "source_pdf": "s11.pdf",
+    "source_page": 3
+  }
+]

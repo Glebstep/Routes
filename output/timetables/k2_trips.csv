@@ -1,0 +1,131 @@
+trip_index,line_no,route_text_raw,variant,origin,destination,note,start_time,terminal_time,start_minutes,terminal_minutes,trip_minutes,service_type,source_pdf,source_page
+1,02,ΛΙΜΑΝΙ - ΚΝΩΣΣΟΣ - ΛΙΜΑΝΙ,ΚΝΩΣΣΟΣ,ΛΙΜΑΝΙ,ΛΙΜΑΝΙ,,05:50,06:10,350,370,20,daily,k2.pdf,1
+2,02,ΛΙΜΑΝΙ - ΚΝΩΣΣΟΣ - ΛΙΜΑΝΙ,ΚΝΩΣΣΟΣ,ΛΙΜΑΝΙ,ΛΙΜΑΝΙ,,06:20,06:40,380,400,20,daily,k2.pdf,1
+3,02,ΛΙΜΑΝΙ - ΚΝΩΣΣΟΣ - ΛΙΜΑΝΙ,ΚΝΩΣΣΟΣ,ΛΙΜΑΝΙ,ΛΙΜΑΝΙ,,07:00,07:20,420,440,20,daily,k2.pdf,1
+4,02,ΛΙΜΑΝΙ - ΣΚΑΛΑΝΙ - ΛΙΜΑΝΙ,ΣΚΑΛΑΝΙ,ΛΙΜΑΝΙ,ΛΙΜΑΝΙ,,07:05,07:30,425,450,25,daily,k2.pdf,1
+5,02,ΛΙΜΑΝΙ - ΚΝΩΣΣΟΣ - ΛΙΜΑΝΙ,ΚΝΩΣΣΟΣ,ΛΙΜΑΝΙ,ΛΙΜΑΝΙ,,07:20,07:50,440,470,30,daily,k2.pdf,1
+6,02,ΛΙΜΑΝΙ - ΚΝΩΣΣΟΣ - ΛΙΜΑΝΙ,ΚΝΩΣΣΟΣ,ΛΙΜΑΝΙ,ΛΙΜΑΝΙ,,07:55,08:20,475,500,25,daily,k2.pdf,1
+7,02,ΛΙΜΑΝΙ - ΚΝΩΣΣΟΣ - ΛΙΜΑΝΙ,ΚΝΩΣΣΟΣ,ΛΙΜΑΝΙ,ΛΙΜΑΝΙ,,08:10,08:35,490,515,25,daily,k2.pdf,1
+8,02,ΛΙΜΑΝΙ - ΚΝΩΣΣΟΣ - ΛΙΜΑΝΙ,ΚΝΩΣΣΟΣ,ΛΙΜΑΝΙ,ΛΙΜΑΝΙ,,08:25,08:50,505,530,25,daily,k2.pdf,1
+9,02,ΛΙΜΑΝΙ - ΚΝΩΣΣΟΣ - ΛΙΜΑΝΙ,ΚΝΩΣΣΟΣ,ΛΙΜΑΝΙ,ΛΙΜΑΝΙ,,08:40,09:05,520,545,25,daily,k2.pdf,1
+10,02,ΛΙΜΑΝΙ - ΚΝΩΣΣΟΣ - ΛΙΜΑΝΙ,ΚΝΩΣΣΟΣ,ΛΙΜΑΝΙ,ΛΙΜΑΝΙ,,09:00,09:25,540,565,25,daily,k2.pdf,1
+11,02,ΛΙΜΑΝΙ - ΚΝΩΣΣΟΣ - ΛΙΜΑΝΙ,ΚΝΩΣΣΟΣ,ΛΙΜΑΝΙ,ΛΙΜΑΝΙ,,09:20,09:45,560,585,25,daily,k2.pdf,1
+12,02,ΛΙΜΑΝΙ - ΚΝΩΣΣΟΣ - ΛΙΜΑΝΙ,ΚΝΩΣΣΟΣ,ΛΙΜΑΝΙ,ΛΙΜΑΝΙ,,09:40,10:05,580,605,25,daily,k2.pdf,1
+13,02,ΛΙΜΑΝΙ - ΣΚΑΛΑΝΙ - ΛΙΜΑΝΙ,ΣΚΑΛΑΝΙ,ΛΙΜΑΝΙ,ΛΙΜΑΝΙ,,09:50,10:20,590,620,30,daily,k2.pdf,1
+14,02,ΛΙΜΑΝΙ - ΚΝΩΣΣΟΣ - ΛΙΜΑΝΙ,ΚΝΩΣΣΟΣ,ΛΙΜΑΝΙ,ΛΙΜΑΝΙ,,10:00,10:25,600,625,25,daily,k2.pdf,1
+15,02,ΛΙΜΑΝΙ - ΚΝΩΣΣΟΣ - ΛΙΜΑΝΙ,ΚΝΩΣΣΟΣ,ΛΙΜΑΝΙ,ΛΙΜΑΝΙ,,10:20,10:45,620,645,25,daily,k2.pdf,1
+16,02,ΛΙΜΑΝΙ - ΚΝΩΣΣΟΣ - ΛΙΜΑΝΙ,ΚΝΩΣΣΟΣ,ΛΙΜΑΝΙ,ΛΙΜΑΝΙ,,10:40,11:05,640,665,25,daily,k2.pdf,1
+17,02,ΛΙΜΑΝΙ - ΚΝΩΣΣΟΣ - ΛΙΜΑΝΙ,ΚΝΩΣΣΟΣ,ΛΙΜΑΝΙ,ΛΙΜΑΝΙ,,11:00,11:25,660,685,25,daily,k2.pdf,1
+18,02,ΛΙΜΑΝΙ - ΚΝΩΣΣΟΣ - ΛΙΜΑΝΙ,ΚΝΩΣΣΟΣ,ΛΙΜΑΝΙ,ΛΙΜΑΝΙ,,11:20,11:45,680,705,25,daily,k2.pdf,1
+19,02,ΛΙΜΑΝΙ - ΚΝΩΣΣΟΣ - ΛΙΜΑΝΙ,ΚΝΩΣΣΟΣ,ΛΙΜΑΝΙ,ΛΙΜΑΝΙ,,11:40,12:05,700,725,25,daily,k2.pdf,1
+20,02,ΛΙΜΑΝΙ - ΚΝΩΣΣΟΣ - ΛΙΜΑΝΙ,ΚΝΩΣΣΟΣ,ΛΙΜΑΝΙ,ΛΙΜΑΝΙ,,11:55,12:20,715,740,25,daily,k2.pdf,1
+21,02,ΛΙΜΑΝΙ - ΚΝΩΣΣΟΣ - ΛΙΜΑΝΙ,ΚΝΩΣΣΟΣ,ΛΙΜΑΝΙ,ΛΙΜΑΝΙ,,12:10,12:35,730,755,25,daily,k2.pdf,1
+22,02,ΛΙΜΑΝΙ - ΚΝΩΣΣΟΣ - ΛΙΜΑΝΙ,ΚΝΩΣΣΟΣ,ΛΙΜΑΝΙ,ΛΙΜΑΝΙ,,12:25,12:50,745,770,25,daily,k2.pdf,1
+23,02,ΛΙΜΑΝΙ - ΚΝΩΣΣΟΣ - ΛΙΜΑΝΙ,ΚΝΩΣΣΟΣ,ΛΙΜΑΝΙ,ΛΙΜΑΝΙ,,12:40,13:05,760,785,25,daily,k2.pdf,1
+24,02,ΛΙΜΑΝΙ - ΚΝΩΣΣΟΣ - ΛΙΜΑΝΙ,ΚΝΩΣΣΟΣ,ΛΙΜΑΝΙ,ΛΙΜΑΝΙ,,12:55,13:20,775,800,25,daily,k2.pdf,1
+25,02,ΛΙΜΑΝΙ - ΚΝΩΣΣΟΣ - ΛΙΜΑΝΙ,ΚΝΩΣΣΟΣ,ΛΙΜΑΝΙ,ΛΙΜΑΝΙ,,13:10,13:35,790,815,25,daily,k2.pdf,1
+26,02,ΛΙΜΑΝΙ - ΣΚΑΛΑΝΙ - ΛΙΜΑΝΙ,ΣΚΑΛΑΝΙ,ΛΙΜΑΝΙ,ΛΙΜΑΝΙ,,13:20,13:50,800,830,30,unknown,k2.pdf,2
+27,02,ΛΙΜΑΝΙ - ΚΝΩΣΣΟΣ - ΛΙΜΑΝΙ,ΚΝΩΣΣΟΣ,ΛΙΜΑΝΙ,ΛΙΜΑΝΙ,,13:25,13:50,805,830,25,unknown,k2.pdf,2
+28,02,ΛΙΜΑΝΙ - ΚΝΩΣΣΟΣ - ΛΙΜΑΝΙ,ΚΝΩΣΣΟΣ,ΛΙΜΑΝΙ,ΛΙΜΑΝΙ,,13:40,14:05,820,845,25,unknown,k2.pdf,2
+29,02,ΛΙΜΑΝΙ - ΚΝΩΣΣΟΣ - ΛΙΜΑΝΙ,ΚΝΩΣΣΟΣ,ΛΙΜΑΝΙ,ΛΙΜΑΝΙ,,13:55,14:20,835,860,25,unknown,k2.pdf,2
+30,02,ΛΙΜΑΝΙ - ΚΝΩΣΣΟΣ - ΛΙΜΑΝΙ,ΚΝΩΣΣΟΣ,ΛΙΜΑΝΙ,ΛΙΜΑΝΙ,,14:10,14:35,850,875,25,unknown,k2.pdf,2
+31,02,ΛΙΜΑΝΙ - ΣΚΑΛΑΝΙ - ΛΙΜΑΝΙ,ΣΚΑΛΑΝΙ,ΛΙΜΑΝΙ,ΛΙΜΑΝΙ,,14:20,14:50,860,890,30,unknown,k2.pdf,2
+32,02,ΛΙΜΑΝΙ - ΚΝΩΣΣΟΣ - ΛΙΜΑΝΙ,ΚΝΩΣΣΟΣ,ΛΙΜΑΝΙ,ΛΙΜΑΝΙ,,14:25,14:50,865,890,25,unknown,k2.pdf,2
+33,02,ΛΙΜΑΝΙ - ΚΝΩΣΣΟΣ - ΛΙΜΑΝΙ,ΚΝΩΣΣΟΣ,ΛΙΜΑΝΙ,ΛΙΜΑΝΙ,,14:40,15:05,880,905,25,unknown,k2.pdf,2
+34,02,ΛΙΜΑΝΙ - ΚΝΩΣΣΟΣ - ΛΙΜΑΝΙ,ΚΝΩΣΣΟΣ,ΛΙΜΑΝΙ,ΛΙΜΑΝΙ,,15:00,15:25,900,925,25,unknown,k2.pdf,2
+35,02,ΛΙΜΑΝΙ - ΚΝΩΣΣΟΣ - ΛΙΜΑΝΙ,ΚΝΩΣΣΟΣ,ΛΙΜΑΝΙ,ΛΙΜΑΝΙ,,15:20,15:45,920,945,25,unknown,k2.pdf,2
+36,02,ΛΙΜΑΝΙ - ΚΝΩΣΣΟΣ - ΛΙΜΑΝΙ,ΚΝΩΣΣΟΣ,ΛΙΜΑΝΙ,ΛΙΜΑΝΙ,,15:40,16:05,940,965,25,unknown,k2.pdf,2
+37,02,ΛΙΜΑΝΙ - ΚΝΩΣΣΟΣ - ΛΙΜΑΝΙ,ΚΝΩΣΣΟΣ,ΛΙΜΑΝΙ,ΛΙΜΑΝΙ,,16:00,16:25,960,985,25,unknown,k2.pdf,2
+38,02,ΛΙΜΑΝΙ - ΣΚΑΛΑΝΙ - ΛΙΜΑΝΙ,ΣΚΑΛΑΝΙ,ΛΙΜΑΝΙ,ΛΙΜΑΝΙ,,16:05,16:35,965,995,30,unknown,k2.pdf,2
+39,02,ΛΙΜΑΝΙ - ΚΝΩΣΣΟΣ - ΛΙΜΑΝΙ,ΚΝΩΣΣΟΣ,ΛΙΜΑΝΙ,ΛΙΜΑΝΙ,,16:20,16:45,980,1005,25,unknown,k2.pdf,2
+40,02,ΛΙΜΑΝΙ - ΚΝΩΣΣΟΣ - ΛΙΜΑΝΙ,ΚΝΩΣΣΟΣ,ΛΙΜΑΝΙ,ΛΙΜΑΝΙ,,16:40,17:05,1000,1025,25,unknown,k2.pdf,2
+41,02,ΛΙΜΑΝΙ - ΚΝΩΣΣΟΣ - ΛΙΜΑΝΙ,ΚΝΩΣΣΟΣ,ΛΙΜΑΝΙ,ΛΙΜΑΝΙ,,17:00,17:25,1020,1045,25,unknown,k2.pdf,2
+42,02,ΛΙΜΑΝΙ - ΚΝΩΣΣΟΣ - ΛΙΜΑΝΙ,ΚΝΩΣΣΟΣ,ΛΙΜΑΝΙ,ΛΙΜΑΝΙ,,17:20,17:45,1040,1065,25,unknown,k2.pdf,2
+43,02,ΛΙΜΑΝΙ - ΚΝΩΣΣΟΣ - ΛΙΜΑΝΙ,ΚΝΩΣΣΟΣ,ΛΙΜΑΝΙ,ΛΙΜΑΝΙ,,17:40,18:05,1060,1085,25,unknown,k2.pdf,2
+44,02,ΛΙΜΑΝΙ - ΚΝΩΣΣΟΣ - ΛΙΜΑΝΙ,ΚΝΩΣΣΟΣ,ΛΙΜΑΝΙ,ΛΙΜΑΝΙ,,18:00,18:25,1080,1105,25,unknown,k2.pdf,2
+45,02,ΛΙΜΑΝΙ - ΣΚΑΛΑΝΙ - ΛΙΜΑΝΙ - (Σροφή Κάτω),ΣΚΑΛΑΝΙ,ΛΙΜΑΝΙ,ΛΙΜΑΝΙ,Σροφή Κάτω,18:10,18:45,1090,1125,35,unknown,k2.pdf,2
+46,02,ΛΙΜΑΝΙ - ΚΝΩΣΣΟΣ - ΛΙΜΑΝΙ,ΚΝΩΣΣΟΣ,ΛΙΜΑΝΙ,ΛΙΜΑΝΙ,,18:20,18:45,1100,1125,25,unknown,k2.pdf,2
+47,02,ΛΙΜΑΝΙ - ΚΝΩΣΣΟΣ - ΛΙΜΑΝΙ,ΚΝΩΣΣΟΣ,ΛΙΜΑΝΙ,ΛΙΜΑΝΙ,,18:40,19:05,1120,1145,25,unknown,k2.pdf,2
+48,02,ΛΙΜΑΝΙ - ΚΝΩΣΣΟΣ - ΛΙΜΑΝΙ,ΚΝΩΣΣΟΣ,ΛΙΜΑΝΙ,ΛΙΜΑΝΙ,,19:00,19:25,1140,1165,25,unknown,k2.pdf,2
+49,02,ΛΙΜΑΝΙ - ΚΝΩΣΣΟΣ - ΛΙΜΑΝΙ,ΚΝΩΣΣΟΣ,ΛΙΜΑΝΙ,ΛΙΜΑΝΙ,,19:20,19:45,1160,1185,25,unknown,k2.pdf,2
+50,02,ΛΙΜΑΝΙ - ΚΝΩΣΣΟΣ - ΛΙΜΑΝΙ,ΚΝΩΣΣΟΣ,ΛΙΜΑΝΙ,ΛΙΜΑΝΙ,,19:40,20:05,1180,1205,25,unknown,k2.pdf,2
+51,02,ΛΙΜΑΝΙ - ΚΝΩΣΣΟΣ - ΛΙΜΑΝΙ,ΚΝΩΣΣΟΣ,ΛΙΜΑΝΙ,ΛΙΜΑΝΙ,,20:00,20:25,1200,1225,25,unknown,k2.pdf,2
+52,02,ΛΙΜΑΝΙ - ΚΝΩΣΣΟΣ - ΛΙΜΑΝΙ,ΚΝΩΣΣΟΣ,ΛΙΜΑΝΙ,ΛΙΜΑΝΙ,,20:20,20:45,1220,1245,25,unknown,k2.pdf,2
+53,02,ΛΙΜΑΝΙ - ΚΝΩΣΣΟΣ - ΛΙΜΑΝΙ,ΚΝΩΣΣΟΣ,ΛΙΜΑΝΙ,ΛΙΜΑΝΙ,,21:05,21:30,1265,1290,25,unknown,k2.pdf,2
+54,02,ΛΙΜΑΝΙ - ΣΚΑΛΑΝΙ - ΛΙΜΑΝΙ - (Σροφή Κάτω),ΣΚΑΛΑΝΙ,ΛΙΜΑΝΙ,ΛΙΜΑΝΙ,Σροφή Κάτω,21:20,21:50,1280,1310,30,unknown,k2.pdf,2
+55,02,ΛΙΜΑΝΙ - ΚΝΩΣΣΟΣ - ΛΙΜΑΝΙ,ΚΝΩΣΣΟΣ,ΛΙΜΑΝΙ,ΛΙΜΑΝΙ,,22:05,22:30,1325,1350,25,unknown,k2.pdf,2
+56,02,ΛΙΜΑΝΙ - ΚΝΩΣΣΟΣ - ΛΙΜΑΝΙ - ΑΕΡΟΔΡΟΜΙΟ,ΚΝΩΣΣΟΣ / ΛΙΜΑΝΙ,ΛΙΜΑΝΙ,ΑΕΡΟΔΡΟΜΙΟ,,22:25,22:50,1345,1370,25,unknown,k2.pdf,2
+57,02,ΛΙΜΑΝΙ - ΚΝΩΣΣΟΣ - ΛΙΜΑΝΙ - ΑΕΡΟΔΡΟΜΙΟ,ΚΝΩΣΣΟΣ / ΛΙΜΑΝΙ,ΛΙΜΑΝΙ,ΑΕΡΟΔΡΟΜΙΟ,,22:50,23:10,1370,1390,20,unknown,k2.pdf,2
+58,02,ΛΙΜΑΝΙ - ΚΝΩΣΣΟΣ - ΛΙΜΑΝΙ - ΑΕΡΟΔΡΟΜΙΟ,ΚΝΩΣΣΟΣ / ΛΙΜΑΝΙ,ΛΙΜΑΝΙ,ΑΕΡΟΔΡΟΜΙΟ,,23:15,23:30,1395,1410,15,unknown,k2.pdf,2
+1,02,ΛΙΜΑΝΙ - ΣΚΑΛΑΝΙ - ΛΙΜΑΝΙ,ΣΚΑΛΑΝΙ,ΛΙΜΑΝΙ,ΛΙΜΑΝΙ,,07:05,07:30,425,450,25,daily,k2.pdf,3
+2,02,ΛΙΜΑΝΙ - ΣΚΑΛΑΝΙ - ΛΙΜΑΝΙ,ΣΚΑΛΑΝΙ,ΛΙΜΑΝΙ,ΛΙΜΑΝΙ,,09:50,10:20,590,620,30,daily,k2.pdf,3
+3,02,ΛΙΜΑΝΙ - ΣΚΑΛΑΝΙ - ΛΙΜΑΝΙ,ΣΚΑΛΑΝΙ,ΛΙΜΑΝΙ,ΛΙΜΑΝΙ,,13:20,13:50,800,830,30,daily,k2.pdf,3
+4,02,ΛΙΜΑΝΙ - ΣΚΑΛΑΝΙ - ΛΙΜΑΝΙ,ΣΚΑΛΑΝΙ,ΛΙΜΑΝΙ,ΛΙΜΑΝΙ,,14:20,14:50,860,890,30,daily,k2.pdf,3
+5,02,ΛΙΜΑΝΙ - ΣΚΑΛΑΝΙ - ΛΙΜΑΝΙ,ΣΚΑΛΑΝΙ,ΛΙΜΑΝΙ,ΛΙΜΑΝΙ,,16:05,16:35,965,995,30,daily,k2.pdf,3
+6,02,ΛΙΜΑΝΙ - ΣΚΑΛΑΝΙ - ΛΙΜΑΝΙ - (Σροφή Κάτω),ΣΚΑΛΑΝΙ,ΛΙΜΑΝΙ,ΛΙΜΑΝΙ,Σροφή Κάτω,18:10,18:45,1090,1125,35,daily,k2.pdf,3
+7,02,ΛΙΜΑΝΙ - ΣΚΑΛΑΝΙ - ΛΙΜΑΝΙ - (Σροφή Κάτω),ΣΚΑΛΑΝΙ,ΛΙΜΑΝΙ,ΛΙΜΑΝΙ,Σροφή Κάτω,21:20,21:50,1280,1310,30,daily,k2.pdf,3
+2,02,Terminal of the port - KNOSSOS - Terminal of the port,KNOSSOS,Terminal of the port,Terminal of the port,,05:50,06:10,350,370,20,daily,k2.pdf,4
+2,02,Terminal of the port - KNOSSOS - Terminal of the port,KNOSSOS,Terminal of the port,Terminal of the port,,06:20,06:40,380,400,20,daily,k2.pdf,4
+2,02,Terminal of the port - KNOSSOS - Terminal of the port,KNOSSOS,Terminal of the port,Terminal of the port,,07:00,07:20,420,440,20,daily,k2.pdf,4
+2,02,Terminal of the port - SKALANI - Terminal of the port,SKALANI,Terminal of the port,Terminal of the port,,07:05,07:30,425,450,25,daily,k2.pdf,4
+2,02,Terminal of the port - KNOSSOS - Terminal of the port,KNOSSOS,Terminal of the port,Terminal of the port,,07:20,07:50,440,470,30,daily,k2.pdf,4
+2,02,Terminal of the port - KNOSSOS - Terminal of the port,KNOSSOS,Terminal of the port,Terminal of the port,,07:55,08:20,475,500,25,daily,k2.pdf,4
+2,02,Terminal of the port - KNOSSOS - Terminal of the port,KNOSSOS,Terminal of the port,Terminal of the port,,08:10,08:35,490,515,25,daily,k2.pdf,4
+2,02,Terminal of the port - KNOSSOS - Terminal of the port,KNOSSOS,Terminal of the port,Terminal of the port,,08:25,08:50,505,530,25,daily,k2.pdf,4
+2,02,Terminal of the port - KNOSSOS - Terminal of the port,KNOSSOS,Terminal of the port,Terminal of the port,,08:40,09:05,520,545,25,daily,k2.pdf,4
+2,02,Terminal of the port - KNOSSOS - Terminal of the port,KNOSSOS,Terminal of the port,Terminal of the port,,09:00,09:25,540,565,25,daily,k2.pdf,4
+2,02,Terminal of the port - KNOSSOS - Terminal of the port,KNOSSOS,Terminal of the port,Terminal of the port,,09:20,09:45,560,585,25,daily,k2.pdf,4
+2,02,Terminal of the port - KNOSSOS - Terminal of the port,KNOSSOS,Terminal of the port,Terminal of the port,,09:40,10:05,580,605,25,daily,k2.pdf,4
+2,02,Terminal of the port - SKALANI - Terminal of the port,SKALANI,Terminal of the port,Terminal of the port,,09:50,10:20,590,620,30,daily,k2.pdf,4
+2,02,Terminal of the port - KNOSSOS - Terminal of the port,KNOSSOS,Terminal of the port,Terminal of the port,,10:00,10:25,600,625,25,daily,k2.pdf,4
+2,02,Terminal of the port - KNOSSOS - Terminal of the port,KNOSSOS,Terminal of the port,Terminal of the port,,10:20,10:45,620,645,25,daily,k2.pdf,4
+2,02,Terminal of the port - KNOSSOS - Terminal of the port,KNOSSOS,Terminal of the port,Terminal of the port,,10:40,11:05,640,665,25,daily,k2.pdf,4
+2,02,Terminal of the port - KNOSSOS - Terminal of the port,KNOSSOS,Terminal of the port,Terminal of the port,,11:00,11:25,660,685,25,daily,k2.pdf,4
+2,02,Terminal of the port - KNOSSOS - Terminal of the port,KNOSSOS,Terminal of the port,Terminal of the port,,11:20,11:45,680,705,25,daily,k2.pdf,4
+2,02,Terminal of the port - KNOSSOS - Terminal of the port,KNOSSOS,Terminal of the port,Terminal of the port,,11:40,12:05,700,725,25,daily,k2.pdf,4
+2,02,Terminal of the port - KNOSSOS - Terminal of the port,KNOSSOS,Terminal of the port,Terminal of the port,,11:55,12:20,715,740,25,daily,k2.pdf,4
+2,02,Terminal of the port - KNOSSOS - Terminal of the port,KNOSSOS,Terminal of the port,Terminal of the port,,12:10,12:35,730,755,25,daily,k2.pdf,4
+2,02,Terminal of the port - KNOSSOS - Terminal of the port,KNOSSOS,Terminal of the port,Terminal of the port,,12:25,12:50,745,770,25,daily,k2.pdf,4
+2,02,Terminal of the port - KNOSSOS - Terminal of the port,KNOSSOS,Terminal of the port,Terminal of the port,,12:40,13:05,760,785,25,daily,k2.pdf,4
+2,02,Terminal of the port - KNOSSOS - Terminal of the port,KNOSSOS,Terminal of the port,Terminal of the port,,12:55,13:20,775,800,25,daily,k2.pdf,4
+2,02,Terminal of the port - KNOSSOS - Terminal of the port,KNOSSOS,Terminal of the port,Terminal of the port,,13:10,13:35,790,815,25,daily,k2.pdf,4
+2,02,Terminal of the port - SKALANI - Terminal of the port,SKALANI,Terminal of the port,Terminal of the port,,13:20,13:50,800,830,30,unknown,k2.pdf,5
+2,02,Terminal of the port - KNOSSOS - Terminal of the port,KNOSSOS,Terminal of the port,Terminal of the port,,13:25,13:50,805,830,25,unknown,k2.pdf,5
+2,02,Terminal of the port - KNOSSOS - Terminal of the port,KNOSSOS,Terminal of the port,Terminal of the port,,13:40,14:05,820,845,25,unknown,k2.pdf,5
+2,02,Terminal of the port - KNOSSOS - Terminal of the port,KNOSSOS,Terminal of the port,Terminal of the port,,13:55,14:20,835,860,25,unknown,k2.pdf,5
+2,02,Terminal of the port - KNOSSOS - Terminal of the port,KNOSSOS,Terminal of the port,Terminal of the port,,14:10,14:35,850,875,25,unknown,k2.pdf,5
+2,02,Terminal of the port - SKALANI - Terminal of the port,SKALANI,Terminal of the port,Terminal of the port,,14:20,14:50,860,890,30,unknown,k2.pdf,5
+2,02,Terminal of the port - KNOSSOS - Terminal of the port,KNOSSOS,Terminal of the port,Terminal of the port,,14:25,14:50,865,890,25,unknown,k2.pdf,5
+2,02,Terminal of the port - KNOSSOS - Terminal of the port,KNOSSOS,Terminal of the port,Terminal of the port,,14:40,15:05,880,905,25,unknown,k2.pdf,5
+2,02,Terminal of the port - KNOSSOS - Terminal of the port,KNOSSOS,Terminal of the port,Terminal of the port,,15:00,15:25,900,925,25,unknown,k2.pdf,5
+2,02,Terminal of the port - KNOSSOS - Terminal of the port,KNOSSOS,Terminal of the port,Terminal of the port,,15:20,15:45,920,945,25,unknown,k2.pdf,5
+2,02,Terminal of the port - KNOSSOS - Terminal of the port,KNOSSOS,Terminal of the port,Terminal of the port,,15:40,16:05,940,965,25,unknown,k2.pdf,5
+2,02,Terminal of the port - KNOSSOS - Terminal of the port,KNOSSOS,Terminal of the port,Terminal of the port,,16:00,16:25,960,985,25,unknown,k2.pdf,5
+2,02,Terminal of the port - SKALANI - Terminal of the port,SKALANI,Terminal of the port,Terminal of the port,,16:05,16:35,965,995,30,unknown,k2.pdf,5
+2,02,Terminal of the port - KNOSSOS - Terminal of the port,KNOSSOS,Terminal of the port,Terminal of the port,,16:20,16:45,980,1005,25,unknown,k2.pdf,5
+2,02,Terminal of the port - KNOSSOS - Terminal of the port,KNOSSOS,Terminal of the port,Terminal of the port,,16:40,17:05,1000,1025,25,unknown,k2.pdf,5
+2,02,Terminal of the port - KNOSSOS - Terminal of the port,KNOSSOS,Terminal of the port,Terminal of the port,,17:00,17:25,1020,1045,25,unknown,k2.pdf,5
+2,02,Terminal of the port - KNOSSOS - Terminal of the port,KNOSSOS,Terminal of the port,Terminal of the port,,17:20,17:45,1040,1065,25,unknown,k2.pdf,5
+2,02,Terminal of the port - KNOSSOS - Terminal of the port,KNOSSOS,Terminal of the port,Terminal of the port,,17:40,18:05,1060,1085,25,unknown,k2.pdf,5
+2,02,Terminal of the port - KNOSSOS - Terminal of the port,KNOSSOS,Terminal of the port,Terminal of the port,,18:00,18:25,1080,1105,25,unknown,k2.pdf,5
+2,02,Terminal of the port - SKALANI - Terminal of the port - (Suction Down),SKALANI,Terminal of the port,Terminal of the port,Suction Down,18:10,18:45,1090,1125,35,unknown,k2.pdf,5
+2,02,Terminal of the port - KNOSSOS - Terminal of the port,KNOSSOS,Terminal of the port,Terminal of the port,,18:20,18:45,1100,1125,25,unknown,k2.pdf,5
+2,02,Terminal of the port - KNOSSOS - Terminal of the port,KNOSSOS,Terminal of the port,Terminal of the port,,18:40,19:05,1120,1145,25,unknown,k2.pdf,5
+2,02,Terminal of the port - KNOSSOS - Terminal of the port,KNOSSOS,Terminal of the port,Terminal of the port,,19:00,19:25,1140,1165,25,unknown,k2.pdf,5
+2,02,Terminal of the port - KNOSSOS - Terminal of the port,KNOSSOS,Terminal of the port,Terminal of the port,,19:20,19:45,1160,1185,25,unknown,k2.pdf,5
+2,02,Terminal of the port - KNOSSOS - Terminal of the port,KNOSSOS,Terminal of the port,Terminal of the port,,19:40,20:05,1180,1205,25,unknown,k2.pdf,5
+2,02,Terminal of the port - KNOSSOS - Terminal of the port,KNOSSOS,Terminal of the port,Terminal of the port,,20:00,20:25,1200,1225,25,unknown,k2.pdf,5
+2,02,Terminal of the port - KNOSSOS - Terminal of the port,KNOSSOS,Terminal of the port,Terminal of the port,,20:20,20:45,1220,1245,25,unknown,k2.pdf,5
+2,02,Terminal of the port - KNOSSOS - Terminal of the port,KNOSSOS,Terminal of the port,Terminal of the port,,21:05,21:30,1265,1290,25,unknown,k2.pdf,5
+2,02,Terminal of the port - SKALANI - Terminal of the port - (Suction Down),SKALANI,Terminal of the port,Terminal of the port,Suction Down,21:20,21:50,1280,1310,30,unknown,k2.pdf,5
+2,02,Terminal of the port - KNOSSOS - Terminal of the port,KNOSSOS,Terminal of the port,Terminal of the port,,22:05,22:30,1325,1350,25,unknown,k2.pdf,5
+2,02,Terminal of the port - KNOSSOS - Terminal of the port,KNOSSOS,Terminal of the port,Terminal of the port,,22:25,22:50,1345,1370,25,unknown,k2.pdf,5
+2,02,Terminal of the port - KNOSSOS - Terminal of the port,KNOSSOS,Terminal of the port,Terminal of the port,,22:50,23:10,1370,1390,20,unknown,k2.pdf,5
+2,02,Terminal of the port - KNOSSOS - Terminal of the port,KNOSSOS,Terminal of the port,Terminal of the port,,23:15,23:30,1395,1410,15,unknown,k2.pdf,5
+2,02,Terminal of the port - SKALANI - Terminal of the port,SKALANI,Terminal of the port,Terminal of the port,,07:05,07:30,425,450,25,daily,k2.pdf,6
+2,02,Terminal of the port - SKALANI - Terminal of the port,SKALANI,Terminal of the port,Terminal of the port,,09:50,10:20,590,620,30,daily,k2.pdf,6
+2,02,Terminal of the port - SKALANI - Terminal of the port,SKALANI,Terminal of the port,Terminal of the port,,13:20,13:50,800,830,30,daily,k2.pdf,6
+2,02,Terminal of the port - SKALANI - Terminal of the port,SKALANI,Terminal of the port,Terminal of the port,,14:20,14:50,860,890,30,daily,k2.pdf,6
+2,02,Terminal of the port - SKALANI - Terminal of the port,SKALANI,Terminal of the port,Terminal of the port,,16:05,16:35,965,995,30,daily,k2.pdf,6
+2,02,Terminal of the port - SKALANI - Terminal of the port - (Suction Down),SKALANI,Terminal of the port,Terminal of the port,Suction Down,18:10,18:45,1090,1125,35,daily,k2.pdf,6
+2,02,Terminal of the port - SKALANI - Terminal of the port - (Suction Down),SKALANI,Terminal of the port,Terminal of the port,Suction Down,21:20,21:50,1280,1310,30,daily,k2.pdf,6

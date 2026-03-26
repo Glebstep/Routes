@@ -1,0 +1,7094 @@
+[
+  {
+    "line_no": "10",
+    "service_type": "daily",
+    "variant": "ΓΑΖΙ",
+    "note": "",
+    "from_start_time": "06:20",
+    "to_start_time": "06:20",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "10",
+    "service_type": "daily",
+    "variant": "ΓΑΖΙ",
+    "note": "",
+    "from_start_time": "06:20",
+    "to_start_time": "07:17",
+    "headway_minutes": 57
+  },
+  {
+    "line_no": "10",
+    "service_type": "daily",
+    "variant": "ΓΑΖΙ",
+    "note": "",
+    "from_start_time": "07:17",
+    "to_start_time": "07:17",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "10",
+    "service_type": "daily",
+    "variant": "ΓΑΖΙ",
+    "note": "",
+    "from_start_time": "07:17",
+    "to_start_time": "07:35",
+    "headway_minutes": 18
+  },
+  {
+    "line_no": "10",
+    "service_type": "daily",
+    "variant": "ΓΑΖΙ",
+    "note": "",
+    "from_start_time": "07:35",
+    "to_start_time": "07:55",
+    "headway_minutes": 20
+  },
+  {
+    "line_no": "10",
+    "service_type": "daily",
+    "variant": "ΓΑΖΙ",
+    "note": "",
+    "from_start_time": "07:55",
+    "to_start_time": "08:20",
+    "headway_minutes": 25
+  },
+  {
+    "line_no": "10",
+    "service_type": "daily",
+    "variant": "ΓΑΖΙ",
+    "note": "",
+    "from_start_time": "08:20",
+    "to_start_time": "08:20",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "10",
+    "service_type": "daily",
+    "variant": "ΓΑΖΙ",
+    "note": "",
+    "from_start_time": "08:20",
+    "to_start_time": "09:10",
+    "headway_minutes": 50
+  },
+  {
+    "line_no": "10",
+    "service_type": "daily",
+    "variant": "ΓΑΖΙ",
+    "note": "",
+    "from_start_time": "09:10",
+    "to_start_time": "09:17",
+    "headway_minutes": 7
+  },
+  {
+    "line_no": "10",
+    "service_type": "daily",
+    "variant": "ΓΑΖΙ",
+    "note": "",
+    "from_start_time": "09:17",
+    "to_start_time": "09:17",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "10",
+    "service_type": "daily",
+    "variant": "ΓΑΖΙ",
+    "note": "",
+    "from_start_time": "09:17",
+    "to_start_time": "10:10",
+    "headway_minutes": 53
+  },
+  {
+    "line_no": "10",
+    "service_type": "daily",
+    "variant": "ΓΑΖΙ",
+    "note": "",
+    "from_start_time": "10:10",
+    "to_start_time": "11:15",
+    "headway_minutes": 65
+  },
+  {
+    "line_no": "10",
+    "service_type": "daily",
+    "variant": "ΓΑΖΙ",
+    "note": "",
+    "from_start_time": "11:15",
+    "to_start_time": "11:15",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "10",
+    "service_type": "daily",
+    "variant": "ΓΑΖΙ",
+    "note": "",
+    "from_start_time": "11:15",
+    "to_start_time": "12:15",
+    "headway_minutes": 60
+  },
+  {
+    "line_no": "10",
+    "service_type": "daily",
+    "variant": "ΓΑΖΙ",
+    "note": "",
+    "from_start_time": "12:15",
+    "to_start_time": "13:10",
+    "headway_minutes": 55
+  },
+  {
+    "line_no": "10",
+    "service_type": "daily",
+    "variant": "ΓΑΖΙ",
+    "note": "",
+    "from_start_time": "13:10",
+    "to_start_time": "13:30",
+    "headway_minutes": 20
+  },
+  {
+    "line_no": "10",
+    "service_type": "daily",
+    "variant": "ΓΑΖΙ",
+    "note": "",
+    "from_start_time": "13:30",
+    "to_start_time": "13:43",
+    "headway_minutes": 13
+  },
+  {
+    "line_no": "10",
+    "service_type": "daily",
+    "variant": "ΓΑΖΙ",
+    "note": "",
+    "from_start_time": "13:43",
+    "to_start_time": "13:43",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "10",
+    "service_type": "daily",
+    "variant": "ΓΑΖΙ",
+    "note": "",
+    "from_start_time": "13:43",
+    "to_start_time": "15:35",
+    "headway_minutes": 112
+  },
+  {
+    "line_no": "10",
+    "service_type": "daily",
+    "variant": "ΓΑΖΙ",
+    "note": "",
+    "from_start_time": "15:35",
+    "to_start_time": "15:35",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "10",
+    "service_type": "daily",
+    "variant": "ΓΑΖΙ",
+    "note": "",
+    "from_start_time": "15:35",
+    "to_start_time": "16:10",
+    "headway_minutes": 35
+  },
+  {
+    "line_no": "10",
+    "service_type": "daily",
+    "variant": "ΓΑΖΙ",
+    "note": "",
+    "from_start_time": "16:10",
+    "to_start_time": "16:35",
+    "headway_minutes": 25
+  },
+  {
+    "line_no": "10",
+    "service_type": "daily",
+    "variant": "ΓΑΖΙ",
+    "note": "",
+    "from_start_time": "16:35",
+    "to_start_time": "16:35",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "10",
+    "service_type": "daily",
+    "variant": "ΓΑΖΙ",
+    "note": "",
+    "from_start_time": "16:35",
+    "to_start_time": "18:35",
+    "headway_minutes": 120
+  },
+  {
+    "line_no": "10",
+    "service_type": "daily",
+    "variant": "ΓΑΖΙ",
+    "note": "",
+    "from_start_time": "18:35",
+    "to_start_time": "18:35",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "10",
+    "service_type": "daily",
+    "variant": "ΓΑΖΙ",
+    "note": "",
+    "from_start_time": "18:35",
+    "to_start_time": "19:10",
+    "headway_minutes": 35
+  },
+  {
+    "line_no": "10",
+    "service_type": "daily",
+    "variant": "ΓΑΖΙ",
+    "note": "",
+    "from_start_time": "19:10",
+    "to_start_time": "19:30",
+    "headway_minutes": 20
+  },
+  {
+    "line_no": "10",
+    "service_type": "daily",
+    "variant": "ΓΑΖΙ",
+    "note": "",
+    "from_start_time": "19:30",
+    "to_start_time": "19:30",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "10",
+    "service_type": "daily",
+    "variant": "ΓΑΖΙ",
+    "note": "",
+    "from_start_time": "19:30",
+    "to_start_time": "20:35",
+    "headway_minutes": 65
+  },
+  {
+    "line_no": "10",
+    "service_type": "daily",
+    "variant": "ΓΑΖΙ",
+    "note": "",
+    "from_start_time": "20:35",
+    "to_start_time": "21:35",
+    "headway_minutes": 60
+  },
+  {
+    "line_no": "10",
+    "service_type": "daily",
+    "variant": "ΓΑΖΙ",
+    "note": "",
+    "from_start_time": "21:35",
+    "to_start_time": "21:35",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "10",
+    "service_type": "daily",
+    "variant": "ΓΑΖΙ",
+    "note": "",
+    "from_start_time": "21:35",
+    "to_start_time": "22:10",
+    "headway_minutes": 35
+  },
+  {
+    "line_no": "10",
+    "service_type": "daily",
+    "variant": "ΓΑΖΙ",
+    "note": "",
+    "from_start_time": "22:10",
+    "to_start_time": "22:10",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "10",
+    "service_type": "daily",
+    "variant": "ΓΑΖΙ",
+    "note": "",
+    "from_start_time": "22:10",
+    "to_start_time": "22:20",
+    "headway_minutes": 10
+  },
+  {
+    "line_no": "10",
+    "service_type": "daily",
+    "variant": "ΓΑΖΙ",
+    "note": "",
+    "from_start_time": "22:20",
+    "to_start_time": "22:20",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "10",
+    "service_type": "daily",
+    "variant": "ΓΑΖΙ ΚΑΒΡΟΧΩΡΙ",
+    "note": "",
+    "from_start_time": "10:15",
+    "to_start_time": "10:15",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "10",
+    "service_type": "daily",
+    "variant": "ΓΑΖΙ ΚΑΒΡΟΧΩΡΙ",
+    "note": "",
+    "from_start_time": "10:15",
+    "to_start_time": "10:15",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "10",
+    "service_type": "daily",
+    "variant": "ΓΑΖΙ ΚΑΒΡΟΧΩΡΙ",
+    "note": "",
+    "from_start_time": "10:15",
+    "to_start_time": "12:25",
+    "headway_minutes": 130
+  },
+  {
+    "line_no": "10",
+    "service_type": "daily",
+    "variant": "ΓΑΖΙ ΚΑΒΡΟΧΩΡΙ",
+    "note": "",
+    "from_start_time": "12:25",
+    "to_start_time": "12:25",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "10",
+    "service_type": "daily",
+    "variant": "ΓΑΖΙ ΚΑΒΡΟΧΩΡΙ",
+    "note": "",
+    "from_start_time": "12:25",
+    "to_start_time": "12:25",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "10",
+    "service_type": "daily",
+    "variant": "ΓΑΖΙ ΚΑΒΡΟΧΩΡΙ",
+    "note": "",
+    "from_start_time": "12:25",
+    "to_start_time": "13:53",
+    "headway_minutes": 88
+  },
+  {
+    "line_no": "10",
+    "service_type": "daily",
+    "variant": "ΓΑΖΙ ΚΑΒΡΟΧΩΡΙ",
+    "note": "",
+    "from_start_time": "13:53",
+    "to_start_time": "13:53",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "10",
+    "service_type": "daily",
+    "variant": "ΓΑΖΙ ΚΑΒΡΟΧΩΡΙ",
+    "note": "",
+    "from_start_time": "13:53",
+    "to_start_time": "13:53",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "10",
+    "service_type": "daily",
+    "variant": "ΓΑΖΙ ΚΑΒΡΟΧΩΡΙ",
+    "note": "",
+    "from_start_time": "13:53",
+    "to_start_time": "14:20",
+    "headway_minutes": 27
+  },
+  {
+    "line_no": "10",
+    "service_type": "daily",
+    "variant": "ΓΑΖΙ ΚΑΒΡΟΧΩΡΙ",
+    "note": "",
+    "from_start_time": "14:20",
+    "to_start_time": "14:20",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "10",
+    "service_type": "daily",
+    "variant": "ΓΑΖΙ ΚΑΒΡΟΧΩΡΙ",
+    "note": "",
+    "from_start_time": "14:20",
+    "to_start_time": "14:20",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "10",
+    "service_type": "daily",
+    "variant": "ΓΑΖΙ ΚΑΒΡΟΧΩΡΙ",
+    "note": "",
+    "from_start_time": "14:20",
+    "to_start_time": "17:35",
+    "headway_minutes": 195
+  },
+  {
+    "line_no": "10",
+    "service_type": "daily",
+    "variant": "ΓΑΖΙ ΚΑΒΡΟΧΩΡΙ",
+    "note": "",
+    "from_start_time": "17:35",
+    "to_start_time": "17:35",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "10",
+    "service_type": "daily",
+    "variant": "ΓΑΖΙ ΚΑΒΡΟΧΩΡΙ",
+    "note": "",
+    "from_start_time": "17:35",
+    "to_start_time": "17:35",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "10",
+    "service_type": "daily",
+    "variant": "ΓΑΖΙ ΚΑΒΡΟΧΩΡΙ",
+    "note": "",
+    "from_start_time": "17:35",
+    "to_start_time": "20:35",
+    "headway_minutes": 180
+  },
+  {
+    "line_no": "10",
+    "service_type": "daily",
+    "variant": "ΓΑΖΙ ΚΑΒΡΟΧΩΡΙ",
+    "note": "",
+    "from_start_time": "20:35",
+    "to_start_time": "20:35",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "10",
+    "service_type": "daily",
+    "variant": "ΓΑΖΙ ΚΑΒΡΟΧΩΡΙ",
+    "note": "",
+    "from_start_time": "20:35",
+    "to_start_time": "20:35",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "11",
+    "service_type": "daily",
+    "variant": "ΠΑ.Γ.Ν.Η. / Ι.Τ.Ε. / FORTH",
+    "note": "",
+    "from_start_time": "07:19",
+    "to_start_time": "07:19",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "11",
+    "service_type": "daily",
+    "variant": "ΠΑΓΝΗ / Ι.Τ.Ε. FORTH / ΠΑΝΕΠΙΣΤΗΜΙΟ",
+    "note": "",
+    "from_start_time": "08:33",
+    "to_start_time": "08:33",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "11",
+    "service_type": "daily",
+    "variant": "ΠΑΓΝΗ / Ι.Τ.Ε. FORTH / ΠΑΝΕΠΙΣΤΗΜΙΟ",
+    "note": "",
+    "from_start_time": "08:33",
+    "to_start_time": "09:33",
+    "headway_minutes": 60
+  },
+  {
+    "line_no": "11",
+    "service_type": "daily",
+    "variant": "ΠΑΓΝΗ / Ι.Τ.Ε. FORTH / ΠΑΝΕΠΙΣΤΗΜΙΟ",
+    "note": "",
+    "from_start_time": "09:33",
+    "to_start_time": "09:33",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "11",
+    "service_type": "daily",
+    "variant": "ΠΑΓΝΗ / Ι.Τ.Ε. FORTH / ΠΑΝΕΠΙΣΤΗΜΙΟ",
+    "note": "",
+    "from_start_time": "09:33",
+    "to_start_time": "15:30",
+    "headway_minutes": 357
+  },
+  {
+    "line_no": "11",
+    "service_type": "daily",
+    "variant": "ΠΑΓΝΗ / Ι.Τ.Ε. FORTH / ΠΑΝΕΠΙΣΤΗΜΙΟ",
+    "note": "",
+    "from_start_time": "15:30",
+    "to_start_time": "16:30",
+    "headway_minutes": 60
+  },
+  {
+    "line_no": "11",
+    "service_type": "daily",
+    "variant": "ΠΑΓΝΗ / Ι.Τ.Ε. FORTH / ΠΑΝΕΠΙΣΤΗΜΙΟ",
+    "note": "",
+    "from_start_time": "16:30",
+    "to_start_time": "16:30",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "11",
+    "service_type": "daily",
+    "variant": "ΠΑΓΝΗ / Ι.Τ.Ε. FORTH / ΠΑΝΕΠΙΣΤΗΜΙΟ",
+    "note": "",
+    "from_start_time": "16:30",
+    "to_start_time": "17:30",
+    "headway_minutes": 60
+  },
+  {
+    "line_no": "11",
+    "service_type": "daily",
+    "variant": "ΠΑΓΝΗ / Ι.Τ.Ε. FORTH / ΠΑΝΕΠΙΣΤΗΜΙΟ",
+    "note": "",
+    "from_start_time": "17:30",
+    "to_start_time": "17:30",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "11",
+    "service_type": "daily",
+    "variant": "ΠΑΓΝΗ / Ι.Τ.Ε. FORTH / ΠΑΝΕΠΙΣΤΗΜΙΟ",
+    "note": "",
+    "from_start_time": "17:30",
+    "to_start_time": "19:35",
+    "headway_minutes": 125
+  },
+  {
+    "line_no": "11",
+    "service_type": "daily",
+    "variant": "ΠΑΓΝΗ / Ι.Τ.Ε. FORTH / ΠΑΝΕΠΙΣΤΗΜΙΟ",
+    "note": "",
+    "from_start_time": "19:35",
+    "to_start_time": "19:35",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "11",
+    "service_type": "daily",
+    "variant": "ΠΑΓΝΗ / Ι.Τ.Ε. FORTH / ΠΑΝΕΠΙΣΤΗΜΙΟ",
+    "note": "",
+    "from_start_time": "19:35",
+    "to_start_time": "21:20",
+    "headway_minutes": 105
+  },
+  {
+    "line_no": "11",
+    "service_type": "daily",
+    "variant": "ΠΑΓΝΗ / Ι.Τ.Ε. FORTH / ΠΑΝΕΠΙΣΤΗΜΙΟ",
+    "note": "",
+    "from_start_time": "21:20",
+    "to_start_time": "21:20",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "11",
+    "service_type": "unknown",
+    "variant": "ΠΑΓΝΗ / Ι.Τ.Ε. FORTH / ΠΑΝΕΠΙΣΤΗΜΙΟ",
+    "note": "",
+    "from_start_time": "14:28",
+    "to_start_time": "14:28",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "11",
+    "service_type": "unknown",
+    "variant": "ΠΑΓΝΗ / Ι.Τ.Ε. FORTH / ΠΑΝΕΠΙΣΤΗΜΙΟ",
+    "note": "",
+    "from_start_time": "14:28",
+    "to_start_time": "15:30",
+    "headway_minutes": 62
+  },
+  {
+    "line_no": "11",
+    "service_type": "daily",
+    "variant": "ΠΑ.Γ.Ν.Η. / ΠΑΝΕΠ/ΜΙΟ- ΑΕΡΟΔΡΟΜΙΟ",
+    "note": "",
+    "from_start_time": "22:40",
+    "to_start_time": "22:40",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "11",
+    "service_type": "daily",
+    "variant": "ΠΑ.Γ.Ν.Η. / Ι.Τ.Ε. / FORTH / ΠΑΝΕΠ/ΜΙΟ",
+    "note": "",
+    "from_start_time": "07:19",
+    "to_start_time": "07:19",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "11",
+    "service_type": "daily",
+    "variant": "ΠΑ.Γ.Ν.Η. / Ι.Τ.Ε. FORTH / ΠΑΝΕΠΙΣΤΗΜΙΟ",
+    "note": "",
+    "from_start_time": "08:33",
+    "to_start_time": "08:33",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "11",
+    "service_type": "daily",
+    "variant": "ΠΑ.Γ.Ν.Η. / Ι.Τ.Ε. FORTH / ΠΑΝΕΠΙΣΤΗΜΙΟ",
+    "note": "",
+    "from_start_time": "08:33",
+    "to_start_time": "09:33",
+    "headway_minutes": 60
+  },
+  {
+    "line_no": "11",
+    "service_type": "daily",
+    "variant": "ΠΑ.Γ.Ν.Η. / Ι.Τ.Ε. FORTH / ΠΑΝΕΠΙΣΤΗΜΙΟ",
+    "note": "",
+    "from_start_time": "09:33",
+    "to_start_time": "09:33",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "11",
+    "service_type": "daily",
+    "variant": "ΠΑ.Γ.Ν.Η. / Ι.Τ.Ε. FORTH / ΠΑΝΕΠΙΣΤΗΜΙΟ",
+    "note": "",
+    "from_start_time": "09:33",
+    "to_start_time": "14:28",
+    "headway_minutes": 295
+  },
+  {
+    "line_no": "11",
+    "service_type": "daily",
+    "variant": "ΠΑ.Γ.Ν.Η. / Ι.Τ.Ε. FORTH / ΠΑΝΕΠΙΣΤΗΜΙΟ",
+    "note": "",
+    "from_start_time": "14:28",
+    "to_start_time": "14:28",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "11",
+    "service_type": "daily",
+    "variant": "ΠΑ.Γ.Ν.Η. / Ι.Τ.Ε. FORTH / ΠΑΝΕΠΙΣΤΗΜΙΟ",
+    "note": "",
+    "from_start_time": "14:28",
+    "to_start_time": "15:30",
+    "headway_minutes": 62
+  },
+  {
+    "line_no": "11",
+    "service_type": "daily",
+    "variant": "ΠΑ.Γ.Ν.Η. / Ι.Τ.Ε. FORTH / ΠΑΝΕΠΙΣΤΗΜΙΟ",
+    "note": "",
+    "from_start_time": "15:30",
+    "to_start_time": "15:30",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "11",
+    "service_type": "daily",
+    "variant": "ΠΑ.Γ.Ν.Η. / Ι.Τ.Ε. FORTH / ΠΑΝΕΠΙΣΤΗΜΙΟ",
+    "note": "",
+    "from_start_time": "15:30",
+    "to_start_time": "16:30",
+    "headway_minutes": 60
+  },
+  {
+    "line_no": "11",
+    "service_type": "daily",
+    "variant": "ΠΑ.Γ.Ν.Η. / Ι.Τ.Ε. FORTH / ΠΑΝΕΠΙΣΤΗΜΙΟ",
+    "note": "",
+    "from_start_time": "16:30",
+    "to_start_time": "16:30",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "11",
+    "service_type": "daily",
+    "variant": "ΠΑ.Γ.Ν.Η. / Ι.Τ.Ε. FORTH / ΠΑΝΕΠΙΣΤΗΜΙΟ",
+    "note": "",
+    "from_start_time": "16:30",
+    "to_start_time": "17:30",
+    "headway_minutes": 60
+  },
+  {
+    "line_no": "11",
+    "service_type": "daily",
+    "variant": "ΠΑ.Γ.Ν.Η. / Ι.Τ.Ε. FORTH / ΠΑΝΕΠΙΣΤΗΜΙΟ",
+    "note": "",
+    "from_start_time": "17:30",
+    "to_start_time": "17:30",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "11",
+    "service_type": "daily",
+    "variant": "ΠΑ.Γ.Ν.Η. / Ι.Τ.Ε. FORTH / ΠΑΝΕΠΙΣΤΗΜΙΟ",
+    "note": "",
+    "from_start_time": "17:30",
+    "to_start_time": "19:35",
+    "headway_minutes": 125
+  },
+  {
+    "line_no": "11",
+    "service_type": "daily",
+    "variant": "ΠΑ.Γ.Ν.Η. / Ι.Τ.Ε. FORTH / ΠΑΝΕΠΙΣΤΗΜΙΟ",
+    "note": "",
+    "from_start_time": "19:35",
+    "to_start_time": "19:35",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "11",
+    "service_type": "daily",
+    "variant": "ΠΑ.Γ.Ν.Η. / Ι.Τ.Ε. FORTH / ΠΑΝΕΠΙΣΤΗΜΙΟ",
+    "note": "",
+    "from_start_time": "19:35",
+    "to_start_time": "21:20",
+    "headway_minutes": 105
+  },
+  {
+    "line_no": "11",
+    "service_type": "daily",
+    "variant": "ΠΑ.Γ.Ν.Η. / Ι.Τ.Ε. FORTH / ΠΑΝΕΠΙΣΤΗΜΙΟ",
+    "note": "",
+    "from_start_time": "21:20",
+    "to_start_time": "21:20",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "12",
+    "service_type": "daily",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "00:00",
+    "to_start_time": "00:07",
+    "headway_minutes": 7
+  },
+  {
+    "line_no": "12",
+    "service_type": "daily",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "00:07",
+    "to_start_time": "00:15",
+    "headway_minutes": 8
+  },
+  {
+    "line_no": "12",
+    "service_type": "daily",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "00:15",
+    "to_start_time": "00:19",
+    "headway_minutes": 4
+  },
+  {
+    "line_no": "12",
+    "service_type": "daily",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "00:19",
+    "to_start_time": "00:30",
+    "headway_minutes": 11
+  },
+  {
+    "line_no": "12",
+    "service_type": "daily",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "00:30",
+    "to_start_time": "00:30",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "12",
+    "service_type": "daily",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "00:30",
+    "to_start_time": "06:00",
+    "headway_minutes": 330
+  },
+  {
+    "line_no": "12",
+    "service_type": "daily",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "06:00",
+    "to_start_time": "06:37",
+    "headway_minutes": 37
+  },
+  {
+    "line_no": "12",
+    "service_type": "daily",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "06:37",
+    "to_start_time": "06:50",
+    "headway_minutes": 13
+  },
+  {
+    "line_no": "12",
+    "service_type": "daily",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "06:50",
+    "to_start_time": "07:17",
+    "headway_minutes": 27
+  },
+  {
+    "line_no": "12",
+    "service_type": "daily",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "07:17",
+    "to_start_time": "07:30",
+    "headway_minutes": 13
+  },
+  {
+    "line_no": "12",
+    "service_type": "daily",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "07:30",
+    "to_start_time": "07:35",
+    "headway_minutes": 5
+  },
+  {
+    "line_no": "12",
+    "service_type": "daily",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "07:35",
+    "to_start_time": "07:43",
+    "headway_minutes": 8
+  },
+  {
+    "line_no": "12",
+    "service_type": "daily",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "07:43",
+    "to_start_time": "07:55",
+    "headway_minutes": 12
+  },
+  {
+    "line_no": "12",
+    "service_type": "daily",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "07:55",
+    "to_start_time": "08:15",
+    "headway_minutes": 20
+  },
+  {
+    "line_no": "12",
+    "service_type": "daily",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "08:15",
+    "to_start_time": "08:25",
+    "headway_minutes": 10
+  },
+  {
+    "line_no": "12",
+    "service_type": "daily",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "08:25",
+    "to_start_time": "08:35",
+    "headway_minutes": 10
+  },
+  {
+    "line_no": "12",
+    "service_type": "daily",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "08:35",
+    "to_start_time": "08:45",
+    "headway_minutes": 10
+  },
+  {
+    "line_no": "12",
+    "service_type": "daily",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "08:45",
+    "to_start_time": "08:45",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "12",
+    "service_type": "daily",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "08:45",
+    "to_start_time": "08:55",
+    "headway_minutes": 10
+  },
+  {
+    "line_no": "12",
+    "service_type": "daily",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "08:55",
+    "to_start_time": "09:15",
+    "headway_minutes": 20
+  },
+  {
+    "line_no": "12",
+    "service_type": "daily",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "09:15",
+    "to_start_time": "09:25",
+    "headway_minutes": 10
+  },
+  {
+    "line_no": "12",
+    "service_type": "daily",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "09:25",
+    "to_start_time": "09:35",
+    "headway_minutes": 10
+  },
+  {
+    "line_no": "12",
+    "service_type": "daily",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "09:35",
+    "to_start_time": "09:45",
+    "headway_minutes": 10
+  },
+  {
+    "line_no": "12",
+    "service_type": "daily",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "09:45",
+    "to_start_time": "09:45",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "12",
+    "service_type": "daily",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "09:45",
+    "to_start_time": "09:55",
+    "headway_minutes": 10
+  },
+  {
+    "line_no": "12",
+    "service_type": "daily",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "09:55",
+    "to_start_time": "10:19",
+    "headway_minutes": 24
+  },
+  {
+    "line_no": "12",
+    "service_type": "daily",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "10:19",
+    "to_start_time": "10:32",
+    "headway_minutes": 13
+  },
+  {
+    "line_no": "12",
+    "service_type": "daily",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "10:32",
+    "to_start_time": "10:43",
+    "headway_minutes": 11
+  },
+  {
+    "line_no": "12",
+    "service_type": "daily",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "10:43",
+    "to_start_time": "10:45",
+    "headway_minutes": 2
+  },
+  {
+    "line_no": "12",
+    "service_type": "daily",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "10:45",
+    "to_start_time": "10:45",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "12",
+    "service_type": "daily",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "10:45",
+    "to_start_time": "10:55",
+    "headway_minutes": 10
+  },
+  {
+    "line_no": "12",
+    "service_type": "daily",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "10:55",
+    "to_start_time": "11:15",
+    "headway_minutes": 20
+  },
+  {
+    "line_no": "12",
+    "service_type": "daily",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "11:15",
+    "to_start_time": "11:45",
+    "headway_minutes": 30
+  },
+  {
+    "line_no": "12",
+    "service_type": "daily",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "11:45",
+    "to_start_time": "11:45",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "12",
+    "service_type": "daily",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "11:45",
+    "to_start_time": "12:45",
+    "headway_minutes": 60
+  },
+  {
+    "line_no": "12",
+    "service_type": "daily",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "12:45",
+    "to_start_time": "12:45",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "12",
+    "service_type": "daily",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "12:45",
+    "to_start_time": "13:45",
+    "headway_minutes": 60
+  },
+  {
+    "line_no": "12",
+    "service_type": "daily",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "13:45",
+    "to_start_time": "13:45",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "12",
+    "service_type": "daily",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "13:45",
+    "to_start_time": "14:45",
+    "headway_minutes": 60
+  },
+  {
+    "line_no": "12",
+    "service_type": "daily",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "14:45",
+    "to_start_time": "14:45",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "12",
+    "service_type": "daily",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "14:45",
+    "to_start_time": "15:45",
+    "headway_minutes": 60
+  },
+  {
+    "line_no": "12",
+    "service_type": "daily",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "15:45",
+    "to_start_time": "15:45",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "12",
+    "service_type": "daily",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "15:45",
+    "to_start_time": "17:45",
+    "headway_minutes": 120
+  },
+  {
+    "line_no": "12",
+    "service_type": "daily",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "17:45",
+    "to_start_time": "17:45",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "12",
+    "service_type": "daily",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "17:45",
+    "to_start_time": "18:19",
+    "headway_minutes": 34
+  },
+  {
+    "line_no": "12",
+    "service_type": "daily",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "18:19",
+    "to_start_time": "18:32",
+    "headway_minutes": 13
+  },
+  {
+    "line_no": "12",
+    "service_type": "daily",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "18:32",
+    "to_start_time": "18:43",
+    "headway_minutes": 11
+  },
+  {
+    "line_no": "12",
+    "service_type": "daily",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "18:43",
+    "to_start_time": "18:55",
+    "headway_minutes": 12
+  },
+  {
+    "line_no": "12",
+    "service_type": "daily",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "18:55",
+    "to_start_time": "19:07",
+    "headway_minutes": 12
+  },
+  {
+    "line_no": "12",
+    "service_type": "daily",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "19:07",
+    "to_start_time": "19:19",
+    "headway_minutes": 12
+  },
+  {
+    "line_no": "12",
+    "service_type": "daily",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "19:19",
+    "to_start_time": "19:32",
+    "headway_minutes": 13
+  },
+  {
+    "line_no": "12",
+    "service_type": "daily",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "19:32",
+    "to_start_time": "19:43",
+    "headway_minutes": 11
+  },
+  {
+    "line_no": "12",
+    "service_type": "daily",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "19:43",
+    "to_start_time": "19:45",
+    "headway_minutes": 2
+  },
+  {
+    "line_no": "12",
+    "service_type": "daily",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "19:45",
+    "to_start_time": "19:45",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "12",
+    "service_type": "daily",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "19:45",
+    "to_start_time": "19:55",
+    "headway_minutes": 10
+  },
+  {
+    "line_no": "12",
+    "service_type": "daily",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "19:55",
+    "to_start_time": "20:19",
+    "headway_minutes": 24
+  },
+  {
+    "line_no": "12",
+    "service_type": "daily",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "20:19",
+    "to_start_time": "20:42",
+    "headway_minutes": 23
+  },
+  {
+    "line_no": "12",
+    "service_type": "daily",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "20:42",
+    "to_start_time": "20:43",
+    "headway_minutes": 1
+  },
+  {
+    "line_no": "12",
+    "service_type": "daily",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "20:43",
+    "to_start_time": "20:55",
+    "headway_minutes": 12
+  },
+  {
+    "line_no": "12",
+    "service_type": "daily",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "20:55",
+    "to_start_time": "20:55",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "12",
+    "service_type": "daily",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "20:55",
+    "to_start_time": "21:10",
+    "headway_minutes": 15
+  },
+  {
+    "line_no": "12",
+    "service_type": "daily",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "21:10",
+    "to_start_time": "21:10",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "12",
+    "service_type": "daily",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "21:10",
+    "to_start_time": "21:23",
+    "headway_minutes": 13
+  },
+  {
+    "line_no": "12",
+    "service_type": "daily",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "21:23",
+    "to_start_time": "21:25",
+    "headway_minutes": 2
+  },
+  {
+    "line_no": "12",
+    "service_type": "daily",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "21:25",
+    "to_start_time": "21:37",
+    "headway_minutes": 12
+  },
+  {
+    "line_no": "12",
+    "service_type": "daily",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "21:37",
+    "to_start_time": "21:37",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "12",
+    "service_type": "daily",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "21:37",
+    "to_start_time": "21:45",
+    "headway_minutes": 8
+  },
+  {
+    "line_no": "12",
+    "service_type": "daily",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "21:45",
+    "to_start_time": "21:45",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "12",
+    "service_type": "daily",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "21:45",
+    "to_start_time": "21:55",
+    "headway_minutes": 10
+  },
+  {
+    "line_no": "12",
+    "service_type": "daily",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "21:55",
+    "to_start_time": "21:55",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "12",
+    "service_type": "daily",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "21:55",
+    "to_start_time": "22:15",
+    "headway_minutes": 20
+  },
+  {
+    "line_no": "12",
+    "service_type": "daily",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "22:15",
+    "to_start_time": "22:15",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "12",
+    "service_type": "daily",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "22:15",
+    "to_start_time": "22:35",
+    "headway_minutes": 20
+  },
+  {
+    "line_no": "12",
+    "service_type": "daily",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "22:35",
+    "to_start_time": "22:35",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "12",
+    "service_type": "daily",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "22:35",
+    "to_start_time": "22:55",
+    "headway_minutes": 20
+  },
+  {
+    "line_no": "12",
+    "service_type": "daily",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "22:55",
+    "to_start_time": "22:55",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "12",
+    "service_type": "daily",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "22:55",
+    "to_start_time": "23:10",
+    "headway_minutes": 15
+  },
+  {
+    "line_no": "12",
+    "service_type": "daily",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "23:10",
+    "to_start_time": "23:15",
+    "headway_minutes": 5
+  },
+  {
+    "line_no": "12",
+    "service_type": "daily",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "23:15",
+    "to_start_time": "23:25",
+    "headway_minutes": 10
+  },
+  {
+    "line_no": "12",
+    "service_type": "daily",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "23:25",
+    "to_start_time": "23:30",
+    "headway_minutes": 5
+  },
+  {
+    "line_no": "12",
+    "service_type": "daily",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "23:30",
+    "to_start_time": "23:40",
+    "headway_minutes": 10
+  },
+  {
+    "line_no": "12",
+    "service_type": "daily",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "23:40",
+    "to_start_time": "23:45",
+    "headway_minutes": 5
+  },
+  {
+    "line_no": "12",
+    "service_type": "daily",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "23:45",
+    "to_start_time": "23:55",
+    "headway_minutes": 10
+  },
+  {
+    "line_no": "12",
+    "service_type": "daily",
+    "variant": "ΕΛ.ΜΕ.ΠΑ",
+    "note": "",
+    "from_start_time": "07:05",
+    "to_start_time": "08:05",
+    "headway_minutes": 60
+  },
+  {
+    "line_no": "12",
+    "service_type": "daily",
+    "variant": "ΕΛ.ΜΕ.ΠΑ",
+    "note": "",
+    "from_start_time": "08:05",
+    "to_start_time": "09:05",
+    "headway_minutes": 60
+  },
+  {
+    "line_no": "12",
+    "service_type": "daily",
+    "variant": "ΕΛ.ΜΕ.ΠΑ",
+    "note": "",
+    "from_start_time": "09:05",
+    "to_start_time": "10:07",
+    "headway_minutes": 62
+  },
+  {
+    "line_no": "12",
+    "service_type": "daily",
+    "variant": "ΕΛ.ΜΕ.ΠΑ",
+    "note": "",
+    "from_start_time": "10:07",
+    "to_start_time": "11:05",
+    "headway_minutes": 58
+  },
+  {
+    "line_no": "12",
+    "service_type": "daily",
+    "variant": "ΕΛ.ΜΕ.ΠΑ",
+    "note": "",
+    "from_start_time": "11:05",
+    "to_start_time": "20:07",
+    "headway_minutes": 542
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "00:10",
+    "to_start_time": "00:25",
+    "headway_minutes": 15
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "00:25",
+    "to_start_time": "00:40",
+    "headway_minutes": 15
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "00:40",
+    "to_start_time": "06:05",
+    "headway_minutes": 325
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "06:05",
+    "to_start_time": "06:05",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "06:05",
+    "to_start_time": "06:45",
+    "headway_minutes": 40
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "06:45",
+    "to_start_time": "07:05",
+    "headway_minutes": 20
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "07:05",
+    "to_start_time": "07:05",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "07:05",
+    "to_start_time": "07:20",
+    "headway_minutes": 15
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "07:20",
+    "to_start_time": "07:20",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "07:20",
+    "to_start_time": "07:38",
+    "headway_minutes": 18
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "07:38",
+    "to_start_time": "07:40",
+    "headway_minutes": 2
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "07:40",
+    "to_start_time": "07:45",
+    "headway_minutes": 5
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "07:45",
+    "to_start_time": "07:45",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "07:45",
+    "to_start_time": "07:50",
+    "headway_minutes": 5
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "07:50",
+    "to_start_time": "08:10",
+    "headway_minutes": 20
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "08:10",
+    "to_start_time": "08:15",
+    "headway_minutes": 5
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "08:15",
+    "to_start_time": "08:25",
+    "headway_minutes": 10
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "08:25",
+    "to_start_time": "08:35",
+    "headway_minutes": 10
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "08:35",
+    "to_start_time": "08:40",
+    "headway_minutes": 5
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "08:40",
+    "to_start_time": "08:45",
+    "headway_minutes": 5
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "08:45",
+    "to_start_time": "08:55",
+    "headway_minutes": 10
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "08:55",
+    "to_start_time": "08:55",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "08:55",
+    "to_start_time": "09:10",
+    "headway_minutes": 15
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "09:10",
+    "to_start_time": "09:10",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "09:10",
+    "to_start_time": "09:25",
+    "headway_minutes": 15
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "09:25",
+    "to_start_time": "09:25",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "09:25",
+    "to_start_time": "09:40",
+    "headway_minutes": 15
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "09:40",
+    "to_start_time": "09:40",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "09:40",
+    "to_start_time": "09:45",
+    "headway_minutes": 5
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "09:45",
+    "to_start_time": "09:45",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "09:45",
+    "to_start_time": "09:55",
+    "headway_minutes": 10
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "09:55",
+    "to_start_time": "09:55",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "09:55",
+    "to_start_time": "10:10",
+    "headway_minutes": 15
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "10:10",
+    "to_start_time": "10:10",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "10:10",
+    "to_start_time": "10:25",
+    "headway_minutes": 15
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "10:25",
+    "to_start_time": "10:25",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "10:25",
+    "to_start_time": "10:40",
+    "headway_minutes": 15
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "10:40",
+    "to_start_time": "10:40",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "10:40",
+    "to_start_time": "10:55",
+    "headway_minutes": 15
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "10:55",
+    "to_start_time": "10:55",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "10:55",
+    "to_start_time": "11:10",
+    "headway_minutes": 15
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "11:10",
+    "to_start_time": "11:10",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "11:10",
+    "to_start_time": "11:25",
+    "headway_minutes": 15
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "11:25",
+    "to_start_time": "11:25",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "11:25",
+    "to_start_time": "11:35",
+    "headway_minutes": 10
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "11:35",
+    "to_start_time": "11:40",
+    "headway_minutes": 5
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "11:40",
+    "to_start_time": "11:40",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "11:40",
+    "to_start_time": "11:45",
+    "headway_minutes": 5
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "11:45",
+    "to_start_time": "11:45",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "11:45",
+    "to_start_time": "11:55",
+    "headway_minutes": 10
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "11:55",
+    "to_start_time": "11:55",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "11:55",
+    "to_start_time": "11:55",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "11:55",
+    "to_start_time": "12:10",
+    "headway_minutes": 15
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "12:10",
+    "to_start_time": "12:10",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "12:10",
+    "to_start_time": "12:10",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "12:10",
+    "to_start_time": "12:15",
+    "headway_minutes": 5
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "12:15",
+    "to_start_time": "12:25",
+    "headway_minutes": 10
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "12:25",
+    "to_start_time": "12:25",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "12:25",
+    "to_start_time": "12:25",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "12:25",
+    "to_start_time": "12:35",
+    "headway_minutes": 10
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "12:35",
+    "to_start_time": "12:40",
+    "headway_minutes": 5
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "12:40",
+    "to_start_time": "12:40",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "12:40",
+    "to_start_time": "12:45",
+    "headway_minutes": 5
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "12:45",
+    "to_start_time": "12:55",
+    "headway_minutes": 10
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "12:55",
+    "to_start_time": "12:55",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "12:55",
+    "to_start_time": "12:55",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "12:55",
+    "to_start_time": "13:00",
+    "headway_minutes": 5
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "13:00",
+    "to_start_time": "13:10",
+    "headway_minutes": 10
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "13:10",
+    "to_start_time": "13:10",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "13:10",
+    "to_start_time": "13:25",
+    "headway_minutes": 15
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "13:25",
+    "to_start_time": "13:25",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "13:25",
+    "to_start_time": "13:26",
+    "headway_minutes": 1
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "13:26",
+    "to_start_time": "13:38",
+    "headway_minutes": 12
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "13:38",
+    "to_start_time": "13:40",
+    "headway_minutes": 2
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "13:40",
+    "to_start_time": "13:40",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "13:40",
+    "to_start_time": "13:45",
+    "headway_minutes": 5
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "13:45",
+    "to_start_time": "13:55",
+    "headway_minutes": 10
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "13:55",
+    "to_start_time": "13:55",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "13:55",
+    "to_start_time": "13:55",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "13:55",
+    "to_start_time": "14:10",
+    "headway_minutes": 15
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "14:10",
+    "to_start_time": "14:15",
+    "headway_minutes": 5
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "14:15",
+    "to_start_time": "14:25",
+    "headway_minutes": 10
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "14:25",
+    "to_start_time": "14:25",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "14:25",
+    "to_start_time": "14:35",
+    "headway_minutes": 10
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "14:35",
+    "to_start_time": "14:38",
+    "headway_minutes": 3
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "14:38",
+    "to_start_time": "14:40",
+    "headway_minutes": 2
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "14:40",
+    "to_start_time": "14:55",
+    "headway_minutes": 15
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "14:55",
+    "to_start_time": "14:55",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "14:55",
+    "to_start_time": "14:55",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "14:55",
+    "to_start_time": "15:10",
+    "headway_minutes": 15
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "15:10",
+    "to_start_time": "15:10",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "15:10",
+    "to_start_time": "15:10",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "15:10",
+    "to_start_time": "15:25",
+    "headway_minutes": 15
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "15:25",
+    "to_start_time": "15:25",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "15:25",
+    "to_start_time": "15:40",
+    "headway_minutes": 15
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "15:40",
+    "to_start_time": "15:40",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "15:40",
+    "to_start_time": "15:40",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "15:40",
+    "to_start_time": "15:45",
+    "headway_minutes": 5
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "15:45",
+    "to_start_time": "15:55",
+    "headway_minutes": 10
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "15:55",
+    "to_start_time": "15:55",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "15:55",
+    "to_start_time": "15:55",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "15:55",
+    "to_start_time": "16:07",
+    "headway_minutes": 12
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "16:07",
+    "to_start_time": "16:10",
+    "headway_minutes": 3
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "16:10",
+    "to_start_time": "16:19",
+    "headway_minutes": 9
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "16:19",
+    "to_start_time": "16:25",
+    "headway_minutes": 6
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "16:25",
+    "to_start_time": "16:25",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "16:25",
+    "to_start_time": "16:32",
+    "headway_minutes": 7
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "16:32",
+    "to_start_time": "16:40",
+    "headway_minutes": 8
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "16:40",
+    "to_start_time": "16:40",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "16:40",
+    "to_start_time": "16:55",
+    "headway_minutes": 15
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "16:55",
+    "to_start_time": "16:55",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "16:55",
+    "to_start_time": "16:56",
+    "headway_minutes": 1
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "16:56",
+    "to_start_time": "17:07",
+    "headway_minutes": 11
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "17:07",
+    "to_start_time": "17:07",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "17:07",
+    "to_start_time": "17:10",
+    "headway_minutes": 3
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "17:10",
+    "to_start_time": "17:10",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "17:10",
+    "to_start_time": "17:19",
+    "headway_minutes": 9
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "17:19",
+    "to_start_time": "17:19",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "17:19",
+    "to_start_time": "17:31",
+    "headway_minutes": 12
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "17:31",
+    "to_start_time": "17:32",
+    "headway_minutes": 1
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "17:32",
+    "to_start_time": "17:40",
+    "headway_minutes": 8
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "17:40",
+    "to_start_time": "17:43",
+    "headway_minutes": 3
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "17:43",
+    "to_start_time": "17:43",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "17:43",
+    "to_start_time": "17:45",
+    "headway_minutes": 2
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "17:45",
+    "to_start_time": "17:55",
+    "headway_minutes": 10
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "17:55",
+    "to_start_time": "17:55",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "17:55",
+    "to_start_time": "17:55",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "17:55",
+    "to_start_time": "18:07",
+    "headway_minutes": 12
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "18:07",
+    "to_start_time": "18:10",
+    "headway_minutes": 3
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "18:10",
+    "to_start_time": "18:19",
+    "headway_minutes": 9
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "18:19",
+    "to_start_time": "18:25",
+    "headway_minutes": 6
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "18:25",
+    "to_start_time": "18:31",
+    "headway_minutes": 6
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "18:31",
+    "to_start_time": "18:40",
+    "headway_minutes": 9
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "18:40",
+    "to_start_time": "18:43",
+    "headway_minutes": 3
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "18:43",
+    "to_start_time": "18:55",
+    "headway_minutes": 12
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "18:55",
+    "to_start_time": "18:55",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "18:55",
+    "to_start_time": "19:10",
+    "headway_minutes": 15
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "19:10",
+    "to_start_time": "19:10",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "19:10",
+    "to_start_time": "19:25",
+    "headway_minutes": 15
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "19:25",
+    "to_start_time": "19:25",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "19:25",
+    "to_start_time": "19:40",
+    "headway_minutes": 15
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "19:40",
+    "to_start_time": "19:40",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "19:40",
+    "to_start_time": "19:45",
+    "headway_minutes": 5
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "19:45",
+    "to_start_time": "19:55",
+    "headway_minutes": 10
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "19:55",
+    "to_start_time": "19:55",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "19:55",
+    "to_start_time": "20:10",
+    "headway_minutes": 15
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "20:10",
+    "to_start_time": "20:10",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "20:10",
+    "to_start_time": "20:25",
+    "headway_minutes": 15
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "20:25",
+    "to_start_time": "20:25",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "20:25",
+    "to_start_time": "20:40",
+    "headway_minutes": 15
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "20:40",
+    "to_start_time": "20:40",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "20:40",
+    "to_start_time": "20:55",
+    "headway_minutes": 15
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "20:55",
+    "to_start_time": "21:10",
+    "headway_minutes": 15
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "21:10",
+    "to_start_time": "21:25",
+    "headway_minutes": 15
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "21:25",
+    "to_start_time": "21:35",
+    "headway_minutes": 10
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "21:35",
+    "to_start_time": "21:45",
+    "headway_minutes": 10
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "21:45",
+    "to_start_time": "21:55",
+    "headway_minutes": 10
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "21:55",
+    "to_start_time": "22:15",
+    "headway_minutes": 20
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "22:15",
+    "to_start_time": "22:35",
+    "headway_minutes": 20
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "22:35",
+    "to_start_time": "22:55",
+    "headway_minutes": 20
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "22:55",
+    "to_start_time": "23:15",
+    "headway_minutes": 20
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "23:15",
+    "to_start_time": "23:35",
+    "headway_minutes": 20
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "from_start_time": "23:35",
+    "to_start_time": "23:55",
+    "headway_minutes": 20
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ",
+    "note": "",
+    "from_start_time": "12:05",
+    "to_start_time": "13:07",
+    "headway_minutes": 62
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ",
+    "note": "",
+    "from_start_time": "13:07",
+    "to_start_time": "14:10",
+    "headway_minutes": 63
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ",
+    "note": "",
+    "from_start_time": "14:10",
+    "to_start_time": "16:10",
+    "headway_minutes": 120
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ",
+    "note": "",
+    "from_start_time": "16:10",
+    "to_start_time": "18:07",
+    "headway_minutes": 117
+  },
+  {
+    "line_no": "14",
+    "service_type": "daily",
+    "variant": "ΒΙ.ΠΕ.Η.",
+    "note": "",
+    "from_start_time": "06:48",
+    "to_start_time": "07:10",
+    "headway_minutes": 22
+  },
+  {
+    "line_no": "14",
+    "service_type": "daily",
+    "variant": "ΒΙ.ΠΕ.Η.",
+    "note": "",
+    "from_start_time": "07:10",
+    "to_start_time": "11:20",
+    "headway_minutes": 250
+  },
+  {
+    "line_no": "14",
+    "service_type": "daily",
+    "variant": "ΒΙ.ΠΕ.Η.",
+    "note": "",
+    "from_start_time": "11:20",
+    "to_start_time": "12:10",
+    "headway_minutes": 50
+  },
+  {
+    "line_no": "14",
+    "service_type": "daily",
+    "variant": "ΒΙ.ΠΕ.Η.",
+    "note": "",
+    "from_start_time": "12:10",
+    "to_start_time": "14:25",
+    "headway_minutes": 135
+  },
+  {
+    "line_no": "14",
+    "service_type": "daily",
+    "variant": "ΒΙ.ΠΕ.Η.",
+    "note": "",
+    "from_start_time": "14:25",
+    "to_start_time": "16:20",
+    "headway_minutes": 115
+  },
+  {
+    "line_no": "15",
+    "service_type": "daily",
+    "variant": "ΦΟΙΝΙΚΙΑ / ΜΑΛΑΔΕΣ",
+    "note": "",
+    "from_start_time": "14:13",
+    "to_start_time": "16:05",
+    "headway_minutes": 112
+  },
+  {
+    "line_no": "02",
+    "service_type": "daily",
+    "variant": "ΚΝΩΣΣΟΣ",
+    "note": "",
+    "from_start_time": "05:50",
+    "to_start_time": "06:20",
+    "headway_minutes": 30
+  },
+  {
+    "line_no": "02",
+    "service_type": "daily",
+    "variant": "ΚΝΩΣΣΟΣ",
+    "note": "",
+    "from_start_time": "06:20",
+    "to_start_time": "07:00",
+    "headway_minutes": 40
+  },
+  {
+    "line_no": "02",
+    "service_type": "daily",
+    "variant": "ΚΝΩΣΣΟΣ",
+    "note": "",
+    "from_start_time": "07:00",
+    "to_start_time": "07:20",
+    "headway_minutes": 20
+  },
+  {
+    "line_no": "02",
+    "service_type": "daily",
+    "variant": "ΚΝΩΣΣΟΣ",
+    "note": "",
+    "from_start_time": "07:20",
+    "to_start_time": "07:55",
+    "headway_minutes": 35
+  },
+  {
+    "line_no": "02",
+    "service_type": "daily",
+    "variant": "ΚΝΩΣΣΟΣ",
+    "note": "",
+    "from_start_time": "07:55",
+    "to_start_time": "08:10",
+    "headway_minutes": 15
+  },
+  {
+    "line_no": "02",
+    "service_type": "daily",
+    "variant": "ΚΝΩΣΣΟΣ",
+    "note": "",
+    "from_start_time": "08:10",
+    "to_start_time": "08:25",
+    "headway_minutes": 15
+  },
+  {
+    "line_no": "02",
+    "service_type": "daily",
+    "variant": "ΚΝΩΣΣΟΣ",
+    "note": "",
+    "from_start_time": "08:25",
+    "to_start_time": "08:40",
+    "headway_minutes": 15
+  },
+  {
+    "line_no": "02",
+    "service_type": "daily",
+    "variant": "ΚΝΩΣΣΟΣ",
+    "note": "",
+    "from_start_time": "08:40",
+    "to_start_time": "09:00",
+    "headway_minutes": 20
+  },
+  {
+    "line_no": "02",
+    "service_type": "daily",
+    "variant": "ΚΝΩΣΣΟΣ",
+    "note": "",
+    "from_start_time": "09:00",
+    "to_start_time": "09:20",
+    "headway_minutes": 20
+  },
+  {
+    "line_no": "02",
+    "service_type": "daily",
+    "variant": "ΚΝΩΣΣΟΣ",
+    "note": "",
+    "from_start_time": "09:20",
+    "to_start_time": "09:40",
+    "headway_minutes": 20
+  },
+  {
+    "line_no": "02",
+    "service_type": "daily",
+    "variant": "ΚΝΩΣΣΟΣ",
+    "note": "",
+    "from_start_time": "09:40",
+    "to_start_time": "10:00",
+    "headway_minutes": 20
+  },
+  {
+    "line_no": "02",
+    "service_type": "daily",
+    "variant": "ΚΝΩΣΣΟΣ",
+    "note": "",
+    "from_start_time": "10:00",
+    "to_start_time": "10:20",
+    "headway_minutes": 20
+  },
+  {
+    "line_no": "02",
+    "service_type": "daily",
+    "variant": "ΚΝΩΣΣΟΣ",
+    "note": "",
+    "from_start_time": "10:20",
+    "to_start_time": "10:40",
+    "headway_minutes": 20
+  },
+  {
+    "line_no": "02",
+    "service_type": "daily",
+    "variant": "ΚΝΩΣΣΟΣ",
+    "note": "",
+    "from_start_time": "10:40",
+    "to_start_time": "11:00",
+    "headway_minutes": 20
+  },
+  {
+    "line_no": "02",
+    "service_type": "daily",
+    "variant": "ΚΝΩΣΣΟΣ",
+    "note": "",
+    "from_start_time": "11:00",
+    "to_start_time": "11:20",
+    "headway_minutes": 20
+  },
+  {
+    "line_no": "02",
+    "service_type": "daily",
+    "variant": "ΚΝΩΣΣΟΣ",
+    "note": "",
+    "from_start_time": "11:20",
+    "to_start_time": "11:40",
+    "headway_minutes": 20
+  },
+  {
+    "line_no": "02",
+    "service_type": "daily",
+    "variant": "ΚΝΩΣΣΟΣ",
+    "note": "",
+    "from_start_time": "11:40",
+    "to_start_time": "11:55",
+    "headway_minutes": 15
+  },
+  {
+    "line_no": "02",
+    "service_type": "daily",
+    "variant": "ΚΝΩΣΣΟΣ",
+    "note": "",
+    "from_start_time": "11:55",
+    "to_start_time": "12:10",
+    "headway_minutes": 15
+  },
+  {
+    "line_no": "02",
+    "service_type": "daily",
+    "variant": "ΚΝΩΣΣΟΣ",
+    "note": "",
+    "from_start_time": "12:10",
+    "to_start_time": "12:25",
+    "headway_minutes": 15
+  },
+  {
+    "line_no": "02",
+    "service_type": "daily",
+    "variant": "ΚΝΩΣΣΟΣ",
+    "note": "",
+    "from_start_time": "12:25",
+    "to_start_time": "12:40",
+    "headway_minutes": 15
+  },
+  {
+    "line_no": "02",
+    "service_type": "daily",
+    "variant": "ΚΝΩΣΣΟΣ",
+    "note": "",
+    "from_start_time": "12:40",
+    "to_start_time": "12:55",
+    "headway_minutes": 15
+  },
+  {
+    "line_no": "02",
+    "service_type": "daily",
+    "variant": "ΚΝΩΣΣΟΣ",
+    "note": "",
+    "from_start_time": "12:55",
+    "to_start_time": "13:10",
+    "headway_minutes": 15
+  },
+  {
+    "line_no": "02",
+    "service_type": "daily",
+    "variant": "ΚΝΩΣΣΟΣ",
+    "note": "",
+    "from_start_time": "13:10",
+    "to_start_time": "16:20",
+    "headway_minutes": 190
+  },
+  {
+    "line_no": "02",
+    "service_type": "daily",
+    "variant": "ΚΝΩΣΣΟΣ",
+    "note": "",
+    "from_start_time": "16:20",
+    "to_start_time": "16:40",
+    "headway_minutes": 20
+  },
+  {
+    "line_no": "02",
+    "service_type": "daily",
+    "variant": "ΚΝΩΣΣΟΣ",
+    "note": "",
+    "from_start_time": "16:40",
+    "to_start_time": "17:00",
+    "headway_minutes": 20
+  },
+  {
+    "line_no": "02",
+    "service_type": "daily",
+    "variant": "ΚΝΩΣΣΟΣ",
+    "note": "",
+    "from_start_time": "17:00",
+    "to_start_time": "17:20",
+    "headway_minutes": 20
+  },
+  {
+    "line_no": "02",
+    "service_type": "daily",
+    "variant": "ΚΝΩΣΣΟΣ",
+    "note": "",
+    "from_start_time": "17:20",
+    "to_start_time": "17:40",
+    "headway_minutes": 20
+  },
+  {
+    "line_no": "02",
+    "service_type": "daily",
+    "variant": "ΚΝΩΣΣΟΣ",
+    "note": "",
+    "from_start_time": "17:40",
+    "to_start_time": "18:00",
+    "headway_minutes": 20
+  },
+  {
+    "line_no": "02",
+    "service_type": "daily",
+    "variant": "ΚΝΩΣΣΟΣ",
+    "note": "",
+    "from_start_time": "18:00",
+    "to_start_time": "18:00",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "02",
+    "service_type": "daily",
+    "variant": "ΚΝΩΣΣΟΣ",
+    "note": "",
+    "from_start_time": "18:00",
+    "to_start_time": "18:20",
+    "headway_minutes": 20
+  },
+  {
+    "line_no": "02",
+    "service_type": "daily",
+    "variant": "ΚΝΩΣΣΟΣ",
+    "note": "",
+    "from_start_time": "18:20",
+    "to_start_time": "18:30",
+    "headway_minutes": 10
+  },
+  {
+    "line_no": "02",
+    "service_type": "daily",
+    "variant": "ΚΝΩΣΣΟΣ",
+    "note": "",
+    "from_start_time": "18:30",
+    "to_start_time": "18:40",
+    "headway_minutes": 10
+  },
+  {
+    "line_no": "02",
+    "service_type": "daily",
+    "variant": "ΚΝΩΣΣΟΣ",
+    "note": "",
+    "from_start_time": "18:40",
+    "to_start_time": "19:00",
+    "headway_minutes": 20
+  },
+  {
+    "line_no": "02",
+    "service_type": "daily",
+    "variant": "ΚΝΩΣΣΟΣ",
+    "note": "",
+    "from_start_time": "19:00",
+    "to_start_time": "19:00",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "02",
+    "service_type": "daily",
+    "variant": "ΚΝΩΣΣΟΣ",
+    "note": "",
+    "from_start_time": "19:00",
+    "to_start_time": "19:20",
+    "headway_minutes": 20
+  },
+  {
+    "line_no": "02",
+    "service_type": "daily",
+    "variant": "ΚΝΩΣΣΟΣ",
+    "note": "",
+    "from_start_time": "19:20",
+    "to_start_time": "19:30",
+    "headway_minutes": 10
+  },
+  {
+    "line_no": "02",
+    "service_type": "daily",
+    "variant": "ΚΝΩΣΣΟΣ",
+    "note": "",
+    "from_start_time": "19:30",
+    "to_start_time": "19:40",
+    "headway_minutes": 10
+  },
+  {
+    "line_no": "02",
+    "service_type": "daily",
+    "variant": "ΚΝΩΣΣΟΣ",
+    "note": "",
+    "from_start_time": "19:40",
+    "to_start_time": "20:00",
+    "headway_minutes": 20
+  },
+  {
+    "line_no": "02",
+    "service_type": "daily",
+    "variant": "ΚΝΩΣΣΟΣ",
+    "note": "",
+    "from_start_time": "20:00",
+    "to_start_time": "20:00",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "02",
+    "service_type": "daily",
+    "variant": "ΚΝΩΣΣΟΣ",
+    "note": "",
+    "from_start_time": "20:00",
+    "to_start_time": "20:20",
+    "headway_minutes": 20
+  },
+  {
+    "line_no": "02",
+    "service_type": "daily",
+    "variant": "ΚΝΩΣΣΟΣ",
+    "note": "",
+    "from_start_time": "20:20",
+    "to_start_time": "20:30",
+    "headway_minutes": 10
+  },
+  {
+    "line_no": "02",
+    "service_type": "daily",
+    "variant": "ΚΝΩΣΣΟΣ",
+    "note": "",
+    "from_start_time": "20:30",
+    "to_start_time": "21:00",
+    "headway_minutes": 30
+  },
+  {
+    "line_no": "02",
+    "service_type": "daily",
+    "variant": "ΚΝΩΣΣΟΣ",
+    "note": "",
+    "from_start_time": "21:00",
+    "to_start_time": "21:00",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "02",
+    "service_type": "daily",
+    "variant": "ΚΝΩΣΣΟΣ",
+    "note": "",
+    "from_start_time": "21:00",
+    "to_start_time": "21:30",
+    "headway_minutes": 30
+  },
+  {
+    "line_no": "02",
+    "service_type": "daily",
+    "variant": "ΚΝΩΣΣΟΣ",
+    "note": "",
+    "from_start_time": "21:30",
+    "to_start_time": "22:00",
+    "headway_minutes": 30
+  },
+  {
+    "line_no": "02",
+    "service_type": "daily",
+    "variant": "ΚΝΩΣΣΟΣ",
+    "note": "",
+    "from_start_time": "22:00",
+    "to_start_time": "22:00",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "02",
+    "service_type": "daily",
+    "variant": "ΚΝΩΣΣΟΣ",
+    "note": "",
+    "from_start_time": "22:00",
+    "to_start_time": "22:25",
+    "headway_minutes": 25
+  },
+  {
+    "line_no": "02",
+    "service_type": "daily",
+    "variant": "ΚΝΩΣΣΟΣ",
+    "note": "",
+    "from_start_time": "22:25",
+    "to_start_time": "22:25",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "02",
+    "service_type": "daily",
+    "variant": "ΚΝΩΣΣΟΣ",
+    "note": "",
+    "from_start_time": "22:25",
+    "to_start_time": "22:50",
+    "headway_minutes": 25
+  },
+  {
+    "line_no": "02",
+    "service_type": "daily",
+    "variant": "ΚΝΩΣΣΟΣ",
+    "note": "",
+    "from_start_time": "22:50",
+    "to_start_time": "22:50",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "02",
+    "service_type": "daily",
+    "variant": "ΚΝΩΣΣΟΣ",
+    "note": "",
+    "from_start_time": "22:50",
+    "to_start_time": "23:15",
+    "headway_minutes": 25
+  },
+  {
+    "line_no": "02",
+    "service_type": "daily",
+    "variant": "ΚΝΩΣΣΟΣ",
+    "note": "",
+    "from_start_time": "23:15",
+    "to_start_time": "23:15",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "02",
+    "service_type": "daily",
+    "variant": "ΣΚΑΛΑΝΙ",
+    "note": "",
+    "from_start_time": "07:05",
+    "to_start_time": "07:05",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "02",
+    "service_type": "daily",
+    "variant": "ΣΚΑΛΑΝΙ",
+    "note": "",
+    "from_start_time": "07:05",
+    "to_start_time": "07:30",
+    "headway_minutes": 25
+  },
+  {
+    "line_no": "02",
+    "service_type": "daily",
+    "variant": "ΣΚΑΛΑΝΙ",
+    "note": "",
+    "from_start_time": "07:30",
+    "to_start_time": "09:50",
+    "headway_minutes": 140
+  },
+  {
+    "line_no": "02",
+    "service_type": "daily",
+    "variant": "ΣΚΑΛΑΝΙ",
+    "note": "",
+    "from_start_time": "09:50",
+    "to_start_time": "09:50",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "02",
+    "service_type": "daily",
+    "variant": "ΣΚΑΛΑΝΙ",
+    "note": "",
+    "from_start_time": "09:50",
+    "to_start_time": "10:00",
+    "headway_minutes": 10
+  },
+  {
+    "line_no": "02",
+    "service_type": "daily",
+    "variant": "ΣΚΑΛΑΝΙ",
+    "note": "",
+    "from_start_time": "10:00",
+    "to_start_time": "13:20",
+    "headway_minutes": 200
+  },
+  {
+    "line_no": "02",
+    "service_type": "daily",
+    "variant": "ΣΚΑΛΑΝΙ",
+    "note": "",
+    "from_start_time": "13:20",
+    "to_start_time": "14:20",
+    "headway_minutes": 60
+  },
+  {
+    "line_no": "02",
+    "service_type": "daily",
+    "variant": "ΣΚΑΛΑΝΙ",
+    "note": "",
+    "from_start_time": "14:20",
+    "to_start_time": "14:20",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "02",
+    "service_type": "daily",
+    "variant": "ΣΚΑΛΑΝΙ",
+    "note": "",
+    "from_start_time": "14:20",
+    "to_start_time": "16:00",
+    "headway_minutes": 100
+  },
+  {
+    "line_no": "02",
+    "service_type": "daily",
+    "variant": "ΣΚΑΛΑΝΙ",
+    "note": "",
+    "from_start_time": "16:00",
+    "to_start_time": "16:05",
+    "headway_minutes": 5
+  },
+  {
+    "line_no": "02",
+    "service_type": "unknown",
+    "variant": "ΣΚΑΛΑΝΙ",
+    "note": "",
+    "from_start_time": "07:30",
+    "to_start_time": "10:00",
+    "headway_minutes": 150
+  },
+  {
+    "line_no": "02",
+    "service_type": "unknown",
+    "variant": "ΣΚΑΛΑΝΙ",
+    "note": "",
+    "from_start_time": "10:00",
+    "to_start_time": "13:20",
+    "headway_minutes": 200
+  },
+  {
+    "line_no": "02",
+    "service_type": "unknown",
+    "variant": "ΣΚΑΛΑΝΙ",
+    "note": "",
+    "from_start_time": "13:20",
+    "to_start_time": "14:20",
+    "headway_minutes": 60
+  },
+  {
+    "line_no": "02",
+    "service_type": "unknown",
+    "variant": "ΣΚΑΛΑΝΙ",
+    "note": "",
+    "from_start_time": "14:20",
+    "to_start_time": "14:20",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "02",
+    "service_type": "unknown",
+    "variant": "ΣΚΑΛΑΝΙ",
+    "note": "",
+    "from_start_time": "14:20",
+    "to_start_time": "16:00",
+    "headway_minutes": 100
+  },
+  {
+    "line_no": "02",
+    "service_type": "unknown",
+    "variant": "ΣΚΑΛΑΝΙ",
+    "note": "",
+    "from_start_time": "16:00",
+    "to_start_time": "16:05",
+    "headway_minutes": 5
+  },
+  {
+    "line_no": "02",
+    "service_type": "unknown",
+    "variant": "ΚΝΩΣΣΟΣ",
+    "note": "",
+    "from_start_time": "05:50",
+    "to_start_time": "05:50",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "02",
+    "service_type": "unknown",
+    "variant": "ΚΝΩΣΣΟΣ",
+    "note": "",
+    "from_start_time": "05:50",
+    "to_start_time": "06:20",
+    "headway_minutes": 30
+  },
+  {
+    "line_no": "02",
+    "service_type": "unknown",
+    "variant": "ΚΝΩΣΣΟΣ",
+    "note": "",
+    "from_start_time": "06:20",
+    "to_start_time": "06:30",
+    "headway_minutes": 10
+  },
+  {
+    "line_no": "02",
+    "service_type": "unknown",
+    "variant": "ΚΝΩΣΣΟΣ",
+    "note": "",
+    "from_start_time": "06:30",
+    "to_start_time": "07:00",
+    "headway_minutes": 30
+  },
+  {
+    "line_no": "02",
+    "service_type": "unknown",
+    "variant": "ΚΝΩΣΣΟΣ",
+    "note": "",
+    "from_start_time": "07:00",
+    "to_start_time": "07:00",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "02",
+    "service_type": "unknown",
+    "variant": "ΚΝΩΣΣΟΣ",
+    "note": "",
+    "from_start_time": "07:00",
+    "to_start_time": "07:20",
+    "headway_minutes": 20
+  },
+  {
+    "line_no": "02",
+    "service_type": "unknown",
+    "variant": "ΚΝΩΣΣΟΣ",
+    "note": "",
+    "from_start_time": "07:20",
+    "to_start_time": "07:30",
+    "headway_minutes": 10
+  },
+  {
+    "line_no": "02",
+    "service_type": "unknown",
+    "variant": "ΚΝΩΣΣΟΣ",
+    "note": "",
+    "from_start_time": "07:30",
+    "to_start_time": "08:00",
+    "headway_minutes": 30
+  },
+  {
+    "line_no": "02",
+    "service_type": "unknown",
+    "variant": "ΚΝΩΣΣΟΣ",
+    "note": "",
+    "from_start_time": "08:00",
+    "to_start_time": "08:00",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "02",
+    "service_type": "unknown",
+    "variant": "ΚΝΩΣΣΟΣ",
+    "note": "",
+    "from_start_time": "08:00",
+    "to_start_time": "08:20",
+    "headway_minutes": 20
+  },
+  {
+    "line_no": "02",
+    "service_type": "unknown",
+    "variant": "ΚΝΩΣΣΟΣ",
+    "note": "",
+    "from_start_time": "08:20",
+    "to_start_time": "08:30",
+    "headway_minutes": 10
+  },
+  {
+    "line_no": "02",
+    "service_type": "unknown",
+    "variant": "ΚΝΩΣΣΟΣ",
+    "note": "",
+    "from_start_time": "08:30",
+    "to_start_time": "08:40",
+    "headway_minutes": 10
+  },
+  {
+    "line_no": "02",
+    "service_type": "unknown",
+    "variant": "ΚΝΩΣΣΟΣ",
+    "note": "",
+    "from_start_time": "08:40",
+    "to_start_time": "09:00",
+    "headway_minutes": 20
+  },
+  {
+    "line_no": "02",
+    "service_type": "unknown",
+    "variant": "ΚΝΩΣΣΟΣ",
+    "note": "",
+    "from_start_time": "09:00",
+    "to_start_time": "09:00",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "02",
+    "service_type": "unknown",
+    "variant": "ΚΝΩΣΣΟΣ",
+    "note": "",
+    "from_start_time": "09:00",
+    "to_start_time": "09:20",
+    "headway_minutes": 20
+  },
+  {
+    "line_no": "02",
+    "service_type": "unknown",
+    "variant": "ΚΝΩΣΣΟΣ",
+    "note": "",
+    "from_start_time": "09:20",
+    "to_start_time": "09:30",
+    "headway_minutes": 10
+  },
+  {
+    "line_no": "02",
+    "service_type": "unknown",
+    "variant": "ΚΝΩΣΣΟΣ",
+    "note": "",
+    "from_start_time": "09:30",
+    "to_start_time": "09:40",
+    "headway_minutes": 10
+  },
+  {
+    "line_no": "02",
+    "service_type": "unknown",
+    "variant": "ΚΝΩΣΣΟΣ",
+    "note": "",
+    "from_start_time": "09:40",
+    "to_start_time": "10:00",
+    "headway_minutes": 20
+  },
+  {
+    "line_no": "02",
+    "service_type": "unknown",
+    "variant": "ΚΝΩΣΣΟΣ",
+    "note": "",
+    "from_start_time": "10:00",
+    "to_start_time": "10:20",
+    "headway_minutes": 20
+  },
+  {
+    "line_no": "02",
+    "service_type": "unknown",
+    "variant": "ΚΝΩΣΣΟΣ",
+    "note": "",
+    "from_start_time": "10:20",
+    "to_start_time": "10:30",
+    "headway_minutes": 10
+  },
+  {
+    "line_no": "02",
+    "service_type": "unknown",
+    "variant": "ΚΝΩΣΣΟΣ",
+    "note": "",
+    "from_start_time": "10:30",
+    "to_start_time": "10:40",
+    "headway_minutes": 10
+  },
+  {
+    "line_no": "02",
+    "service_type": "unknown",
+    "variant": "ΚΝΩΣΣΟΣ",
+    "note": "",
+    "from_start_time": "10:40",
+    "to_start_time": "11:00",
+    "headway_minutes": 20
+  },
+  {
+    "line_no": "02",
+    "service_type": "unknown",
+    "variant": "ΚΝΩΣΣΟΣ",
+    "note": "",
+    "from_start_time": "11:00",
+    "to_start_time": "11:00",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "02",
+    "service_type": "unknown",
+    "variant": "ΚΝΩΣΣΟΣ",
+    "note": "",
+    "from_start_time": "11:00",
+    "to_start_time": "11:20",
+    "headway_minutes": 20
+  },
+  {
+    "line_no": "02",
+    "service_type": "unknown",
+    "variant": "ΚΝΩΣΣΟΣ",
+    "note": "",
+    "from_start_time": "11:20",
+    "to_start_time": "11:30",
+    "headway_minutes": 10
+  },
+  {
+    "line_no": "02",
+    "service_type": "unknown",
+    "variant": "ΚΝΩΣΣΟΣ",
+    "note": "",
+    "from_start_time": "11:30",
+    "to_start_time": "11:40",
+    "headway_minutes": 10
+  },
+  {
+    "line_no": "02",
+    "service_type": "unknown",
+    "variant": "ΚΝΩΣΣΟΣ",
+    "note": "",
+    "from_start_time": "11:40",
+    "to_start_time": "12:00",
+    "headway_minutes": 20
+  },
+  {
+    "line_no": "02",
+    "service_type": "unknown",
+    "variant": "ΚΝΩΣΣΟΣ",
+    "note": "",
+    "from_start_time": "12:00",
+    "to_start_time": "12:00",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "02",
+    "service_type": "unknown",
+    "variant": "ΚΝΩΣΣΟΣ",
+    "note": "",
+    "from_start_time": "12:00",
+    "to_start_time": "12:20",
+    "headway_minutes": 20
+  },
+  {
+    "line_no": "02",
+    "service_type": "unknown",
+    "variant": "ΚΝΩΣΣΟΣ",
+    "note": "",
+    "from_start_time": "12:20",
+    "to_start_time": "12:30",
+    "headway_minutes": 10
+  },
+  {
+    "line_no": "02",
+    "service_type": "unknown",
+    "variant": "ΚΝΩΣΣΟΣ",
+    "note": "",
+    "from_start_time": "12:30",
+    "to_start_time": "12:40",
+    "headway_minutes": 10
+  },
+  {
+    "line_no": "02",
+    "service_type": "unknown",
+    "variant": "ΚΝΩΣΣΟΣ",
+    "note": "",
+    "from_start_time": "12:40",
+    "to_start_time": "13:00",
+    "headway_minutes": 20
+  },
+  {
+    "line_no": "02",
+    "service_type": "unknown",
+    "variant": "ΚΝΩΣΣΟΣ",
+    "note": "",
+    "from_start_time": "13:00",
+    "to_start_time": "13:00",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "02",
+    "service_type": "unknown",
+    "variant": "ΚΝΩΣΣΟΣ",
+    "note": "",
+    "from_start_time": "13:00",
+    "to_start_time": "13:20",
+    "headway_minutes": 20
+  },
+  {
+    "line_no": "02",
+    "service_type": "unknown",
+    "variant": "ΚΝΩΣΣΟΣ",
+    "note": "",
+    "from_start_time": "13:20",
+    "to_start_time": "13:25",
+    "headway_minutes": 5
+  },
+  {
+    "line_no": "02",
+    "service_type": "unknown",
+    "variant": "ΚΝΩΣΣΟΣ",
+    "note": "",
+    "from_start_time": "13:25",
+    "to_start_time": "13:30",
+    "headway_minutes": 5
+  },
+  {
+    "line_no": "02",
+    "service_type": "unknown",
+    "variant": "ΚΝΩΣΣΟΣ",
+    "note": "",
+    "from_start_time": "13:30",
+    "to_start_time": "13:40",
+    "headway_minutes": 10
+  },
+  {
+    "line_no": "02",
+    "service_type": "unknown",
+    "variant": "ΚΝΩΣΣΟΣ",
+    "note": "",
+    "from_start_time": "13:40",
+    "to_start_time": "13:40",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "02",
+    "service_type": "unknown",
+    "variant": "ΚΝΩΣΣΟΣ",
+    "note": "",
+    "from_start_time": "13:40",
+    "to_start_time": "13:55",
+    "headway_minutes": 15
+  },
+  {
+    "line_no": "02",
+    "service_type": "unknown",
+    "variant": "ΚΝΩΣΣΟΣ",
+    "note": "",
+    "from_start_time": "13:55",
+    "to_start_time": "14:00",
+    "headway_minutes": 5
+  },
+  {
+    "line_no": "02",
+    "service_type": "unknown",
+    "variant": "ΚΝΩΣΣΟΣ",
+    "note": "",
+    "from_start_time": "14:00",
+    "to_start_time": "14:00",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "02",
+    "service_type": "unknown",
+    "variant": "ΚΝΩΣΣΟΣ",
+    "note": "",
+    "from_start_time": "14:00",
+    "to_start_time": "14:10",
+    "headway_minutes": 10
+  },
+  {
+    "line_no": "02",
+    "service_type": "unknown",
+    "variant": "ΚΝΩΣΣΟΣ",
+    "note": "",
+    "from_start_time": "14:10",
+    "to_start_time": "14:20",
+    "headway_minutes": 10
+  },
+  {
+    "line_no": "02",
+    "service_type": "unknown",
+    "variant": "ΚΝΩΣΣΟΣ",
+    "note": "",
+    "from_start_time": "14:20",
+    "to_start_time": "14:25",
+    "headway_minutes": 5
+  },
+  {
+    "line_no": "02",
+    "service_type": "unknown",
+    "variant": "ΚΝΩΣΣΟΣ",
+    "note": "",
+    "from_start_time": "14:25",
+    "to_start_time": "14:30",
+    "headway_minutes": 5
+  },
+  {
+    "line_no": "02",
+    "service_type": "unknown",
+    "variant": "ΚΝΩΣΣΟΣ",
+    "note": "",
+    "from_start_time": "14:30",
+    "to_start_time": "14:40",
+    "headway_minutes": 10
+  },
+  {
+    "line_no": "02",
+    "service_type": "unknown",
+    "variant": "ΚΝΩΣΣΟΣ",
+    "note": "",
+    "from_start_time": "14:40",
+    "to_start_time": "14:40",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "02",
+    "service_type": "unknown",
+    "variant": "ΚΝΩΣΣΟΣ",
+    "note": "",
+    "from_start_time": "14:40",
+    "to_start_time": "15:00",
+    "headway_minutes": 20
+  },
+  {
+    "line_no": "02",
+    "service_type": "unknown",
+    "variant": "ΚΝΩΣΣΟΣ",
+    "note": "",
+    "from_start_time": "15:00",
+    "to_start_time": "15:00",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "02",
+    "service_type": "unknown",
+    "variant": "ΚΝΩΣΣΟΣ",
+    "note": "",
+    "from_start_time": "15:00",
+    "to_start_time": "15:00",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "02",
+    "service_type": "unknown",
+    "variant": "ΚΝΩΣΣΟΣ",
+    "note": "",
+    "from_start_time": "15:00",
+    "to_start_time": "15:20",
+    "headway_minutes": 20
+  },
+  {
+    "line_no": "02",
+    "service_type": "unknown",
+    "variant": "ΚΝΩΣΣΟΣ",
+    "note": "",
+    "from_start_time": "15:20",
+    "to_start_time": "15:20",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "02",
+    "service_type": "unknown",
+    "variant": "ΚΝΩΣΣΟΣ",
+    "note": "",
+    "from_start_time": "15:20",
+    "to_start_time": "15:30",
+    "headway_minutes": 10
+  },
+  {
+    "line_no": "02",
+    "service_type": "unknown",
+    "variant": "ΚΝΩΣΣΟΣ",
+    "note": "",
+    "from_start_time": "15:30",
+    "to_start_time": "15:40",
+    "headway_minutes": 10
+  },
+  {
+    "line_no": "02",
+    "service_type": "unknown",
+    "variant": "ΚΝΩΣΣΟΣ",
+    "note": "",
+    "from_start_time": "15:40",
+    "to_start_time": "15:40",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "02",
+    "service_type": "unknown",
+    "variant": "ΚΝΩΣΣΟΣ",
+    "note": "",
+    "from_start_time": "15:40",
+    "to_start_time": "16:00",
+    "headway_minutes": 20
+  },
+  {
+    "line_no": "02",
+    "service_type": "unknown",
+    "variant": "ΚΝΩΣΣΟΣ",
+    "note": "",
+    "from_start_time": "16:00",
+    "to_start_time": "16:00",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "02",
+    "service_type": "unknown",
+    "variant": "ΚΝΩΣΣΟΣ",
+    "note": "",
+    "from_start_time": "16:00",
+    "to_start_time": "16:20",
+    "headway_minutes": 20
+  },
+  {
+    "line_no": "02",
+    "service_type": "unknown",
+    "variant": "ΚΝΩΣΣΟΣ",
+    "note": "",
+    "from_start_time": "16:20",
+    "to_start_time": "16:30",
+    "headway_minutes": 10
+  },
+  {
+    "line_no": "02",
+    "service_type": "unknown",
+    "variant": "ΚΝΩΣΣΟΣ",
+    "note": "",
+    "from_start_time": "16:30",
+    "to_start_time": "16:40",
+    "headway_minutes": 10
+  },
+  {
+    "line_no": "02",
+    "service_type": "unknown",
+    "variant": "ΚΝΩΣΣΟΣ",
+    "note": "",
+    "from_start_time": "16:40",
+    "to_start_time": "17:00",
+    "headway_minutes": 20
+  },
+  {
+    "line_no": "02",
+    "service_type": "unknown",
+    "variant": "ΚΝΩΣΣΟΣ",
+    "note": "",
+    "from_start_time": "17:00",
+    "to_start_time": "17:00",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "02",
+    "service_type": "unknown",
+    "variant": "ΚΝΩΣΣΟΣ",
+    "note": "",
+    "from_start_time": "17:00",
+    "to_start_time": "17:20",
+    "headway_minutes": 20
+  },
+  {
+    "line_no": "02",
+    "service_type": "unknown",
+    "variant": "ΚΝΩΣΣΟΣ",
+    "note": "",
+    "from_start_time": "17:20",
+    "to_start_time": "17:30",
+    "headway_minutes": 10
+  },
+  {
+    "line_no": "02",
+    "service_type": "unknown",
+    "variant": "ΚΝΩΣΣΟΣ",
+    "note": "",
+    "from_start_time": "17:30",
+    "to_start_time": "17:40",
+    "headway_minutes": 10
+  },
+  {
+    "line_no": "02",
+    "service_type": "unknown",
+    "variant": "ΚΝΩΣΣΟΣ",
+    "note": "",
+    "from_start_time": "17:40",
+    "to_start_time": "18:00",
+    "headway_minutes": 20
+  },
+  {
+    "line_no": "02",
+    "service_type": "unknown",
+    "variant": "ΚΝΩΣΣΟΣ",
+    "note": "",
+    "from_start_time": "18:00",
+    "to_start_time": "18:20",
+    "headway_minutes": 20
+  },
+  {
+    "line_no": "02",
+    "service_type": "unknown",
+    "variant": "ΚΝΩΣΣΟΣ",
+    "note": "",
+    "from_start_time": "18:20",
+    "to_start_time": "18:40",
+    "headway_minutes": 20
+  },
+  {
+    "line_no": "02",
+    "service_type": "unknown",
+    "variant": "ΚΝΩΣΣΟΣ",
+    "note": "",
+    "from_start_time": "18:40",
+    "to_start_time": "19:00",
+    "headway_minutes": 20
+  },
+  {
+    "line_no": "02",
+    "service_type": "unknown",
+    "variant": "ΚΝΩΣΣΟΣ",
+    "note": "",
+    "from_start_time": "19:00",
+    "to_start_time": "19:20",
+    "headway_minutes": 20
+  },
+  {
+    "line_no": "02",
+    "service_type": "unknown",
+    "variant": "ΚΝΩΣΣΟΣ",
+    "note": "",
+    "from_start_time": "19:20",
+    "to_start_time": "19:40",
+    "headway_minutes": 20
+  },
+  {
+    "line_no": "02",
+    "service_type": "unknown",
+    "variant": "ΚΝΩΣΣΟΣ",
+    "note": "",
+    "from_start_time": "19:40",
+    "to_start_time": "20:00",
+    "headway_minutes": 20
+  },
+  {
+    "line_no": "02",
+    "service_type": "unknown",
+    "variant": "ΚΝΩΣΣΟΣ",
+    "note": "",
+    "from_start_time": "20:00",
+    "to_start_time": "20:20",
+    "headway_minutes": 20
+  },
+  {
+    "line_no": "02",
+    "service_type": "unknown",
+    "variant": "ΚΝΩΣΣΟΣ",
+    "note": "",
+    "from_start_time": "20:20",
+    "to_start_time": "21:05",
+    "headway_minutes": 45
+  },
+  {
+    "line_no": "02",
+    "service_type": "unknown",
+    "variant": "ΚΝΩΣΣΟΣ",
+    "note": "",
+    "from_start_time": "21:05",
+    "to_start_time": "22:05",
+    "headway_minutes": 60
+  },
+  {
+    "line_no": "02",
+    "service_type": "unknown",
+    "variant": "ΣΚΑΛΑΝΙ",
+    "note": "Σροφή Κάτω",
+    "from_start_time": "18:10",
+    "to_start_time": "21:20",
+    "headway_minutes": 190
+  },
+  {
+    "line_no": "02",
+    "service_type": "unknown",
+    "variant": "ΚΝΩΣΣΟΣ / ΛΙΜΑΝΙ",
+    "note": "",
+    "from_start_time": "22:25",
+    "to_start_time": "22:50",
+    "headway_minutes": 25
+  },
+  {
+    "line_no": "02",
+    "service_type": "unknown",
+    "variant": "ΚΝΩΣΣΟΣ / ΛΙΜΑΝΙ",
+    "note": "",
+    "from_start_time": "22:50",
+    "to_start_time": "23:15",
+    "headway_minutes": 25
+  },
+  {
+    "line_no": "02",
+    "service_type": "daily",
+    "variant": "ΣΚΑΛΑΝΙ",
+    "note": "Σροφή Κάτω",
+    "from_start_time": "18:10",
+    "to_start_time": "21:20",
+    "headway_minutes": 190
+  },
+  {
+    "line_no": "02",
+    "service_type": "daily",
+    "variant": "KNOSSOS",
+    "note": "",
+    "from_start_time": "05:50",
+    "to_start_time": "06:20",
+    "headway_minutes": 30
+  },
+  {
+    "line_no": "02",
+    "service_type": "daily",
+    "variant": "KNOSSOS",
+    "note": "",
+    "from_start_time": "06:20",
+    "to_start_time": "07:00",
+    "headway_minutes": 40
+  },
+  {
+    "line_no": "02",
+    "service_type": "daily",
+    "variant": "KNOSSOS",
+    "note": "",
+    "from_start_time": "07:00",
+    "to_start_time": "07:20",
+    "headway_minutes": 20
+  },
+  {
+    "line_no": "02",
+    "service_type": "daily",
+    "variant": "KNOSSOS",
+    "note": "",
+    "from_start_time": "07:20",
+    "to_start_time": "07:55",
+    "headway_minutes": 35
+  },
+  {
+    "line_no": "02",
+    "service_type": "daily",
+    "variant": "KNOSSOS",
+    "note": "",
+    "from_start_time": "07:55",
+    "to_start_time": "08:10",
+    "headway_minutes": 15
+  },
+  {
+    "line_no": "02",
+    "service_type": "daily",
+    "variant": "KNOSSOS",
+    "note": "",
+    "from_start_time": "08:10",
+    "to_start_time": "08:25",
+    "headway_minutes": 15
+  },
+  {
+    "line_no": "02",
+    "service_type": "daily",
+    "variant": "KNOSSOS",
+    "note": "",
+    "from_start_time": "08:25",
+    "to_start_time": "08:40",
+    "headway_minutes": 15
+  },
+  {
+    "line_no": "02",
+    "service_type": "daily",
+    "variant": "KNOSSOS",
+    "note": "",
+    "from_start_time": "08:40",
+    "to_start_time": "09:00",
+    "headway_minutes": 20
+  },
+  {
+    "line_no": "02",
+    "service_type": "daily",
+    "variant": "KNOSSOS",
+    "note": "",
+    "from_start_time": "09:00",
+    "to_start_time": "09:20",
+    "headway_minutes": 20
+  },
+  {
+    "line_no": "02",
+    "service_type": "daily",
+    "variant": "KNOSSOS",
+    "note": "",
+    "from_start_time": "09:20",
+    "to_start_time": "09:40",
+    "headway_minutes": 20
+  },
+  {
+    "line_no": "02",
+    "service_type": "daily",
+    "variant": "KNOSSOS",
+    "note": "",
+    "from_start_time": "09:40",
+    "to_start_time": "10:00",
+    "headway_minutes": 20
+  },
+  {
+    "line_no": "02",
+    "service_type": "daily",
+    "variant": "KNOSSOS",
+    "note": "",
+    "from_start_time": "10:00",
+    "to_start_time": "10:20",
+    "headway_minutes": 20
+  },
+  {
+    "line_no": "02",
+    "service_type": "daily",
+    "variant": "KNOSSOS",
+    "note": "",
+    "from_start_time": "10:20",
+    "to_start_time": "10:40",
+    "headway_minutes": 20
+  },
+  {
+    "line_no": "02",
+    "service_type": "daily",
+    "variant": "KNOSSOS",
+    "note": "",
+    "from_start_time": "10:40",
+    "to_start_time": "11:00",
+    "headway_minutes": 20
+  },
+  {
+    "line_no": "02",
+    "service_type": "daily",
+    "variant": "KNOSSOS",
+    "note": "",
+    "from_start_time": "11:00",
+    "to_start_time": "11:20",
+    "headway_minutes": 20
+  },
+  {
+    "line_no": "02",
+    "service_type": "daily",
+    "variant": "KNOSSOS",
+    "note": "",
+    "from_start_time": "11:20",
+    "to_start_time": "11:40",
+    "headway_minutes": 20
+  },
+  {
+    "line_no": "02",
+    "service_type": "daily",
+    "variant": "KNOSSOS",
+    "note": "",
+    "from_start_time": "11:40",
+    "to_start_time": "11:55",
+    "headway_minutes": 15
+  },
+  {
+    "line_no": "02",
+    "service_type": "daily",
+    "variant": "KNOSSOS",
+    "note": "",
+    "from_start_time": "11:55",
+    "to_start_time": "12:10",
+    "headway_minutes": 15
+  },
+  {
+    "line_no": "02",
+    "service_type": "daily",
+    "variant": "KNOSSOS",
+    "note": "",
+    "from_start_time": "12:10",
+    "to_start_time": "12:25",
+    "headway_minutes": 15
+  },
+  {
+    "line_no": "02",
+    "service_type": "daily",
+    "variant": "KNOSSOS",
+    "note": "",
+    "from_start_time": "12:25",
+    "to_start_time": "12:40",
+    "headway_minutes": 15
+  },
+  {
+    "line_no": "02",
+    "service_type": "daily",
+    "variant": "KNOSSOS",
+    "note": "",
+    "from_start_time": "12:40",
+    "to_start_time": "12:55",
+    "headway_minutes": 15
+  },
+  {
+    "line_no": "02",
+    "service_type": "daily",
+    "variant": "KNOSSOS",
+    "note": "",
+    "from_start_time": "12:55",
+    "to_start_time": "13:10",
+    "headway_minutes": 15
+  },
+  {
+    "line_no": "02",
+    "service_type": "daily",
+    "variant": "SKALANI",
+    "note": "",
+    "from_start_time": "07:05",
+    "to_start_time": "07:05",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "02",
+    "service_type": "daily",
+    "variant": "SKALANI",
+    "note": "",
+    "from_start_time": "07:05",
+    "to_start_time": "09:50",
+    "headway_minutes": 165
+  },
+  {
+    "line_no": "02",
+    "service_type": "daily",
+    "variant": "SKALANI",
+    "note": "",
+    "from_start_time": "09:50",
+    "to_start_time": "09:50",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "02",
+    "service_type": "daily",
+    "variant": "SKALANI",
+    "note": "",
+    "from_start_time": "09:50",
+    "to_start_time": "13:20",
+    "headway_minutes": 210
+  },
+  {
+    "line_no": "02",
+    "service_type": "daily",
+    "variant": "SKALANI",
+    "note": "",
+    "from_start_time": "13:20",
+    "to_start_time": "14:20",
+    "headway_minutes": 60
+  },
+  {
+    "line_no": "02",
+    "service_type": "daily",
+    "variant": "SKALANI",
+    "note": "",
+    "from_start_time": "14:20",
+    "to_start_time": "16:05",
+    "headway_minutes": 105
+  },
+  {
+    "line_no": "02",
+    "service_type": "unknown",
+    "variant": "SKALANI",
+    "note": "",
+    "from_start_time": "13:20",
+    "to_start_time": "14:20",
+    "headway_minutes": 60
+  },
+  {
+    "line_no": "02",
+    "service_type": "unknown",
+    "variant": "SKALANI",
+    "note": "",
+    "from_start_time": "14:20",
+    "to_start_time": "16:05",
+    "headway_minutes": 105
+  },
+  {
+    "line_no": "02",
+    "service_type": "unknown",
+    "variant": "KNOSSOS",
+    "note": "",
+    "from_start_time": "13:25",
+    "to_start_time": "13:40",
+    "headway_minutes": 15
+  },
+  {
+    "line_no": "02",
+    "service_type": "unknown",
+    "variant": "KNOSSOS",
+    "note": "",
+    "from_start_time": "13:40",
+    "to_start_time": "13:55",
+    "headway_minutes": 15
+  },
+  {
+    "line_no": "02",
+    "service_type": "unknown",
+    "variant": "KNOSSOS",
+    "note": "",
+    "from_start_time": "13:55",
+    "to_start_time": "14:10",
+    "headway_minutes": 15
+  },
+  {
+    "line_no": "02",
+    "service_type": "unknown",
+    "variant": "KNOSSOS",
+    "note": "",
+    "from_start_time": "14:10",
+    "to_start_time": "14:25",
+    "headway_minutes": 15
+  },
+  {
+    "line_no": "02",
+    "service_type": "unknown",
+    "variant": "KNOSSOS",
+    "note": "",
+    "from_start_time": "14:25",
+    "to_start_time": "14:40",
+    "headway_minutes": 15
+  },
+  {
+    "line_no": "02",
+    "service_type": "unknown",
+    "variant": "KNOSSOS",
+    "note": "",
+    "from_start_time": "14:40",
+    "to_start_time": "15:00",
+    "headway_minutes": 20
+  },
+  {
+    "line_no": "02",
+    "service_type": "unknown",
+    "variant": "KNOSSOS",
+    "note": "",
+    "from_start_time": "15:00",
+    "to_start_time": "15:20",
+    "headway_minutes": 20
+  },
+  {
+    "line_no": "02",
+    "service_type": "unknown",
+    "variant": "KNOSSOS",
+    "note": "",
+    "from_start_time": "15:20",
+    "to_start_time": "15:40",
+    "headway_minutes": 20
+  },
+  {
+    "line_no": "02",
+    "service_type": "unknown",
+    "variant": "KNOSSOS",
+    "note": "",
+    "from_start_time": "15:40",
+    "to_start_time": "16:00",
+    "headway_minutes": 20
+  },
+  {
+    "line_no": "02",
+    "service_type": "unknown",
+    "variant": "KNOSSOS",
+    "note": "",
+    "from_start_time": "16:00",
+    "to_start_time": "16:20",
+    "headway_minutes": 20
+  },
+  {
+    "line_no": "02",
+    "service_type": "unknown",
+    "variant": "KNOSSOS",
+    "note": "",
+    "from_start_time": "16:20",
+    "to_start_time": "16:40",
+    "headway_minutes": 20
+  },
+  {
+    "line_no": "02",
+    "service_type": "unknown",
+    "variant": "KNOSSOS",
+    "note": "",
+    "from_start_time": "16:40",
+    "to_start_time": "17:00",
+    "headway_minutes": 20
+  },
+  {
+    "line_no": "02",
+    "service_type": "unknown",
+    "variant": "KNOSSOS",
+    "note": "",
+    "from_start_time": "17:00",
+    "to_start_time": "17:20",
+    "headway_minutes": 20
+  },
+  {
+    "line_no": "02",
+    "service_type": "unknown",
+    "variant": "KNOSSOS",
+    "note": "",
+    "from_start_time": "17:20",
+    "to_start_time": "17:40",
+    "headway_minutes": 20
+  },
+  {
+    "line_no": "02",
+    "service_type": "unknown",
+    "variant": "KNOSSOS",
+    "note": "",
+    "from_start_time": "17:40",
+    "to_start_time": "18:00",
+    "headway_minutes": 20
+  },
+  {
+    "line_no": "02",
+    "service_type": "unknown",
+    "variant": "KNOSSOS",
+    "note": "",
+    "from_start_time": "18:00",
+    "to_start_time": "18:20",
+    "headway_minutes": 20
+  },
+  {
+    "line_no": "02",
+    "service_type": "unknown",
+    "variant": "KNOSSOS",
+    "note": "",
+    "from_start_time": "18:20",
+    "to_start_time": "18:40",
+    "headway_minutes": 20
+  },
+  {
+    "line_no": "02",
+    "service_type": "unknown",
+    "variant": "KNOSSOS",
+    "note": "",
+    "from_start_time": "18:40",
+    "to_start_time": "19:00",
+    "headway_minutes": 20
+  },
+  {
+    "line_no": "02",
+    "service_type": "unknown",
+    "variant": "KNOSSOS",
+    "note": "",
+    "from_start_time": "19:00",
+    "to_start_time": "19:20",
+    "headway_minutes": 20
+  },
+  {
+    "line_no": "02",
+    "service_type": "unknown",
+    "variant": "KNOSSOS",
+    "note": "",
+    "from_start_time": "19:20",
+    "to_start_time": "19:40",
+    "headway_minutes": 20
+  },
+  {
+    "line_no": "02",
+    "service_type": "unknown",
+    "variant": "KNOSSOS",
+    "note": "",
+    "from_start_time": "19:40",
+    "to_start_time": "20:00",
+    "headway_minutes": 20
+  },
+  {
+    "line_no": "02",
+    "service_type": "unknown",
+    "variant": "KNOSSOS",
+    "note": "",
+    "from_start_time": "20:00",
+    "to_start_time": "20:20",
+    "headway_minutes": 20
+  },
+  {
+    "line_no": "02",
+    "service_type": "unknown",
+    "variant": "KNOSSOS",
+    "note": "",
+    "from_start_time": "20:20",
+    "to_start_time": "21:05",
+    "headway_minutes": 45
+  },
+  {
+    "line_no": "02",
+    "service_type": "unknown",
+    "variant": "KNOSSOS",
+    "note": "",
+    "from_start_time": "21:05",
+    "to_start_time": "22:05",
+    "headway_minutes": 60
+  },
+  {
+    "line_no": "02",
+    "service_type": "unknown",
+    "variant": "KNOSSOS",
+    "note": "",
+    "from_start_time": "22:05",
+    "to_start_time": "22:25",
+    "headway_minutes": 20
+  },
+  {
+    "line_no": "02",
+    "service_type": "unknown",
+    "variant": "KNOSSOS",
+    "note": "",
+    "from_start_time": "22:25",
+    "to_start_time": "22:50",
+    "headway_minutes": 25
+  },
+  {
+    "line_no": "02",
+    "service_type": "unknown",
+    "variant": "KNOSSOS",
+    "note": "",
+    "from_start_time": "22:50",
+    "to_start_time": "23:15",
+    "headway_minutes": 25
+  },
+  {
+    "line_no": "02",
+    "service_type": "unknown",
+    "variant": "SKALANI",
+    "note": "Suction Down",
+    "from_start_time": "18:10",
+    "to_start_time": "21:20",
+    "headway_minutes": 190
+  },
+  {
+    "line_no": "02",
+    "service_type": "daily",
+    "variant": "SKALANI",
+    "note": "Suction Down",
+    "from_start_time": "18:10",
+    "to_start_time": "21:20",
+    "headway_minutes": 190
+  },
+  {
+    "line_no": "23",
+    "service_type": "daily",
+    "variant": "ΝΕΟ ΚΟΙΜΗΤΗΡΙΟ.",
+    "note": "",
+    "from_start_time": "10:00",
+    "to_start_time": "10:00",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "03",
+    "service_type": "daily",
+    "variant": "ΦΟΡΤΕΤΣΑ",
+    "note": "",
+    "from_start_time": "06:40",
+    "to_start_time": "06:40",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "03",
+    "service_type": "daily",
+    "variant": "ΦΟΡΤΕΤΣΑ",
+    "note": "",
+    "from_start_time": "06:40",
+    "to_start_time": "06:45",
+    "headway_minutes": 5
+  },
+  {
+    "line_no": "03",
+    "service_type": "daily",
+    "variant": "ΦΟΡΤΕΤΣΑ",
+    "note": "",
+    "from_start_time": "06:45",
+    "to_start_time": "07:40",
+    "headway_minutes": 55
+  },
+  {
+    "line_no": "03",
+    "service_type": "daily",
+    "variant": "ΦΟΡΤΕΤΣΑ",
+    "note": "",
+    "from_start_time": "07:40",
+    "to_start_time": "07:40",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "03",
+    "service_type": "daily",
+    "variant": "ΦΟΡΤΕΤΣΑ",
+    "note": "",
+    "from_start_time": "07:40",
+    "to_start_time": "08:30",
+    "headway_minutes": 50
+  },
+  {
+    "line_no": "03",
+    "service_type": "daily",
+    "variant": "ΦΟΡΤΕΤΣΑ",
+    "note": "",
+    "from_start_time": "08:30",
+    "to_start_time": "08:30",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "03",
+    "service_type": "daily",
+    "variant": "ΦΟΡΤΕΤΣΑ",
+    "note": "",
+    "from_start_time": "08:30",
+    "to_start_time": "08:45",
+    "headway_minutes": 15
+  },
+  {
+    "line_no": "03",
+    "service_type": "daily",
+    "variant": "ΦΟΡΤΕΤΣΑ",
+    "note": "",
+    "from_start_time": "08:45",
+    "to_start_time": "09:30",
+    "headway_minutes": 45
+  },
+  {
+    "line_no": "03",
+    "service_type": "daily",
+    "variant": "ΦΟΡΤΕΤΣΑ",
+    "note": "",
+    "from_start_time": "09:30",
+    "to_start_time": "09:30",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "03",
+    "service_type": "daily",
+    "variant": "ΦΟΡΤΕΤΣΑ",
+    "note": "",
+    "from_start_time": "09:30",
+    "to_start_time": "10:30",
+    "headway_minutes": 60
+  },
+  {
+    "line_no": "03",
+    "service_type": "daily",
+    "variant": "ΦΟΡΤΕΤΣΑ",
+    "note": "",
+    "from_start_time": "10:30",
+    "to_start_time": "10:30",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "03",
+    "service_type": "daily",
+    "variant": "ΦΟΡΤΕΤΣΑ",
+    "note": "",
+    "from_start_time": "10:30",
+    "to_start_time": "10:45",
+    "headway_minutes": 15
+  },
+  {
+    "line_no": "03",
+    "service_type": "daily",
+    "variant": "ΦΟΡΤΕΤΣΑ",
+    "note": "",
+    "from_start_time": "10:45",
+    "to_start_time": "11:30",
+    "headway_minutes": 45
+  },
+  {
+    "line_no": "03",
+    "service_type": "daily",
+    "variant": "ΦΟΡΤΕΤΣΑ",
+    "note": "",
+    "from_start_time": "11:30",
+    "to_start_time": "11:30",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "03",
+    "service_type": "daily",
+    "variant": "ΦΟΡΤΕΤΣΑ",
+    "note": "",
+    "from_start_time": "11:30",
+    "to_start_time": "12:30",
+    "headway_minutes": 60
+  },
+  {
+    "line_no": "03",
+    "service_type": "daily",
+    "variant": "ΦΟΡΤΕΤΣΑ",
+    "note": "",
+    "from_start_time": "12:30",
+    "to_start_time": "12:30",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "03",
+    "service_type": "daily",
+    "variant": "ΦΟΡΤΕΤΣΑ",
+    "note": "",
+    "from_start_time": "12:30",
+    "to_start_time": "12:45",
+    "headway_minutes": 15
+  },
+  {
+    "line_no": "03",
+    "service_type": "daily",
+    "variant": "ΦΟΡΤΕΤΣΑ",
+    "note": "",
+    "from_start_time": "12:45",
+    "to_start_time": "13:30",
+    "headway_minutes": 45
+  },
+  {
+    "line_no": "03",
+    "service_type": "daily",
+    "variant": "ΦΟΡΤΕΤΣΑ",
+    "note": "",
+    "from_start_time": "13:30",
+    "to_start_time": "13:30",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "03",
+    "service_type": "daily",
+    "variant": "ΦΟΡΤΕΤΣΑ",
+    "note": "",
+    "from_start_time": "13:30",
+    "to_start_time": "14:30",
+    "headway_minutes": 60
+  },
+  {
+    "line_no": "03",
+    "service_type": "daily",
+    "variant": "ΦΟΡΤΕΤΣΑ",
+    "note": "",
+    "from_start_time": "14:30",
+    "to_start_time": "14:30",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "03",
+    "service_type": "daily",
+    "variant": "ΦΟΡΤΕΤΣΑ",
+    "note": "",
+    "from_start_time": "14:30",
+    "to_start_time": "14:45",
+    "headway_minutes": 15
+  },
+  {
+    "line_no": "03",
+    "service_type": "daily",
+    "variant": "ΦΟΡΤΕΤΣΑ",
+    "note": "",
+    "from_start_time": "14:45",
+    "to_start_time": "15:30",
+    "headway_minutes": 45
+  },
+  {
+    "line_no": "03",
+    "service_type": "daily",
+    "variant": "ΦΟΡΤΕΤΣΑ",
+    "note": "",
+    "from_start_time": "15:30",
+    "to_start_time": "15:30",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "03",
+    "service_type": "daily",
+    "variant": "ΦΟΡΤΕΤΣΑ",
+    "note": "",
+    "from_start_time": "15:30",
+    "to_start_time": "16:30",
+    "headway_minutes": 60
+  },
+  {
+    "line_no": "03",
+    "service_type": "daily",
+    "variant": "ΦΟΡΤΕΤΣΑ",
+    "note": "",
+    "from_start_time": "16:30",
+    "to_start_time": "16:30",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "03",
+    "service_type": "daily",
+    "variant": "ΦΟΡΤΕΤΣΑ",
+    "note": "",
+    "from_start_time": "16:30",
+    "to_start_time": "16:45",
+    "headway_minutes": 15
+  },
+  {
+    "line_no": "03",
+    "service_type": "daily",
+    "variant": "ΦΟΡΤΕΤΣΑ",
+    "note": "",
+    "from_start_time": "16:45",
+    "to_start_time": "17:30",
+    "headway_minutes": 45
+  },
+  {
+    "line_no": "03",
+    "service_type": "daily",
+    "variant": "ΦΟΡΤΕΤΣΑ",
+    "note": "",
+    "from_start_time": "17:30",
+    "to_start_time": "17:30",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "03",
+    "service_type": "daily",
+    "variant": "ΦΟΡΤΕΤΣΑ",
+    "note": "",
+    "from_start_time": "17:30",
+    "to_start_time": "18:30",
+    "headway_minutes": 60
+  },
+  {
+    "line_no": "03",
+    "service_type": "daily",
+    "variant": "ΦΟΡΤΕΤΣΑ",
+    "note": "",
+    "from_start_time": "18:30",
+    "to_start_time": "18:30",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "03",
+    "service_type": "daily",
+    "variant": "ΦΟΡΤΕΤΣΑ",
+    "note": "",
+    "from_start_time": "18:30",
+    "to_start_time": "18:45",
+    "headway_minutes": 15
+  },
+  {
+    "line_no": "03",
+    "service_type": "daily",
+    "variant": "ΦΟΡΤΕΤΣΑ",
+    "note": "",
+    "from_start_time": "18:45",
+    "to_start_time": "19:30",
+    "headway_minutes": 45
+  },
+  {
+    "line_no": "03",
+    "service_type": "daily",
+    "variant": "ΦΟΡΤΕΤΣΑ",
+    "note": "",
+    "from_start_time": "19:30",
+    "to_start_time": "19:30",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "03",
+    "service_type": "daily",
+    "variant": "ΦΟΡΤΕΤΣΑ",
+    "note": "",
+    "from_start_time": "19:30",
+    "to_start_time": "20:40",
+    "headway_minutes": 70
+  },
+  {
+    "line_no": "03",
+    "service_type": "daily",
+    "variant": "ΦΟΡΤΕΤΣΑ",
+    "note": "",
+    "from_start_time": "20:40",
+    "to_start_time": "20:40",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "03",
+    "service_type": "daily",
+    "variant": "ΦΟΡΤΕΤΣΑ",
+    "note": "",
+    "from_start_time": "20:40",
+    "to_start_time": "20:45",
+    "headway_minutes": 5
+  },
+  {
+    "line_no": "03",
+    "service_type": "daily",
+    "variant": "ΦΟΡΤΕΤΣΑ",
+    "note": "",
+    "from_start_time": "20:45",
+    "to_start_time": "21:30",
+    "headway_minutes": 45
+  },
+  {
+    "line_no": "03",
+    "service_type": "daily",
+    "variant": "ΦΟΡΤΕΤΣΑ",
+    "note": "",
+    "from_start_time": "21:30",
+    "to_start_time": "21:45",
+    "headway_minutes": 15
+  },
+  {
+    "line_no": "06",
+    "service_type": "daily",
+    "variant": "ΑΜΜΟΥΔΑΡΑ",
+    "note": "",
+    "from_start_time": "05:55",
+    "to_start_time": "06:28",
+    "headway_minutes": 33
+  },
+  {
+    "line_no": "06",
+    "service_type": "daily",
+    "variant": "ΑΜΜΟΥΔΑΡΑ",
+    "note": "",
+    "from_start_time": "06:28",
+    "to_start_time": "06:57",
+    "headway_minutes": 29
+  },
+  {
+    "line_no": "06",
+    "service_type": "daily",
+    "variant": "ΑΜΜΟΥΔΑΡΑ",
+    "note": "",
+    "from_start_time": "06:57",
+    "to_start_time": "07:20",
+    "headway_minutes": 23
+  },
+  {
+    "line_no": "06",
+    "service_type": "daily",
+    "variant": "ΑΜΜΟΥΔΑΡΑ",
+    "note": "",
+    "from_start_time": "07:20",
+    "to_start_time": "07:40",
+    "headway_minutes": 20
+  },
+  {
+    "line_no": "06",
+    "service_type": "daily",
+    "variant": "ΑΜΜΟΥΔΑΡΑ",
+    "note": "",
+    "from_start_time": "07:40",
+    "to_start_time": "08:00",
+    "headway_minutes": 20
+  },
+  {
+    "line_no": "06",
+    "service_type": "daily",
+    "variant": "ΑΜΜΟΥΔΑΡΑ",
+    "note": "",
+    "from_start_time": "08:00",
+    "to_start_time": "08:20",
+    "headway_minutes": 20
+  },
+  {
+    "line_no": "06",
+    "service_type": "daily",
+    "variant": "ΑΜΜΟΥΔΑΡΑ",
+    "note": "",
+    "from_start_time": "08:20",
+    "to_start_time": "08:40",
+    "headway_minutes": 20
+  },
+  {
+    "line_no": "06",
+    "service_type": "daily",
+    "variant": "ΑΜΜΟΥΔΑΡΑ",
+    "note": "",
+    "from_start_time": "08:40",
+    "to_start_time": "09:00",
+    "headway_minutes": 20
+  },
+  {
+    "line_no": "06",
+    "service_type": "daily",
+    "variant": "ΑΜΜΟΥΔΑΡΑ",
+    "note": "",
+    "from_start_time": "09:00",
+    "to_start_time": "09:30",
+    "headway_minutes": 30
+  },
+  {
+    "line_no": "06",
+    "service_type": "daily",
+    "variant": "ΑΜΜΟΥΔΑΡΑ",
+    "note": "",
+    "from_start_time": "09:30",
+    "to_start_time": "10:00",
+    "headway_minutes": 30
+  },
+  {
+    "line_no": "06",
+    "service_type": "daily",
+    "variant": "ΑΜΜΟΥΔΑΡΑ",
+    "note": "",
+    "from_start_time": "10:00",
+    "to_start_time": "10:30",
+    "headway_minutes": 30
+  },
+  {
+    "line_no": "06",
+    "service_type": "daily",
+    "variant": "ΑΜΜΟΥΔΑΡΑ",
+    "note": "",
+    "from_start_time": "10:30",
+    "to_start_time": "11:00",
+    "headway_minutes": 30
+  },
+  {
+    "line_no": "06",
+    "service_type": "daily",
+    "variant": "ΑΜΜΟΥΔΑΡΑ",
+    "note": "",
+    "from_start_time": "11:00",
+    "to_start_time": "11:30",
+    "headway_minutes": 30
+  },
+  {
+    "line_no": "06",
+    "service_type": "daily",
+    "variant": "ΑΜΜΟΥΔΑΡΑ",
+    "note": "",
+    "from_start_time": "11:30",
+    "to_start_time": "12:00",
+    "headway_minutes": 30
+  },
+  {
+    "line_no": "06",
+    "service_type": "daily",
+    "variant": "ΑΜΜΟΥΔΑΡΑ",
+    "note": "",
+    "from_start_time": "12:00",
+    "to_start_time": "12:20",
+    "headway_minutes": 20
+  },
+  {
+    "line_no": "06",
+    "service_type": "daily",
+    "variant": "ΑΜΜΟΥΔΑΡΑ",
+    "note": "",
+    "from_start_time": "12:20",
+    "to_start_time": "12:40",
+    "headway_minutes": 20
+  },
+  {
+    "line_no": "06",
+    "service_type": "daily",
+    "variant": "ΑΜΜΟΥΔΑΡΑ",
+    "note": "",
+    "from_start_time": "12:40",
+    "to_start_time": "13:00",
+    "headway_minutes": 20
+  },
+  {
+    "line_no": "06",
+    "service_type": "daily",
+    "variant": "ΑΜΜΟΥΔΑΡΑ",
+    "note": "",
+    "from_start_time": "13:00",
+    "to_start_time": "13:20",
+    "headway_minutes": 20
+  },
+  {
+    "line_no": "06",
+    "service_type": "daily",
+    "variant": "ΑΜΜΟΥΔΑΡΑ",
+    "note": "",
+    "from_start_time": "13:20",
+    "to_start_time": "13:40",
+    "headway_minutes": 20
+  },
+  {
+    "line_no": "06",
+    "service_type": "daily",
+    "variant": "ΑΜΜΟΥΔΑΡΑ",
+    "note": "",
+    "from_start_time": "13:40",
+    "to_start_time": "14:00",
+    "headway_minutes": 20
+  },
+  {
+    "line_no": "06",
+    "service_type": "daily",
+    "variant": "ΑΜΜΟΥΔΑΡΑ",
+    "note": "",
+    "from_start_time": "14:00",
+    "to_start_time": "14:20",
+    "headway_minutes": 20
+  },
+  {
+    "line_no": "06",
+    "service_type": "daily",
+    "variant": "ΑΜΜΟΥΔΑΡΑ",
+    "note": "",
+    "from_start_time": "14:20",
+    "to_start_time": "14:40",
+    "headway_minutes": 20
+  },
+  {
+    "line_no": "06",
+    "service_type": "daily",
+    "variant": "ΑΜΜΟΥΔΑΡΑ",
+    "note": "",
+    "from_start_time": "14:40",
+    "to_start_time": "15:00",
+    "headway_minutes": 20
+  },
+  {
+    "line_no": "06",
+    "service_type": "daily",
+    "variant": "ΑΜΜΟΥΔΑΡΑ",
+    "note": "",
+    "from_start_time": "15:00",
+    "to_start_time": "15:30",
+    "headway_minutes": 30
+  },
+  {
+    "line_no": "06",
+    "service_type": "daily",
+    "variant": "ΑΜΜΟΥΔΑΡΑ",
+    "note": "",
+    "from_start_time": "15:30",
+    "to_start_time": "16:00",
+    "headway_minutes": 30
+  },
+  {
+    "line_no": "06",
+    "service_type": "daily",
+    "variant": "ΑΜΜΟΥΔΑΡΑ",
+    "note": "",
+    "from_start_time": "16:00",
+    "to_start_time": "16:30",
+    "headway_minutes": 30
+  },
+  {
+    "line_no": "06",
+    "service_type": "daily",
+    "variant": "ΑΜΜΟΥΔΑΡΑ",
+    "note": "",
+    "from_start_time": "16:30",
+    "to_start_time": "17:00",
+    "headway_minutes": 30
+  },
+  {
+    "line_no": "06",
+    "service_type": "daily",
+    "variant": "ΑΜΜΟΥΔΑΡΑ",
+    "note": "",
+    "from_start_time": "17:00",
+    "to_start_time": "17:30",
+    "headway_minutes": 30
+  },
+  {
+    "line_no": "06",
+    "service_type": "daily",
+    "variant": "ΑΜΜΟΥΔΑΡΑ",
+    "note": "",
+    "from_start_time": "17:30",
+    "to_start_time": "18:00",
+    "headway_minutes": 30
+  },
+  {
+    "line_no": "06",
+    "service_type": "daily",
+    "variant": "ΑΜΜΟΥΔΑΡΑ",
+    "note": "",
+    "from_start_time": "18:00",
+    "to_start_time": "18:30",
+    "headway_minutes": 30
+  },
+  {
+    "line_no": "06",
+    "service_type": "daily",
+    "variant": "ΑΜΜΟΥΔΑΡΑ",
+    "note": "",
+    "from_start_time": "18:30",
+    "to_start_time": "19:00",
+    "headway_minutes": 30
+  },
+  {
+    "line_no": "06",
+    "service_type": "daily",
+    "variant": "ΑΜΜΟΥΔΑΡΑ",
+    "note": "",
+    "from_start_time": "19:00",
+    "to_start_time": "19:00",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "06",
+    "service_type": "daily",
+    "variant": "ΑΜΜΟΥΔΑΡΑ",
+    "note": "",
+    "from_start_time": "19:00",
+    "to_start_time": "19:30",
+    "headway_minutes": 30
+  },
+  {
+    "line_no": "06",
+    "service_type": "daily",
+    "variant": "ΑΜΜΟΥΔΑΡΑ",
+    "note": "",
+    "from_start_time": "19:30",
+    "to_start_time": "19:30",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "06",
+    "service_type": "daily",
+    "variant": "ΑΜΜΟΥΔΑΡΑ",
+    "note": "",
+    "from_start_time": "19:30",
+    "to_start_time": "20:00",
+    "headway_minutes": 30
+  },
+  {
+    "line_no": "06",
+    "service_type": "daily",
+    "variant": "ΑΜΜΟΥΔΑΡΑ",
+    "note": "",
+    "from_start_time": "20:00",
+    "to_start_time": "20:00",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "06",
+    "service_type": "daily",
+    "variant": "ΑΜΜΟΥΔΑΡΑ",
+    "note": "",
+    "from_start_time": "20:00",
+    "to_start_time": "20:30",
+    "headway_minutes": 30
+  },
+  {
+    "line_no": "06",
+    "service_type": "daily",
+    "variant": "ΑΜΜΟΥΔΑΡΑ",
+    "note": "",
+    "from_start_time": "20:30",
+    "to_start_time": "20:30",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "06",
+    "service_type": "daily",
+    "variant": "ΑΜΜΟΥΔΑΡΑ",
+    "note": "",
+    "from_start_time": "20:30",
+    "to_start_time": "20:30",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "06",
+    "service_type": "daily",
+    "variant": "ΑΜΜΟΥΔΑΡΑ",
+    "note": "",
+    "from_start_time": "20:30",
+    "to_start_time": "21:00",
+    "headway_minutes": 30
+  },
+  {
+    "line_no": "06",
+    "service_type": "daily",
+    "variant": "ΑΜΜΟΥΔΑΡΑ",
+    "note": "",
+    "from_start_time": "21:00",
+    "to_start_time": "21:00",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "06",
+    "service_type": "daily",
+    "variant": "ΑΜΜΟΥΔΑΡΑ",
+    "note": "",
+    "from_start_time": "21:00",
+    "to_start_time": "21:00",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "06",
+    "service_type": "daily",
+    "variant": "ΑΜΜΟΥΔΑΡΑ",
+    "note": "",
+    "from_start_time": "21:00",
+    "to_start_time": "21:30",
+    "headway_minutes": 30
+  },
+  {
+    "line_no": "06",
+    "service_type": "daily",
+    "variant": "ΑΜΜΟΥΔΑΡΑ",
+    "note": "",
+    "from_start_time": "21:30",
+    "to_start_time": "21:30",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "06",
+    "service_type": "daily",
+    "variant": "ΑΜΜΟΥΔΑΡΑ",
+    "note": "",
+    "from_start_time": "21:30",
+    "to_start_time": "21:30",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "06",
+    "service_type": "daily",
+    "variant": "ΑΜΜΟΥΔΑΡΑ",
+    "note": "",
+    "from_start_time": "21:30",
+    "to_start_time": "22:00",
+    "headway_minutes": 30
+  },
+  {
+    "line_no": "06",
+    "service_type": "daily",
+    "variant": "ΑΜΜΟΥΔΑΡΑ",
+    "note": "",
+    "from_start_time": "22:00",
+    "to_start_time": "22:00",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "06",
+    "service_type": "daily",
+    "variant": "ΑΜΜΟΥΔΑΡΑ",
+    "note": "",
+    "from_start_time": "22:00",
+    "to_start_time": "22:00",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "06",
+    "service_type": "daily",
+    "variant": "ΑΜΜΟΥΔΑΡΑ",
+    "note": "",
+    "from_start_time": "22:00",
+    "to_start_time": "22:30",
+    "headway_minutes": 30
+  },
+  {
+    "line_no": "06",
+    "service_type": "daily",
+    "variant": "ΑΜΜΟΥΔΑΡΑ",
+    "note": "",
+    "from_start_time": "22:30",
+    "to_start_time": "22:30",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "06",
+    "service_type": "daily",
+    "variant": "ΑΜΜΟΥΔΑΡΑ",
+    "note": "",
+    "from_start_time": "22:30",
+    "to_start_time": "22:30",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "06",
+    "service_type": "daily",
+    "variant": "ΑΜΜΟΥΔΑΡΑ",
+    "note": "",
+    "from_start_time": "22:30",
+    "to_start_time": "23:05",
+    "headway_minutes": 35
+  },
+  {
+    "line_no": "06",
+    "service_type": "daily",
+    "variant": "ΑΜΜΟΥΔΑΡΑ",
+    "note": "",
+    "from_start_time": "23:05",
+    "to_start_time": "23:05",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "06",
+    "service_type": "daily",
+    "variant": "ΑΜΜΟΥΔΑΡΑ",
+    "note": "",
+    "from_start_time": "23:05",
+    "to_start_time": "23:05",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "06",
+    "service_type": "daily",
+    "variant": "AMMOUDARA- AIRPORT",
+    "note": "",
+    "from_start_time": "05:55",
+    "to_start_time": "06:28",
+    "headway_minutes": 33
+  },
+  {
+    "line_no": "06",
+    "service_type": "daily",
+    "variant": "AMMOUDARA- AIRPORT",
+    "note": "",
+    "from_start_time": "06:28",
+    "to_start_time": "06:57",
+    "headway_minutes": 29
+  },
+  {
+    "line_no": "06",
+    "service_type": "daily",
+    "variant": "AMMOUDARA- AIRPORT",
+    "note": "",
+    "from_start_time": "06:57",
+    "to_start_time": "07:20",
+    "headway_minutes": 23
+  },
+  {
+    "line_no": "06",
+    "service_type": "daily",
+    "variant": "AMMOUDARA- AIRPORT",
+    "note": "",
+    "from_start_time": "07:20",
+    "to_start_time": "07:40",
+    "headway_minutes": 20
+  },
+  {
+    "line_no": "06",
+    "service_type": "daily",
+    "variant": "AMMOUDARA- AIRPORT",
+    "note": "",
+    "from_start_time": "07:40",
+    "to_start_time": "08:00",
+    "headway_minutes": 20
+  },
+  {
+    "line_no": "06",
+    "service_type": "daily",
+    "variant": "AMMOUDARA- AIRPORT",
+    "note": "",
+    "from_start_time": "08:00",
+    "to_start_time": "08:20",
+    "headway_minutes": 20
+  },
+  {
+    "line_no": "06",
+    "service_type": "daily",
+    "variant": "AMMOUDARA- AIRPORT",
+    "note": "",
+    "from_start_time": "08:20",
+    "to_start_time": "08:40",
+    "headway_minutes": 20
+  },
+  {
+    "line_no": "06",
+    "service_type": "daily",
+    "variant": "AMMOUDARA- AIRPORT",
+    "note": "",
+    "from_start_time": "08:40",
+    "to_start_time": "09:00",
+    "headway_minutes": 20
+  },
+  {
+    "line_no": "06",
+    "service_type": "daily",
+    "variant": "AMMOUDARA- AIRPORT",
+    "note": "",
+    "from_start_time": "09:00",
+    "to_start_time": "09:30",
+    "headway_minutes": 30
+  },
+  {
+    "line_no": "06",
+    "service_type": "daily",
+    "variant": "AMMOUDARA- AIRPORT",
+    "note": "",
+    "from_start_time": "09:30",
+    "to_start_time": "10:00",
+    "headway_minutes": 30
+  },
+  {
+    "line_no": "06",
+    "service_type": "daily",
+    "variant": "AMMOUDARA- AIRPORT",
+    "note": "",
+    "from_start_time": "10:00",
+    "to_start_time": "10:30",
+    "headway_minutes": 30
+  },
+  {
+    "line_no": "06",
+    "service_type": "daily",
+    "variant": "AMMOUDARA- AIRPORT",
+    "note": "",
+    "from_start_time": "10:30",
+    "to_start_time": "11:00",
+    "headway_minutes": 30
+  },
+  {
+    "line_no": "06",
+    "service_type": "daily",
+    "variant": "AMMOUDARA- AIRPORT",
+    "note": "",
+    "from_start_time": "11:00",
+    "to_start_time": "11:30",
+    "headway_minutes": 30
+  },
+  {
+    "line_no": "06",
+    "service_type": "daily",
+    "variant": "AMMOUDARA- AIRPORT",
+    "note": "",
+    "from_start_time": "11:30",
+    "to_start_time": "12:00",
+    "headway_minutes": 30
+  },
+  {
+    "line_no": "06",
+    "service_type": "daily",
+    "variant": "AMMOUDARA- AIRPORT",
+    "note": "",
+    "from_start_time": "12:00",
+    "to_start_time": "12:20",
+    "headway_minutes": 20
+  },
+  {
+    "line_no": "06",
+    "service_type": "daily",
+    "variant": "AMMOUDARA- AIRPORT",
+    "note": "",
+    "from_start_time": "12:20",
+    "to_start_time": "12:40",
+    "headway_minutes": 20
+  },
+  {
+    "line_no": "06",
+    "service_type": "daily",
+    "variant": "AMMOUDARA- AIRPORT",
+    "note": "",
+    "from_start_time": "12:40",
+    "to_start_time": "13:00",
+    "headway_minutes": 20
+  },
+  {
+    "line_no": "06",
+    "service_type": "daily",
+    "variant": "AMMOUDARA- AIRPORT",
+    "note": "",
+    "from_start_time": "13:00",
+    "to_start_time": "13:20",
+    "headway_minutes": 20
+  },
+  {
+    "line_no": "06",
+    "service_type": "daily",
+    "variant": "AMMOUDARA- AIRPORT",
+    "note": "",
+    "from_start_time": "13:20",
+    "to_start_time": "13:40",
+    "headway_minutes": 20
+  },
+  {
+    "line_no": "06",
+    "service_type": "daily",
+    "variant": "AMMOUDARA- AIRPORT",
+    "note": "",
+    "from_start_time": "13:40",
+    "to_start_time": "14:00",
+    "headway_minutes": 20
+  },
+  {
+    "line_no": "06",
+    "service_type": "daily",
+    "variant": "AMMOUDARA- AIRPORT",
+    "note": "",
+    "from_start_time": "14:00",
+    "to_start_time": "14:20",
+    "headway_minutes": 20
+  },
+  {
+    "line_no": "06",
+    "service_type": "daily",
+    "variant": "AMMOUDARA- AIRPORT",
+    "note": "",
+    "from_start_time": "14:20",
+    "to_start_time": "14:40",
+    "headway_minutes": 20
+  },
+  {
+    "line_no": "06",
+    "service_type": "daily",
+    "variant": "AMMOUDARA- AIRPORT",
+    "note": "",
+    "from_start_time": "14:40",
+    "to_start_time": "15:00",
+    "headway_minutes": 20
+  },
+  {
+    "line_no": "06",
+    "service_type": "daily",
+    "variant": "AMMOUDARA- AIRPORT",
+    "note": "",
+    "from_start_time": "15:00",
+    "to_start_time": "15:30",
+    "headway_minutes": 30
+  },
+  {
+    "line_no": "06",
+    "service_type": "daily",
+    "variant": "AMMOUDARA- AIRPORT",
+    "note": "",
+    "from_start_time": "15:30",
+    "to_start_time": "16:00",
+    "headway_minutes": 30
+  },
+  {
+    "line_no": "06",
+    "service_type": "daily",
+    "variant": "AMMOUDARA- AIRPORT",
+    "note": "",
+    "from_start_time": "16:00",
+    "to_start_time": "16:30",
+    "headway_minutes": 30
+  },
+  {
+    "line_no": "06",
+    "service_type": "unknown",
+    "variant": "AMMOUDARA- AIRPORT",
+    "note": "",
+    "from_start_time": "17:00",
+    "to_start_time": "17:30",
+    "headway_minutes": 30
+  },
+  {
+    "line_no": "06",
+    "service_type": "unknown",
+    "variant": "AMMOUDARA- AIRPORT",
+    "note": "",
+    "from_start_time": "17:30",
+    "to_start_time": "18:00",
+    "headway_minutes": 30
+  },
+  {
+    "line_no": "06",
+    "service_type": "unknown",
+    "variant": "AMMOUDARA- AIRPORT",
+    "note": "",
+    "from_start_time": "18:00",
+    "to_start_time": "18:30",
+    "headway_minutes": 30
+  },
+  {
+    "line_no": "06",
+    "service_type": "unknown",
+    "variant": "AMMOUDARA- AIRPORT",
+    "note": "",
+    "from_start_time": "18:30",
+    "to_start_time": "19:00",
+    "headway_minutes": 30
+  },
+  {
+    "line_no": "06",
+    "service_type": "unknown",
+    "variant": "AMMOUDARA- AIRPORT",
+    "note": "",
+    "from_start_time": "19:00",
+    "to_start_time": "19:30",
+    "headway_minutes": 30
+  },
+  {
+    "line_no": "06",
+    "service_type": "unknown",
+    "variant": "AMMOUDARA- AIRPORT",
+    "note": "",
+    "from_start_time": "19:30",
+    "to_start_time": "20:00",
+    "headway_minutes": 30
+  },
+  {
+    "line_no": "06",
+    "service_type": "unknown",
+    "variant": "AMMOUDARA- AIRPORT",
+    "note": "",
+    "from_start_time": "20:00",
+    "to_start_time": "20:30",
+    "headway_minutes": 30
+  },
+  {
+    "line_no": "06",
+    "service_type": "unknown",
+    "variant": "AMMOUDARA- AIRPORT",
+    "note": "",
+    "from_start_time": "20:30",
+    "to_start_time": "21:00",
+    "headway_minutes": 30
+  },
+  {
+    "line_no": "06",
+    "service_type": "unknown",
+    "variant": "AMMOUDARA- AIRPORT",
+    "note": "",
+    "from_start_time": "21:00",
+    "to_start_time": "21:30",
+    "headway_minutes": 30
+  },
+  {
+    "line_no": "06",
+    "service_type": "unknown",
+    "variant": "AMMOUDARA- AIRPORT",
+    "note": "",
+    "from_start_time": "21:30",
+    "to_start_time": "22:00",
+    "headway_minutes": 30
+  },
+  {
+    "line_no": "06",
+    "service_type": "unknown",
+    "variant": "AMMOUDARA- AIRPORT",
+    "note": "",
+    "from_start_time": "22:00",
+    "to_start_time": "22:30",
+    "headway_minutes": 30
+  },
+  {
+    "line_no": "06",
+    "service_type": "unknown",
+    "variant": "AMMOUDARA- AIRPORT",
+    "note": "",
+    "from_start_time": "22:30",
+    "to_start_time": "23:05",
+    "headway_minutes": 35
+  },
+  {
+    "line_no": "07",
+    "service_type": "daily",
+    "variant": "ΑΜΝΙΣΣΟΣ",
+    "note": "",
+    "from_start_time": "08:00",
+    "to_start_time": "09:00",
+    "headway_minutes": 60
+  },
+  {
+    "line_no": "07",
+    "service_type": "daily",
+    "variant": "ΑΜΝΙΣΣΟΣ",
+    "note": "",
+    "from_start_time": "09:00",
+    "to_start_time": "10:00",
+    "headway_minutes": 60
+  },
+  {
+    "line_no": "07",
+    "service_type": "daily",
+    "variant": "ΑΜΝΙΣΣΟΣ",
+    "note": "",
+    "from_start_time": "10:00",
+    "to_start_time": "11:00",
+    "headway_minutes": 60
+  },
+  {
+    "line_no": "07",
+    "service_type": "daily",
+    "variant": "ΑΜΝΙΣΣΟΣ",
+    "note": "",
+    "from_start_time": "11:00",
+    "to_start_time": "12:00",
+    "headway_minutes": 60
+  },
+  {
+    "line_no": "07",
+    "service_type": "daily",
+    "variant": "ΑΜΝΙΣΣΟΣ",
+    "note": "",
+    "from_start_time": "12:00",
+    "to_start_time": "13:00",
+    "headway_minutes": 60
+  },
+  {
+    "line_no": "07",
+    "service_type": "daily",
+    "variant": "ΑΜΝΙΣΣΟΣ",
+    "note": "",
+    "from_start_time": "13:00",
+    "to_start_time": "14:00",
+    "headway_minutes": 60
+  },
+  {
+    "line_no": "07",
+    "service_type": "daily",
+    "variant": "ΑΜΝΙΣΣΟΣ",
+    "note": "",
+    "from_start_time": "14:00",
+    "to_start_time": "15:00",
+    "headway_minutes": 60
+  },
+  {
+    "line_no": "07",
+    "service_type": "daily",
+    "variant": "ΑΜΝΙΣΣΟΣ",
+    "note": "",
+    "from_start_time": "15:00",
+    "to_start_time": "17:00",
+    "headway_minutes": 120
+  },
+  {
+    "line_no": "07",
+    "service_type": "daily",
+    "variant": "ΑΜΝΙΣΣΟΣ",
+    "note": "",
+    "from_start_time": "17:00",
+    "to_start_time": "19:00",
+    "headway_minutes": 120
+  },
+  {
+    "line_no": "07",
+    "service_type": "daily",
+    "variant": "ΑΜΝΙΣΣΟΣ",
+    "note": "",
+    "from_start_time": "19:00",
+    "to_start_time": "21:00",
+    "headway_minutes": 120
+  },
+  {
+    "line_no": "09",
+    "service_type": "daily",
+    "variant": "",
+    "note": "",
+    "from_start_time": "06:45",
+    "to_start_time": "09:05",
+    "headway_minutes": 140
+  },
+  {
+    "line_no": "09",
+    "service_type": "daily",
+    "variant": "",
+    "note": "",
+    "from_start_time": "09:05",
+    "to_start_time": "12:30",
+    "headway_minutes": 205
+  },
+  {
+    "line_no": "09",
+    "service_type": "daily",
+    "variant": "",
+    "note": "",
+    "from_start_time": "12:30",
+    "to_start_time": "14:10",
+    "headway_minutes": 100
+  },
+  {
+    "line_no": "09",
+    "service_type": "daily",
+    "variant": "",
+    "note": "",
+    "from_start_time": "14:10",
+    "to_start_time": "16:10",
+    "headway_minutes": 120
+  },
+  {
+    "line_no": "09",
+    "service_type": "daily",
+    "variant": "ΑΓ ΣΥΛΛΑΣ / ΑΓ. ΒΛΑΣΣΗ / ΕΞΩ ΒΑΣΙΛΕΙΕΣ",
+    "note": "",
+    "from_start_time": "18:50",
+    "to_start_time": "21:10",
+    "headway_minutes": 140
+  },
+  {
+    "line_no": "11",
+    "service_type": "unknown",
+    "variant": "ΠΑΓΝΗ ΠΑΝΕΠ/ΜΙΟ",
+    "note": "",
+    "from_start_time": "22:45",
+    "to_start_time": "22:45",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛΜΕΠΑ",
+    "note": "",
+    "from_start_time": "15:25",
+    "to_start_time": "17:25",
+    "headway_minutes": 120
+  },
+  {
+    "line_no": "06",
+    "service_type": "unknown",
+    "variant": "ΑΜΜΟΥΔΑΡΑ",
+    "note": "",
+    "from_start_time": "05:55",
+    "to_start_time": "05:55",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "06",
+    "service_type": "unknown",
+    "variant": "ΑΜΜΟΥΔΑΡΑ",
+    "note": "",
+    "from_start_time": "05:55",
+    "to_start_time": "05:55",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "06",
+    "service_type": "unknown",
+    "variant": "ΑΜΜΟΥΔΑΡΑ",
+    "note": "",
+    "from_start_time": "05:55",
+    "to_start_time": "06:30",
+    "headway_minutes": 35
+  },
+  {
+    "line_no": "06",
+    "service_type": "unknown",
+    "variant": "ΑΜΜΟΥΔΑΡΑ",
+    "note": "",
+    "from_start_time": "06:30",
+    "to_start_time": "06:30",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "06",
+    "service_type": "unknown",
+    "variant": "ΑΜΜΟΥΔΑΡΑ",
+    "note": "",
+    "from_start_time": "06:30",
+    "to_start_time": "07:00",
+    "headway_minutes": 30
+  },
+  {
+    "line_no": "06",
+    "service_type": "unknown",
+    "variant": "ΑΜΜΟΥΔΑΡΑ",
+    "note": "",
+    "from_start_time": "07:00",
+    "to_start_time": "07:00",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "06",
+    "service_type": "unknown",
+    "variant": "ΑΜΜΟΥΔΑΡΑ",
+    "note": "",
+    "from_start_time": "07:00",
+    "to_start_time": "07:30",
+    "headway_minutes": 30
+  },
+  {
+    "line_no": "06",
+    "service_type": "unknown",
+    "variant": "ΑΜΜΟΥΔΑΡΑ",
+    "note": "",
+    "from_start_time": "07:30",
+    "to_start_time": "07:30",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "06",
+    "service_type": "unknown",
+    "variant": "ΑΜΜΟΥΔΑΡΑ",
+    "note": "",
+    "from_start_time": "07:30",
+    "to_start_time": "08:00",
+    "headway_minutes": 30
+  },
+  {
+    "line_no": "06",
+    "service_type": "unknown",
+    "variant": "ΑΜΜΟΥΔΑΡΑ",
+    "note": "",
+    "from_start_time": "08:00",
+    "to_start_time": "08:00",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "06",
+    "service_type": "unknown",
+    "variant": "ΑΜΜΟΥΔΑΡΑ",
+    "note": "",
+    "from_start_time": "08:00",
+    "to_start_time": "08:30",
+    "headway_minutes": 30
+  },
+  {
+    "line_no": "06",
+    "service_type": "unknown",
+    "variant": "ΑΜΜΟΥΔΑΡΑ",
+    "note": "",
+    "from_start_time": "08:30",
+    "to_start_time": "08:30",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "06",
+    "service_type": "unknown",
+    "variant": "ΑΜΜΟΥΔΑΡΑ",
+    "note": "",
+    "from_start_time": "08:30",
+    "to_start_time": "09:00",
+    "headway_minutes": 30
+  },
+  {
+    "line_no": "06",
+    "service_type": "unknown",
+    "variant": "ΑΜΜΟΥΔΑΡΑ",
+    "note": "",
+    "from_start_time": "09:00",
+    "to_start_time": "09:00",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "06",
+    "service_type": "unknown",
+    "variant": "ΑΜΜΟΥΔΑΡΑ",
+    "note": "",
+    "from_start_time": "09:00",
+    "to_start_time": "09:30",
+    "headway_minutes": 30
+  },
+  {
+    "line_no": "06",
+    "service_type": "unknown",
+    "variant": "ΑΜΜΟΥΔΑΡΑ",
+    "note": "",
+    "from_start_time": "09:30",
+    "to_start_time": "09:30",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "06",
+    "service_type": "unknown",
+    "variant": "ΑΜΜΟΥΔΑΡΑ",
+    "note": "",
+    "from_start_time": "09:30",
+    "to_start_time": "10:00",
+    "headway_minutes": 30
+  },
+  {
+    "line_no": "06",
+    "service_type": "unknown",
+    "variant": "ΑΜΜΟΥΔΑΡΑ",
+    "note": "",
+    "from_start_time": "10:00",
+    "to_start_time": "10:00",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "06",
+    "service_type": "unknown",
+    "variant": "ΑΜΜΟΥΔΑΡΑ",
+    "note": "",
+    "from_start_time": "10:00",
+    "to_start_time": "10:30",
+    "headway_minutes": 30
+  },
+  {
+    "line_no": "06",
+    "service_type": "unknown",
+    "variant": "ΑΜΜΟΥΔΑΡΑ",
+    "note": "",
+    "from_start_time": "10:30",
+    "to_start_time": "10:30",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "06",
+    "service_type": "unknown",
+    "variant": "ΑΜΜΟΥΔΑΡΑ",
+    "note": "",
+    "from_start_time": "10:30",
+    "to_start_time": "11:00",
+    "headway_minutes": 30
+  },
+  {
+    "line_no": "06",
+    "service_type": "unknown",
+    "variant": "ΑΜΜΟΥΔΑΡΑ",
+    "note": "",
+    "from_start_time": "11:00",
+    "to_start_time": "11:00",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "06",
+    "service_type": "unknown",
+    "variant": "ΑΜΜΟΥΔΑΡΑ",
+    "note": "",
+    "from_start_time": "11:00",
+    "to_start_time": "11:30",
+    "headway_minutes": 30
+  },
+  {
+    "line_no": "06",
+    "service_type": "unknown",
+    "variant": "ΑΜΜΟΥΔΑΡΑ",
+    "note": "",
+    "from_start_time": "11:30",
+    "to_start_time": "11:30",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "06",
+    "service_type": "unknown",
+    "variant": "ΑΜΜΟΥΔΑΡΑ",
+    "note": "",
+    "from_start_time": "11:30",
+    "to_start_time": "12:00",
+    "headway_minutes": 30
+  },
+  {
+    "line_no": "06",
+    "service_type": "unknown",
+    "variant": "ΑΜΜΟΥΔΑΡΑ",
+    "note": "",
+    "from_start_time": "12:00",
+    "to_start_time": "12:00",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "06",
+    "service_type": "unknown",
+    "variant": "ΑΜΜΟΥΔΑΡΑ",
+    "note": "",
+    "from_start_time": "12:00",
+    "to_start_time": "12:30",
+    "headway_minutes": 30
+  },
+  {
+    "line_no": "06",
+    "service_type": "unknown",
+    "variant": "ΑΜΜΟΥΔΑΡΑ",
+    "note": "",
+    "from_start_time": "12:30",
+    "to_start_time": "12:30",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "06",
+    "service_type": "unknown",
+    "variant": "ΑΜΜΟΥΔΑΡΑ",
+    "note": "",
+    "from_start_time": "12:30",
+    "to_start_time": "13:00",
+    "headway_minutes": 30
+  },
+  {
+    "line_no": "06",
+    "service_type": "unknown",
+    "variant": "ΑΜΜΟΥΔΑΡΑ",
+    "note": "",
+    "from_start_time": "13:00",
+    "to_start_time": "13:00",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "06",
+    "service_type": "unknown",
+    "variant": "ΑΜΜΟΥΔΑΡΑ",
+    "note": "",
+    "from_start_time": "13:00",
+    "to_start_time": "13:30",
+    "headway_minutes": 30
+  },
+  {
+    "line_no": "06",
+    "service_type": "unknown",
+    "variant": "ΑΜΜΟΥΔΑΡΑ",
+    "note": "",
+    "from_start_time": "13:30",
+    "to_start_time": "13:30",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "06",
+    "service_type": "unknown",
+    "variant": "ΑΜΜΟΥΔΑΡΑ",
+    "note": "",
+    "from_start_time": "13:30",
+    "to_start_time": "14:00",
+    "headway_minutes": 30
+  },
+  {
+    "line_no": "06",
+    "service_type": "unknown",
+    "variant": "ΑΜΜΟΥΔΑΡΑ",
+    "note": "",
+    "from_start_time": "14:00",
+    "to_start_time": "14:00",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "06",
+    "service_type": "unknown",
+    "variant": "ΑΜΜΟΥΔΑΡΑ",
+    "note": "",
+    "from_start_time": "14:00",
+    "to_start_time": "14:30",
+    "headway_minutes": 30
+  },
+  {
+    "line_no": "06",
+    "service_type": "unknown",
+    "variant": "ΑΜΜΟΥΔΑΡΑ",
+    "note": "",
+    "from_start_time": "14:30",
+    "to_start_time": "14:30",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "06",
+    "service_type": "unknown",
+    "variant": "ΑΜΜΟΥΔΑΡΑ",
+    "note": "",
+    "from_start_time": "14:30",
+    "to_start_time": "15:00",
+    "headway_minutes": 30
+  },
+  {
+    "line_no": "06",
+    "service_type": "unknown",
+    "variant": "ΑΜΜΟΥΔΑΡΑ",
+    "note": "",
+    "from_start_time": "15:00",
+    "to_start_time": "15:00",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "06",
+    "service_type": "unknown",
+    "variant": "ΑΜΜΟΥΔΑΡΑ",
+    "note": "",
+    "from_start_time": "15:00",
+    "to_start_time": "15:30",
+    "headway_minutes": 30
+  },
+  {
+    "line_no": "06",
+    "service_type": "unknown",
+    "variant": "ΑΜΜΟΥΔΑΡΑ",
+    "note": "",
+    "from_start_time": "15:30",
+    "to_start_time": "15:30",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "06",
+    "service_type": "unknown",
+    "variant": "ΑΜΜΟΥΔΑΡΑ",
+    "note": "",
+    "from_start_time": "15:30",
+    "to_start_time": "16:00",
+    "headway_minutes": 30
+  },
+  {
+    "line_no": "06",
+    "service_type": "unknown",
+    "variant": "ΑΜΜΟΥΔΑΡΑ",
+    "note": "",
+    "from_start_time": "16:00",
+    "to_start_time": "16:00",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "06",
+    "service_type": "unknown",
+    "variant": "ΑΜΜΟΥΔΑΡΑ",
+    "note": "",
+    "from_start_time": "16:00",
+    "to_start_time": "16:30",
+    "headway_minutes": 30
+  },
+  {
+    "line_no": "06",
+    "service_type": "unknown",
+    "variant": "ΑΜΜΟΥΔΑΡΑ",
+    "note": "",
+    "from_start_time": "16:30",
+    "to_start_time": "16:30",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "06",
+    "service_type": "unknown",
+    "variant": "ΑΜΜΟΥΔΑΡΑ",
+    "note": "",
+    "from_start_time": "16:30",
+    "to_start_time": "17:00",
+    "headway_minutes": 30
+  },
+  {
+    "line_no": "06",
+    "service_type": "unknown",
+    "variant": "ΑΜΜΟΥΔΑΡΑ",
+    "note": "",
+    "from_start_time": "17:00",
+    "to_start_time": "17:00",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "06",
+    "service_type": "unknown",
+    "variant": "ΑΜΜΟΥΔΑΡΑ",
+    "note": "",
+    "from_start_time": "17:00",
+    "to_start_time": "17:30",
+    "headway_minutes": 30
+  },
+  {
+    "line_no": "06",
+    "service_type": "unknown",
+    "variant": "ΑΜΜΟΥΔΑΡΑ",
+    "note": "",
+    "from_start_time": "17:30",
+    "to_start_time": "17:30",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "06",
+    "service_type": "unknown",
+    "variant": "ΑΜΜΟΥΔΑΡΑ",
+    "note": "",
+    "from_start_time": "17:30",
+    "to_start_time": "18:00",
+    "headway_minutes": 30
+  },
+  {
+    "line_no": "06",
+    "service_type": "unknown",
+    "variant": "ΑΜΜΟΥΔΑΡΑ",
+    "note": "",
+    "from_start_time": "18:00",
+    "to_start_time": "18:00",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "06",
+    "service_type": "unknown",
+    "variant": "ΑΜΜΟΥΔΑΡΑ",
+    "note": "",
+    "from_start_time": "18:00",
+    "to_start_time": "18:30",
+    "headway_minutes": 30
+  },
+  {
+    "line_no": "06",
+    "service_type": "unknown",
+    "variant": "ΑΜΜΟΥΔΑΡΑ",
+    "note": "",
+    "from_start_time": "18:30",
+    "to_start_time": "18:30",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "06",
+    "service_type": "unknown",
+    "variant": "ΑΜΜΟΥΔΑΡΑ",
+    "note": "",
+    "from_start_time": "18:30",
+    "to_start_time": "19:00",
+    "headway_minutes": 30
+  },
+  {
+    "line_no": "06",
+    "service_type": "unknown",
+    "variant": "ΑΜΜΟΥΔΑΡΑ",
+    "note": "",
+    "from_start_time": "19:00",
+    "to_start_time": "19:30",
+    "headway_minutes": 30
+  },
+  {
+    "line_no": "06",
+    "service_type": "unknown",
+    "variant": "ΑΜΜΟΥΔΑΡΑ",
+    "note": "",
+    "from_start_time": "19:30",
+    "to_start_time": "20:00",
+    "headway_minutes": 30
+  },
+  {
+    "line_no": "07",
+    "service_type": "unknown",
+    "variant": "ΑΜΝΙΣΣΟΣ",
+    "note": "",
+    "from_start_time": "07:00",
+    "to_start_time": "07:00",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "07",
+    "service_type": "unknown",
+    "variant": "ΑΜΝΙΣΣΟΣ",
+    "note": "",
+    "from_start_time": "07:00",
+    "to_start_time": "08:00",
+    "headway_minutes": 60
+  },
+  {
+    "line_no": "07",
+    "service_type": "unknown",
+    "variant": "ΑΜΝΙΣΣΟΣ",
+    "note": "",
+    "from_start_time": "08:00",
+    "to_start_time": "09:00",
+    "headway_minutes": 60
+  },
+  {
+    "line_no": "07",
+    "service_type": "unknown",
+    "variant": "ΑΜΝΙΣΣΟΣ",
+    "note": "",
+    "from_start_time": "09:00",
+    "to_start_time": "09:00",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "07",
+    "service_type": "unknown",
+    "variant": "ΑΜΝΙΣΣΟΣ",
+    "note": "",
+    "from_start_time": "09:00",
+    "to_start_time": "10:00",
+    "headway_minutes": 60
+  },
+  {
+    "line_no": "07",
+    "service_type": "unknown",
+    "variant": "ΑΜΝΙΣΣΟΣ",
+    "note": "",
+    "from_start_time": "10:00",
+    "to_start_time": "11:00",
+    "headway_minutes": 60
+  },
+  {
+    "line_no": "07",
+    "service_type": "unknown",
+    "variant": "ΑΜΝΙΣΣΟΣ",
+    "note": "",
+    "from_start_time": "11:00",
+    "to_start_time": "11:00",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "07",
+    "service_type": "unknown",
+    "variant": "ΑΜΝΙΣΣΟΣ",
+    "note": "",
+    "from_start_time": "11:00",
+    "to_start_time": "12:00",
+    "headway_minutes": 60
+  },
+  {
+    "line_no": "07",
+    "service_type": "unknown",
+    "variant": "ΑΜΝΙΣΣΟΣ",
+    "note": "",
+    "from_start_time": "12:00",
+    "to_start_time": "13:00",
+    "headway_minutes": 60
+  },
+  {
+    "line_no": "07",
+    "service_type": "unknown",
+    "variant": "ΑΜΝΙΣΣΟΣ",
+    "note": "",
+    "from_start_time": "13:00",
+    "to_start_time": "13:00",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "07",
+    "service_type": "unknown",
+    "variant": "ΑΜΝΙΣΣΟΣ",
+    "note": "",
+    "from_start_time": "13:00",
+    "to_start_time": "14:00",
+    "headway_minutes": 60
+  },
+  {
+    "line_no": "07",
+    "service_type": "unknown",
+    "variant": "ΑΜΝΙΣΣΟΣ",
+    "note": "",
+    "from_start_time": "14:00",
+    "to_start_time": "15:00",
+    "headway_minutes": 60
+  },
+  {
+    "line_no": "07",
+    "service_type": "unknown",
+    "variant": "ΑΜΝΙΣΣΟΣ",
+    "note": "",
+    "from_start_time": "15:00",
+    "to_start_time": "15:00",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "07",
+    "service_type": "unknown",
+    "variant": "ΑΜΝΙΣΣΟΣ",
+    "note": "",
+    "from_start_time": "15:00",
+    "to_start_time": "17:00",
+    "headway_minutes": 120
+  },
+  {
+    "line_no": "07",
+    "service_type": "unknown",
+    "variant": "ΑΜΝΙΣΣΟΣ",
+    "note": "",
+    "from_start_time": "17:00",
+    "to_start_time": "17:00",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "07",
+    "service_type": "unknown",
+    "variant": "ΑΜΝΙΣΣΟΣ",
+    "note": "",
+    "from_start_time": "17:00",
+    "to_start_time": "19:00",
+    "headway_minutes": 120
+  },
+  {
+    "line_no": "07",
+    "service_type": "unknown",
+    "variant": "ΑΜΝΙΣΣΟΣ",
+    "note": "",
+    "from_start_time": "19:00",
+    "to_start_time": "19:00",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "07",
+    "service_type": "unknown",
+    "variant": "ΑΜΝΙΣΣΟΣ",
+    "note": "",
+    "from_start_time": "19:00",
+    "to_start_time": "21:00",
+    "headway_minutes": 120
+  },
+  {
+    "line_no": "07",
+    "service_type": "unknown",
+    "variant": "ΑΜΝΙΣΣΟΣ",
+    "note": "",
+    "from_start_time": "21:00",
+    "to_start_time": "21:00",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "10",
+    "service_type": "unknown",
+    "variant": "ΓΑΖΙ / ΚΑΒΡΟΧΩΡΙ",
+    "note": "",
+    "from_start_time": "06:50",
+    "to_start_time": "06:50",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "10",
+    "service_type": "unknown",
+    "variant": "ΓΑΖΙ / ΚΑΒΡΟΧΩΡΙ",
+    "note": "",
+    "from_start_time": "06:50",
+    "to_start_time": "15:15",
+    "headway_minutes": 505
+  },
+  {
+    "line_no": "10",
+    "service_type": "unknown",
+    "variant": "ΓΑΖΙ / ΚΑΒΡΟΧΩΡΙ",
+    "note": "",
+    "from_start_time": "15:15",
+    "to_start_time": "15:15",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "10",
+    "service_type": "unknown",
+    "variant": "ΓΑΖΙ",
+    "note": "",
+    "from_start_time": "07:55",
+    "to_start_time": "09:10",
+    "headway_minutes": 75
+  },
+  {
+    "line_no": "10",
+    "service_type": "unknown",
+    "variant": "ΓΑΖΙ",
+    "note": "",
+    "from_start_time": "09:10",
+    "to_start_time": "12:15",
+    "headway_minutes": 185
+  },
+  {
+    "line_no": "10",
+    "service_type": "unknown",
+    "variant": "ΓΑΖΙ",
+    "note": "",
+    "from_start_time": "12:15",
+    "to_start_time": "13:30",
+    "headway_minutes": 75
+  },
+  {
+    "line_no": "10",
+    "service_type": "unknown",
+    "variant": "ΓΑΖΙ",
+    "note": "",
+    "from_start_time": "13:30",
+    "to_start_time": "20:35",
+    "headway_minutes": 425
+  },
+  {
+    "line_no": "10",
+    "service_type": "unknown",
+    "variant": "ΓΑΖΙ",
+    "note": "",
+    "from_start_time": "20:35",
+    "to_start_time": "22:10",
+    "headway_minutes": 95
+  },
+  {
+    "line_no": "10",
+    "service_type": "unknown",
+    "variant": "ΚΑΒΡΟΧΩΡΙ",
+    "note": "",
+    "from_start_time": "10:30",
+    "to_start_time": "10:30",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "10",
+    "service_type": "unknown",
+    "variant": "ΑΕΡΟΔΡΟΜΙΟ.",
+    "note": "",
+    "from_start_time": "16:35",
+    "to_start_time": "18:00",
+    "headway_minutes": 85
+  },
+  {
+    "line_no": "10",
+    "service_type": "daily",
+    "variant": "ΓΑΖΙ / ΚΑΒΡΟΧΩΡΙ",
+    "note": "",
+    "from_start_time": "06:50",
+    "to_start_time": "15:15",
+    "headway_minutes": 505
+  },
+  {
+    "line_no": "10",
+    "service_type": "daily",
+    "variant": "ΑΕΡΟΔΡΟΜΙΟ.",
+    "note": "",
+    "from_start_time": "16:35",
+    "to_start_time": "18:00",
+    "headway_minutes": 85
+  },
+  {
+    "line_no": "11",
+    "service_type": "unknown",
+    "variant": "ΠΑ.Γ.Ν.Η. ΠΑΝΕΠΙΣΤΗΜΙΟ",
+    "note": "",
+    "from_start_time": "06:23",
+    "to_start_time": "06:23",
+    "headway_minutes": 0
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ. / ΜΕΣΑ ΒΙΠΕΗ",
+    "note": "",
+    "from_start_time": "06:40",
+    "to_start_time": "11:25",
+    "headway_minutes": 285
+  }
+]

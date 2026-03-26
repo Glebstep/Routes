@@ -1,0 +1,582 @@
+[
+  {
+    "line_no": "10",
+    "service_type": "daily",
+    "variant": "ΓΑΖΙ",
+    "note": "",
+    "trip_count": 36,
+    "min_trip_minutes": 25,
+    "max_trip_minutes": 55,
+    "avg_trip_minutes": 40.86
+  },
+  {
+    "line_no": "10",
+    "service_type": "daily",
+    "variant": "ΓΑΖΙ ΚΑΒΡΟΧΩΡΙ",
+    "note": "",
+    "trip_count": 18,
+    "min_trip_minutes": 40,
+    "max_trip_minutes": 65,
+    "avg_trip_minutes": 51.17
+  },
+  {
+    "line_no": "11",
+    "service_type": "daily",
+    "variant": "ΠΑ.Γ.Ν.Η. / Ι.Τ.Ε. / FORTH",
+    "note": "",
+    "trip_count": 2,
+    "min_trip_minutes": 36,
+    "max_trip_minutes": 36,
+    "avg_trip_minutes": 36.0
+  },
+  {
+    "line_no": "11",
+    "service_type": "daily",
+    "variant": "ΠΑΓΝΗ / Ι.Τ.Ε. FORTH / ΠΑΝΕΠΙΣΤΗΜΙΟ",
+    "note": "",
+    "trip_count": 13,
+    "min_trip_minutes": 25,
+    "max_trip_minutes": 35,
+    "avg_trip_minutes": 30.62
+  },
+  {
+    "line_no": "11",
+    "service_type": "unknown",
+    "variant": "ΠΑΓΝΗ / Ι.Τ.Ε. FORTH / ΠΑΝΕΠΙΣΤΗΜΙΟ",
+    "note": "",
+    "trip_count": 3,
+    "min_trip_minutes": 32,
+    "max_trip_minutes": 35,
+    "avg_trip_minutes": 33.0
+  },
+  {
+    "line_no": "11",
+    "service_type": "daily",
+    "variant": "ΠΑ.Γ.Ν.Η. / ΠΑΝΕΠ/ΜΙΟ- ΑΕΡΟΔΡΟΜΙΟ",
+    "note": "",
+    "trip_count": 2,
+    "min_trip_minutes": 30,
+    "max_trip_minutes": 30,
+    "avg_trip_minutes": 30.0
+  },
+  {
+    "line_no": "11",
+    "service_type": "daily",
+    "variant": "ΠΑ.Γ.Ν.Η. / Ι.Τ.Ε. / FORTH / ΠΑΝΕΠ/ΜΙΟ",
+    "note": "",
+    "trip_count": 2,
+    "min_trip_minutes": 36,
+    "max_trip_minutes": 36,
+    "avg_trip_minutes": 36.0
+  },
+  {
+    "line_no": "11",
+    "service_type": "daily",
+    "variant": "ΠΑ.Γ.Ν.Η. / Ι.Τ.Ε. FORTH / ΠΑΝΕΠΙΣΤΗΜΙΟ",
+    "note": "",
+    "trip_count": 16,
+    "min_trip_minutes": 25,
+    "max_trip_minutes": 35,
+    "avg_trip_minutes": 30.75
+  },
+  {
+    "line_no": "12",
+    "service_type": "daily",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "trip_count": 84,
+    "min_trip_minutes": 25,
+    "max_trip_minutes": 57,
+    "avg_trip_minutes": 43.77
+  },
+  {
+    "line_no": "12",
+    "service_type": "daily",
+    "variant": "ΕΛ.ΜΕ.ΠΑ",
+    "note": "",
+    "trip_count": 6,
+    "min_trip_minutes": 40,
+    "max_trip_minutes": 45,
+    "avg_trip_minutes": 42.67
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "trip_count": 164,
+    "min_trip_minutes": 25,
+    "max_trip_minutes": 52,
+    "avg_trip_minutes": 40.24
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ",
+    "note": "",
+    "trip_count": 5,
+    "min_trip_minutes": 40,
+    "max_trip_minutes": 45,
+    "avg_trip_minutes": 42.2
+  },
+  {
+    "line_no": "14",
+    "service_type": "daily",
+    "variant": "ΒΙ.ΠΕ.Η.",
+    "note": "",
+    "trip_count": 6,
+    "min_trip_minutes": 35,
+    "max_trip_minutes": 52,
+    "avg_trip_minutes": 42.83
+  },
+  {
+    "line_no": "15",
+    "service_type": "daily",
+    "variant": "ΦΟΙΝΙΚΙΑ",
+    "note": "",
+    "trip_count": 1,
+    "min_trip_minutes": 30,
+    "max_trip_minutes": 30,
+    "avg_trip_minutes": 30.0
+  },
+  {
+    "line_no": "15",
+    "service_type": "daily",
+    "variant": "ΦΟΙΝΙΚΙΑ / ΜΑΛΑΔΕΣ",
+    "note": "",
+    "trip_count": 2,
+    "min_trip_minutes": 35,
+    "max_trip_minutes": 37,
+    "avg_trip_minutes": 36.0
+  },
+  {
+    "line_no": "19",
+    "service_type": "daily",
+    "variant": "Ι.Κ.Α. / ΑΘΑΝΑΤΟΙ / ΓΟΥΡΝΕΣ / ΕΛΜΕΠΑ",
+    "note": "",
+    "trip_count": 1,
+    "min_trip_minutes": 30,
+    "max_trip_minutes": 30,
+    "avg_trip_minutes": 30.0
+  },
+  {
+    "line_no": "19",
+    "service_type": "daily",
+    "variant": "ΕΛΜΕΠΑ / ΓΟΥΡΝΕΣ / ΑΘΑΝΑΤΟΙ / ΕΛΜΕΠΑ",
+    "note": "",
+    "trip_count": 1,
+    "min_trip_minutes": 48,
+    "max_trip_minutes": 48,
+    "avg_trip_minutes": 48.0
+  },
+  {
+    "line_no": "02",
+    "service_type": "daily",
+    "variant": "ΚΝΩΣΣΟΣ",
+    "note": "",
+    "trip_count": 53,
+    "min_trip_minutes": 15,
+    "max_trip_minutes": 30,
+    "avg_trip_minutes": 25.0
+  },
+  {
+    "line_no": "02",
+    "service_type": "daily",
+    "variant": "ΣΚΑΛΑΝΙ",
+    "note": "",
+    "trip_count": 11,
+    "min_trip_minutes": 20,
+    "max_trip_minutes": 30,
+    "avg_trip_minutes": 28.18
+  },
+  {
+    "line_no": "02",
+    "service_type": "unknown",
+    "variant": "ΣΚΑΛΑΝΙ",
+    "note": "",
+    "trip_count": 7,
+    "min_trip_minutes": 20,
+    "max_trip_minutes": 30,
+    "avg_trip_minutes": 28.57
+  },
+  {
+    "line_no": "02",
+    "service_type": "unknown",
+    "variant": "ΚΝΩΣΣΟΣ",
+    "note": "",
+    "trip_count": 76,
+    "min_trip_minutes": 15,
+    "max_trip_minutes": 30,
+    "avg_trip_minutes": 25.99
+  },
+  {
+    "line_no": "02",
+    "service_type": "unknown",
+    "variant": "ΣΚΑΛΑΝΙ",
+    "note": "Σροφή Κάτω",
+    "trip_count": 2,
+    "min_trip_minutes": 30,
+    "max_trip_minutes": 35,
+    "avg_trip_minutes": 32.5
+  },
+  {
+    "line_no": "02",
+    "service_type": "unknown",
+    "variant": "ΚΝΩΣΣΟΣ / ΛΙΜΑΝΙ",
+    "note": "",
+    "trip_count": 3,
+    "min_trip_minutes": 15,
+    "max_trip_minutes": 25,
+    "avg_trip_minutes": 20.0
+  },
+  {
+    "line_no": "02",
+    "service_type": "daily",
+    "variant": "ΣΚΑΛΑΝΙ",
+    "note": "Σροφή Κάτω",
+    "trip_count": 2,
+    "min_trip_minutes": 30,
+    "max_trip_minutes": 35,
+    "avg_trip_minutes": 32.5
+  },
+  {
+    "line_no": "02",
+    "service_type": "daily",
+    "variant": "KNOSSOS",
+    "note": "",
+    "trip_count": 23,
+    "min_trip_minutes": 20,
+    "max_trip_minutes": 30,
+    "avg_trip_minutes": 24.57
+  },
+  {
+    "line_no": "02",
+    "service_type": "daily",
+    "variant": "SKALANI",
+    "note": "",
+    "trip_count": 7,
+    "min_trip_minutes": 25,
+    "max_trip_minutes": 30,
+    "avg_trip_minutes": 28.57
+  },
+  {
+    "line_no": "02",
+    "service_type": "unknown",
+    "variant": "SKALANI",
+    "note": "",
+    "trip_count": 3,
+    "min_trip_minutes": 30,
+    "max_trip_minutes": 30,
+    "avg_trip_minutes": 30.0
+  },
+  {
+    "line_no": "02",
+    "service_type": "unknown",
+    "variant": "KNOSSOS",
+    "note": "",
+    "trip_count": 28,
+    "min_trip_minutes": 15,
+    "max_trip_minutes": 25,
+    "avg_trip_minutes": 24.46
+  },
+  {
+    "line_no": "02",
+    "service_type": "unknown",
+    "variant": "SKALANI",
+    "note": "Suction Down",
+    "trip_count": 2,
+    "min_trip_minutes": 30,
+    "max_trip_minutes": 35,
+    "avg_trip_minutes": 32.5
+  },
+  {
+    "line_no": "02",
+    "service_type": "daily",
+    "variant": "SKALANI",
+    "note": "Suction Down",
+    "trip_count": 2,
+    "min_trip_minutes": 30,
+    "max_trip_minutes": 35,
+    "avg_trip_minutes": 32.5
+  },
+  {
+    "line_no": "23",
+    "service_type": "daily",
+    "variant": "ΝΕΟ ΚΟΙΜΗΤΗΡΙΟ.",
+    "note": "",
+    "trip_count": 2,
+    "min_trip_minutes": 85,
+    "max_trip_minutes": 85,
+    "avg_trip_minutes": 85.0
+  },
+  {
+    "line_no": "03",
+    "service_type": "daily",
+    "variant": "ΦΟΡΤΕΤΣΑ",
+    "note": "",
+    "trip_count": 40,
+    "min_trip_minutes": 20,
+    "max_trip_minutes": 30,
+    "avg_trip_minutes": 26.0
+  },
+  {
+    "line_no": "06",
+    "service_type": "daily",
+    "variant": "ΑΜΜΟΥΔΑΡΑ",
+    "note": "",
+    "trip_count": 55,
+    "min_trip_minutes": 32,
+    "max_trip_minutes": 50,
+    "avg_trip_minutes": 48.33
+  },
+  {
+    "line_no": "06",
+    "service_type": "daily",
+    "variant": "AMMOUDARA- AIRPORT",
+    "note": "",
+    "trip_count": 27,
+    "min_trip_minutes": 32,
+    "max_trip_minutes": 50,
+    "avg_trip_minutes": 47.15
+  },
+  {
+    "line_no": "06",
+    "service_type": "unknown",
+    "variant": "AMMOUDARA- AIRPORT",
+    "note": "",
+    "trip_count": 13,
+    "min_trip_minutes": 45,
+    "max_trip_minutes": 50,
+    "avg_trip_minutes": 49.62
+  },
+  {
+    "line_no": "07",
+    "service_type": "daily",
+    "variant": "ΑΜΝΙΣΣΟΣ",
+    "note": "",
+    "trip_count": 11,
+    "min_trip_minutes": 45,
+    "max_trip_minutes": 45,
+    "avg_trip_minutes": 45.0
+  },
+  {
+    "line_no": "12",
+    "service_type": "daily",
+    "variant": "ΑΜΝΙΣΣΟΣ / ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "trip_count": 1,
+    "min_trip_minutes": 40,
+    "max_trip_minutes": 40,
+    "avg_trip_minutes": 40.0
+  },
+  {
+    "line_no": "09",
+    "service_type": "daily",
+    "variant": "",
+    "note": "",
+    "trip_count": 5,
+    "min_trip_minutes": 30,
+    "max_trip_minutes": 40,
+    "avg_trip_minutes": 35.0
+  },
+  {
+    "line_no": "09",
+    "service_type": "daily",
+    "variant": "ΑΓ ΣΥΛΛΑΣ / ΑΓ. ΒΛΑΣΣΗ / ΕΞΩ ΒΑΣΙΛΕΙΕΣ",
+    "note": "",
+    "trip_count": 2,
+    "min_trip_minutes": 25,
+    "max_trip_minutes": 30,
+    "avg_trip_minutes": 27.5
+  },
+  {
+    "line_no": "11",
+    "service_type": "unknown",
+    "variant": "ΠΑΓΝΗ ΠΑΝΕΠ/ΜΙΟ",
+    "note": "",
+    "trip_count": 2,
+    "min_trip_minutes": 25,
+    "max_trip_minutes": 25,
+    "avg_trip_minutes": 25.0
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛΜΕΠΑ",
+    "note": "",
+    "trip_count": 2,
+    "min_trip_minutes": 40,
+    "max_trip_minutes": 40,
+    "avg_trip_minutes": 40.0
+  },
+  {
+    "line_no": "23",
+    "service_type": "daily",
+    "variant": "ΝΕΟ ΚΟΙΜΗΤΗΡΙΟ",
+    "note": "",
+    "trip_count": 1,
+    "min_trip_minutes": 90,
+    "max_trip_minutes": 90,
+    "avg_trip_minutes": 90.0
+  },
+  {
+    "line_no": "06",
+    "service_type": "unknown",
+    "variant": "ΑΜΜΟΥΔΑΡΑ",
+    "note": "",
+    "trip_count": 56,
+    "min_trip_minutes": 30,
+    "max_trip_minutes": 50,
+    "avg_trip_minutes": 47.68
+  },
+  {
+    "line_no": "07",
+    "service_type": "unknown",
+    "variant": "ΑΜΝΙΣΣΟΣ",
+    "note": "",
+    "trip_count": 20,
+    "min_trip_minutes": 45,
+    "max_trip_minutes": 45,
+    "avg_trip_minutes": 45.0
+  },
+  {
+    "line_no": "10",
+    "service_type": "unknown",
+    "variant": "ΓΑΖΙ / ΚΑΒΡΟΧΩΡΙ",
+    "note": "",
+    "trip_count": 4,
+    "min_trip_minutes": 30,
+    "max_trip_minutes": 30,
+    "avg_trip_minutes": 30.0
+  },
+  {
+    "line_no": "10",
+    "service_type": "unknown",
+    "variant": "ΓΑΖΙ",
+    "note": "",
+    "trip_count": 6,
+    "min_trip_minutes": 25,
+    "max_trip_minutes": 40,
+    "avg_trip_minutes": 32.5
+  },
+  {
+    "line_no": "10",
+    "service_type": "unknown",
+    "variant": "ΚΑΒΡΟΧΩΡΙ",
+    "note": "",
+    "trip_count": 2,
+    "min_trip_minutes": 40,
+    "max_trip_minutes": 40,
+    "avg_trip_minutes": 40.0
+  },
+  {
+    "line_no": "10",
+    "service_type": "unknown",
+    "variant": "ΑΕΡΟΔΡΟΜΙΟ.",
+    "note": "",
+    "trip_count": 2,
+    "min_trip_minutes": 35,
+    "max_trip_minutes": 40,
+    "avg_trip_minutes": 37.5
+  },
+  {
+    "line_no": "10",
+    "service_type": "daily",
+    "variant": "ΓΑΖΙ / ΚΑΒΡΟΧΩΡΙ",
+    "note": "",
+    "trip_count": 2,
+    "min_trip_minutes": 30,
+    "max_trip_minutes": 30,
+    "avg_trip_minutes": 30.0
+  },
+  {
+    "line_no": "10",
+    "service_type": "daily",
+    "variant": "ΚΑΒΡΟΧΩΡΙ",
+    "note": "",
+    "trip_count": 1,
+    "min_trip_minutes": 40,
+    "max_trip_minutes": 40,
+    "avg_trip_minutes": 40.0
+  },
+  {
+    "line_no": "10",
+    "service_type": "daily",
+    "variant": "ΑΕΡΟΔΡΟΜΙΟ.",
+    "note": "",
+    "trip_count": 2,
+    "min_trip_minutes": 35,
+    "max_trip_minutes": 40,
+    "avg_trip_minutes": 37.5
+  },
+  {
+    "line_no": "11",
+    "service_type": "unknown",
+    "variant": "ΠΑ.Γ.Ν.Η. ΠΑΝΕΠΙΣΤΗΜΙΟ",
+    "note": "",
+    "trip_count": 2,
+    "min_trip_minutes": 27,
+    "max_trip_minutes": 27,
+    "avg_trip_minutes": 27.0
+  },
+  {
+    "line_no": "11",
+    "service_type": "daily",
+    "variant": "ΠΑ.Γ.Ν.Η. ΠΑΝ/ΜΙΟ",
+    "note": "",
+    "trip_count": 1,
+    "min_trip_minutes": 40,
+    "max_trip_minutes": 40,
+    "avg_trip_minutes": 40.0
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ. / ΜΕΣΑ ΒΙΠΕΗ",
+    "note": "",
+    "trip_count": 2,
+    "min_trip_minutes": 30,
+    "max_trip_minutes": 35,
+    "avg_trip_minutes": 32.5
+  },
+  {
+    "line_no": "12",
+    "service_type": "unknown",
+    "variant": "ΑΛΛΙΚΑΡΝΑΣΟΣ / ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "trip_count": 1,
+    "min_trip_minutes": 35,
+    "max_trip_minutes": 35,
+    "avg_trip_minutes": 35.0
+  },
+  {
+    "line_no": "13",
+    "service_type": "unknown",
+    "variant": "ΕΛ.ΜΕ.ΠΑ.",
+    "note": "",
+    "trip_count": 1,
+    "min_trip_minutes": 42,
+    "max_trip_minutes": 42,
+    "avg_trip_minutes": 42.0
+  },
+  {
+    "line_no": "09",
+    "service_type": "daily",
+    "variant": "ΒΑΣΙΛΕΙΕΣ / ΑΓ. ΒΛΑΣΣΗΣ / ΑΓ. ΣΥΛΛΑΣ",
+    "note": "",
+    "trip_count": 1,
+    "min_trip_minutes": 35,
+    "max_trip_minutes": 35,
+    "avg_trip_minutes": 35.0
+  },
+  {
+    "line_no": "09",
+    "service_type": "daily",
+    "variant": "ΑΓ. ΒΛΑΣΣΗΣ / ΑΓ. ΣΥΛΛΑΣ",
+    "note": "",
+    "trip_count": 1,
+    "min_trip_minutes": 35,
+    "max_trip_minutes": 35,
+    "avg_trip_minutes": 35.0
+  }
+]

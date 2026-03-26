@@ -1,0 +1,36 @@
+[
+  {
+    "trip_index": 19,
+    "line_no": "11",
+    "route_text_raw": "ΑΕΡΟΔΡΟΜΙΟ - ΠΑΓΝΗ ΠΑΝΕΠ/ΜΙΟ - ΑΕΡΟΔΡΟΜΙΟ",
+    "variant": "ΠΑΓΝΗ ΠΑΝΕΠ/ΜΙΟ",
+    "origin": "ΑΕΡΟΔΡΟΜΙΟ",
+    "destination": "ΑΕΡΟΔΡΟΜΙΟ",
+    "note": null,
+    "start_time": "22:45",
+    "terminal_time": "23:10",
+    "start_minutes": 1365,
+    "terminal_minutes": 1390,
+    "trip_minutes": 25,
+    "service_type": "unknown",
+    "source_pdf": "kur11.pdf",
+    "source_page": 1
+  },
+  {
+    "trip_index": 33,
+    "line_no": "11",
+    "route_text_raw": "ΑΕΡΟΔΡΟΜΙΟ - ΠΑΓΝΗ ΠΑΝΕΠ/ΜΙΟ - ΑΕΡΟΔΡΟΜΙΟ",
+    "variant": "ΠΑΓΝΗ ΠΑΝΕΠ/ΜΙΟ",
+    "origin": "ΑΕΡΟΔΡΟΜΙΟ",
+    "destination": "ΑΕΡΟΔΡΟΜΙΟ",
+    "note": null,
+    "start_time": "22:45",
+    "terminal_time": "23:10",
+    "start_minutes": 1365,
+    "terminal_minutes": 1390,
+    "trip_minutes": 25,
+    "service_type": "unknown",
+    "source_pdf": "kur11.pdf",
+    "source_page": 2
+  }
+]

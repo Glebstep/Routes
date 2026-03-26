@@ -1,0 +1,2 @@
+trip_index,line_no,route_text_raw,variant,origin,destination,note,start_time,terminal_time,start_minutes,terminal_minutes,trip_minutes,service_type,source_pdf,source_page
+1,23,ΓΙΟΦΥΡΟ - ΝΕΟ ΚΟΙΜΗΤΗΡΙΟ,ΝΕΟ ΚΟΙΜΗΤΗΡΙΟ,ΓΙΟΦΥΡΟ,ΝΕΟ ΚΟΙΜΗΤΗΡΙΟ,,09:00,10:30,540,630,90,daily,kur23.pdf,1

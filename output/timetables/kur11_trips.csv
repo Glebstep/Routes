@@ -1,0 +1,3 @@
+trip_index,line_no,route_text_raw,variant,origin,destination,note,start_time,terminal_time,start_minutes,terminal_minutes,trip_minutes,service_type,source_pdf,source_page
+19,11,ΑΕΡΟΔΡΟΜΙΟ - ΠΑΓΝΗ ΠΑΝΕΠ/ΜΙΟ - ΑΕΡΟΔΡΟΜΙΟ,ΠΑΓΝΗ ΠΑΝΕΠ/ΜΙΟ,ΑΕΡΟΔΡΟΜΙΟ,ΑΕΡΟΔΡΟΜΙΟ,,22:45,23:10,1365,1390,25,unknown,kur11.pdf,1
+33,11,ΑΕΡΟΔΡΟΜΙΟ - ΠΑΓΝΗ ΠΑΝΕΠ/ΜΙΟ - ΑΕΡΟΔΡΟΜΙΟ,ΠΑΓΝΗ ΠΑΝΕΠ/ΜΙΟ,ΑΕΡΟΔΡΟΜΙΟ,ΑΕΡΟΔΡΟΜΙΟ,,22:45,23:10,1365,1390,25,unknown,kur11.pdf,2

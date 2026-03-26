@@ -1,0 +1,4 @@
+trip_index,line_no,route_text_raw,variant,origin,destination,note,start_time,terminal_time,start_minutes,terminal_minutes,trip_minutes,service_type,source_pdf,source_page
+1,11,ΑΕΡΟΔΡΟΜΙΟ - ΠΑ.Γ.Ν.Η. ΠΑΝΕΠΙΣΤΗΜΙΟ - ΑΜΝΙΣΣΟ,ΠΑ.Γ.Ν.Η. ΠΑΝΕΠΙΣΤΗΜΙΟ,ΑΕΡΟΔΡΟΜΙΟ,ΑΜΝΙΣΣΟ,,06:23,06:50,383,410,27,unknown,s11.pdf,1
+1,11,ΑΕΡΟΔΡΟΜΙΟ - ΠΑ.Γ.Ν.Η. ΠΑΝΕΠΙΣΤΗΜΙΟ - ΑΜΝΙΣΣΟ,ΠΑ.Γ.Ν.Η. ΠΑΝΕΠΙΣΤΗΜΙΟ,ΑΕΡΟΔΡΟΜΙΟ,ΑΜΝΙΣΣΟ,,06:23,06:50,383,410,27,unknown,s11.pdf,2
+19,11,ΑΕΡΟΔΡΟΜΙΟ - ΠΑ.Γ.Ν.Η. ΠΑΝ/ΜΙΟ - ΑΕΡΟΔΡΟΜΙΟ,ΠΑ.Γ.Ν.Η. ΠΑΝ/ΜΙΟ,ΑΕΡΟΔΡΟΜΙΟ,ΑΕΡΟΔΡΟΜΙΟ,,22:30,23:10,1350,1390,40,daily,s11.pdf,3

@@ -1,0 +1,53 @@
+[
+  {
+    "trip_index": 1,
+    "line_no": "15",
+    "route_text_raw": "ΑΕΡΟΔΡΟΜΙΟ - ΦΟΙΝΙΚΙΑ - ΜΑΛΑΔΕΣ- ΑΕΡΟΔΡΟΜΙΟ",
+    "variant": "ΦΟΙΝΙΚΙΑ",
+    "origin": "ΑΕΡΟΔΡΟΜΙΟ",
+    "destination": "ΜΑΛΑΔΕΣ- ΑΕΡΟΔΡΟΜΙΟ",
+    "note": null,
+    "start_time": "06:40",
+    "terminal_time": "07:10",
+    "start_minutes": 400,
+    "terminal_minutes": 430,
+    "trip_minutes": 30,
+    "service_type": "daily",
+    "source_pdf": "k15.pdf",
+    "source_page": 1
+  },
+  {
+    "trip_index": 2,
+    "line_no": "15",
+    "route_text_raw": "ΑΕΡΟΔΡΟΜΙΟ - ΦΟΙΝΙΚΙΑ - ΜΑΛΑΔΕΣ - ΑΕΡΟΔΡΟΜΙΟ",
+    "variant": "ΦΟΙΝΙΚΙΑ / ΜΑΛΑΔΕΣ",
+    "origin": "ΑΕΡΟΔΡΟΜΙΟ",
+    "destination": "ΑΕΡΟΔΡΟΜΙΟ",
+    "note": null,
+    "start_time": "14:13",
+    "terminal_time": "14:50",
+    "start_minutes": 853,
+    "terminal_minutes": 890,
+    "trip_minutes": 37,
+    "service_type": "daily",
+    "source_pdf": "k15.pdf",
+    "source_page": 1
+  },
+  {
+    "trip_index": 3,
+    "line_no": "15",
+    "route_text_raw": "ΑΕΡΟΔΡΟΜΙΟ - ΦΟΙΝΙΚΙΑ - ΜΑΛΑΔΕΣ - ΑΕΡΟΔΡΟΜΙΟ",
+    "variant": "ΦΟΙΝΙΚΙΑ / ΜΑΛΑΔΕΣ",
+    "origin": "ΑΕΡΟΔΡΟΜΙΟ",
+    "destination": "ΑΕΡΟΔΡΟΜΙΟ",
+    "note": null,
+    "start_time": "16:05",
+    "terminal_time": "16:40",
+    "start_minutes": 965,
+    "terminal_minutes": 1000,
+    "trip_minutes": 35,
+    "service_type": "daily",
+    "source_pdf": "k15.pdf",
+    "source_page": 1
+  }
+]
