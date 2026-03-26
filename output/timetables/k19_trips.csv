@@ -1,3 +1,0 @@
-trip_index,line_no,route_text_raw,variant,origin,destination,note,start_time,terminal_time,start_minutes,terminal_minutes,trip_minutes,service_type,source_pdf,source_page
-1,19,ΑΜΝΙΣΣΟΣ - Ι.Κ.Α. - ΑΘΑΝΑΤΟΙ - ΓΟΥΡΝΕΣ - ΕΛΜΕΠΑ - ΑΕΡΟΔΡΟΜΙΟ,Ι.Κ.Α. / ΑΘΑΝΑΤΟΙ / ΓΟΥΡΝΕΣ / ΕΛΜΕΠΑ,ΑΜΝΙΣΣΟΣ,ΑΕΡΟΔΡΟΜΙΟ,,07:05,07:35,425,455,30,daily,k19.pdf,1
-2,19,ΑΕΡΟΔΡΟΜΙΟ - ΕΛΜΕΠΑ - ΓΟΥΡΝΕΣ - ΑΘΑΝΑΤΟΙ - ΕΛΜΕΠΑ - ΑΕΡΟΔΡΟΜΙΟ,ΕΛΜΕΠΑ / ΓΟΥΡΝΕΣ / ΑΘΑΝΑΤΟΙ / ΕΛΜΕΠΑ,ΑΕΡΟΔΡΟΜΙΟ,ΑΕΡΟΔΡΟΜΙΟ,,13:52,14:40,832,880,48,daily,k19.pdf,1
