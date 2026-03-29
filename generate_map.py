@@ -55,7 +55,7 @@ def build_lines_lookup(lines):
             "color": color,
             "routes": [],
             "timetable_stats": l.get("timetable_stats", []),
-            "headways": l.get("headways", []),
+            "headways": l.get("timetable_headways", l.get("headways", [])),
         }
 
         for r in l.get("routes", []):
