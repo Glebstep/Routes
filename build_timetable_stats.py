@@ -40,7 +40,10 @@ def build_variant_stats(rows: list[dict]) -> list[dict]:
             row.get("variant"),
             row.get("note"),
         )
-        grouped[key].append(int(row["trip_minutes"]))
+        val = row.get("trip_minutes", "").strip()
+        if val:
+          grouped[key].append(int(val))
+
 
     result = []
     for (line_no, service_type, variant, note), values in grouped.items():

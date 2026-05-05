@@ -12,7 +12,13 @@ import pdfplumber
 
 TIME_RE = r"([0-2]?\d:\d{2})"
 ROW_RE = re.compile(
-    rf"^\s*(?:(?P<idx>\d+)\s+)?(?P<route>.+?)\s+{TIME_RE}\s+{TIME_RE}(?:\s+(?P<line>\d+))?\s*$"
+    rf"^\s*(?:(?P<idx>\d+)\s+)?(?P<route>.+?)\s+{TIME_RE}"
+    rf"(?:\s+{TIME_RE}|\s+[.\-\s]+)"
+    rf"(?:\s+(?P<line>\d+))?\s*$"
+)
+
+FALLBACK_RE = re.compile(
+    rf"^\s*(?:(?P<idx>\d+)\s+)?(?P<route>.+?)\s+{TIME_RE}\s+(?P<line>\d+)\s*$"
 )
 
 
@@ -26,10 +32,10 @@ class TripRecord:
     destination: Optional[str]
     note: Optional[str]
     start_time: str
-    terminal_time: str
+    terminal_time: Optional[str]
     start_minutes: int
-    terminal_minutes: int
-    trip_minutes: int
+    terminal_minutes: Optional[int]
+    trip_minutes: Optional[int]
     service_type: str
     source_pdf: str
     source_page: int
@@ -61,9 +67,9 @@ def detect_service_type(text: str) -> str:
     low = text.lower()
     if "daily" in low or "καθημεριν" in low:
         return "daily"
-    if "saturday" in low:
+    if "saturday" in low or "σαββατ" in low:
         return "saturday"
-    if "sunday" in low or "holiday" in low:
+    if "sunday" in low or "holiday" in low or "κυριακ" in low:
         return "sunday_holiday"
     return "unknown"
 
@@ -117,8 +123,37 @@ def is_probably_data_row(line: str) -> bool:
         "traffic office",
         "info@",
         "http://",
+        "κεντρικά γραφεία",
+        "σταθμός αναχώρησης",
+        "head offices",
+        "airport bus",
+        "port bus",
     ]
     return not any(marker in low for marker in bad_markers)
+
+
+def preprocess_line(line: str) -> str:
+    """Normalize edge-case formatting before regex matching."""
+    # Remove */ and standalone * (but keep * inside words)
+    line = re.sub(r"\s+\*/\s*", " ", line)
+    line = re.sub(r"\s+\*\s+", " ", line)
+    line = re.sub(r"^(\s*\d+)\s+\*\s+", r"\1 ", line)  # "1 * route" → "1 route"
+
+    # Dual times: 06:40/06:47 → keep first
+    line = re.sub(r"(\d{1,2}:\d{2})/\d{1,2}:\d{2}", r"\1", line)
+
+    # Fix split line number at end: "1 0" → "10" (only at line end after dashes/dots)
+    line = re.sub(r"(\d)\s+(\d)\s*$", r"\1\2", line)
+
+    # Reversed order: "route . . . . . 06:40 07" → "route 06:40 . . . . . 07"
+    m = re.match(
+        r"^(\s*\d+\s+.+?)\s+([.\-\s]{5,})\s+(\d{1,2}:\d{2})\s+(\d+)\s*$",
+        line,
+    )
+    if m:
+        line = f"{m.group(1)} {m.group(3)} {m.group(2)} {m.group(4)}"
+
+    return line
 
 
 def parse_row(line: str, service_type: str, source_pdf: str, source_page: int) -> Optional[TripRecord]:
@@ -126,22 +161,40 @@ def parse_row(line: str, service_type: str, source_pdf: str, source_page: int) -
     if not is_probably_data_row(line):
         return None
 
+    line = preprocess_line(line)
+
     m = ROW_RE.match(line)
+    use_fallback = False
+
+    if not m:
+        m = FALLBACK_RE.match(line)
+        use_fallback = True
+
     if not m:
         return None
 
     trip_index = int(m.group("idx")) if m.group("idx") else None
     route_text_raw = clean_route_text(m.group("route"))
     start_time = normalize_time_str(m.group(3))
-    terminal_time = normalize_time_str(m.group(4))
     line_no = m.group("line")
+
+    if use_fallback:
+        terminal_time_raw = None
+    else:
+        try:
+            terminal_time_raw = m.group(4)
+        except IndexError:
+            terminal_time_raw = None
+
+    terminal_time = normalize_time_str(terminal_time_raw) if terminal_time_raw else None
 
     origin, variant, destination, note = split_route_parts(route_text_raw)
 
     start_minutes = hhmm_to_minutes(start_time)
-    terminal_minutes = hhmm_to_minutes(terminal_time)
-    terminal_minutes = adjust_rollover(start_minutes, terminal_minutes)
-    trip_minutes = terminal_minutes - start_minutes
+    terminal_minutes = hhmm_to_minutes(terminal_time) if terminal_time else None
+    if terminal_minutes is not None:
+        terminal_minutes = adjust_rollover(start_minutes, terminal_minutes)
+    trip_minutes = (terminal_minutes - start_minutes) if terminal_minutes is not None else None
 
     return TripRecord(
         trip_index=trip_index,
@@ -191,6 +244,8 @@ def parse_pdf_timetable(pdf_path: str | Path) -> List[TripRecord]:
                 )
                 if rec:
                     records.append(rec)
+                elif re.search(r"\d{1,2}:\d{2}", raw_line) and re.match(r"\s*\d+\s+", raw_line):
+                    print(f"  SKIPPED: {raw_line.strip()!r}")
 
     inferred_line = infer_line_no_from_filename(pdf_path.name)
     for r in records:
